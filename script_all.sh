@@ -3,7 +3,7 @@
 cd /home/annie/Settings
 
 #Augabedatei
-OUT="service.xml"
+OUT="services.xml"
 start=$(cat ./start/start.xml)
 sata=$(cat ./0.8W/0.8W.xml)
 satb=$(cat ./4.8E/4.8E.xml)
