@@ -32,7 +32,7 @@ echo "$ssath" >> $SOUT
 echo "$ssati" >> $SOUT
 echo "$ssatj" >> $SOUT
 echo "$send" >> $SOUT
-cp $SOUT ~/Settings/all/
+cp $SOUT ~/Settings/28.2E_26.0E_23.5E_19.2E_16.0E_13.0E_9.0E_7.0E_4.8E_0.8W/
 
 BOUT="bouquets.xml"
 bstart=$(cat ./start/bstart.xml)
@@ -59,7 +59,7 @@ echo "$bsath" >> $BOUT
 echo "$bsati" >> $BOUT
 echo "$bsatj" >> $BOUT
 echo "$bend" >> $BOUT
-cp $BOUT ~/Settings/all/
+cp $BOUT ~/Settings/28.2E_26.0E_23.5E_19.2E_16.0E_13.0E_9.0E_7.0E_4.8E_0.8W/
 
 SATOUT="satellites.xml"
 satstart=$(cat ./start/satstart.xml)
@@ -86,5 +86,5 @@ echo "$satsath" >> $SATOUT
 echo "$satsati" >> $SATOUT
 echo "$satsatj" >> $SATOUT
 echo "$satend" >> $SATOUT
-cp $SATOUT ~/Settings/all/
+cp $SATOUT ~/Settings/28.2E_26.0E_23.5E_19.2E_16.0E_13.0E_9.0E_7.0E_4.8E_0.8W/
 
