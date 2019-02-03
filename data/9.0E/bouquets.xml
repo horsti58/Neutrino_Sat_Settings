@@ -1,5 +1,8 @@
 	<Bouquet name="[E009.0] aCAN Group">
+		<S i="1b1" t="170c" on="9e" s="90" frq="11900" n="EBS+HD"/>
+		<S i="e9" t="170c" on="9e" s="90" frq="11900" n="EBSHD"/>
 		<S i="25e" t="c3c8" on="9e" s="90" frq="11938" n="RTS2"/>
+		<S i="65" t="170c" on="9e" s="90" frq="11900" n="RTS2"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] ARC/DCM1 TSOIP">
 		<S i="166" t="19c8" on="9e" s="90" frq="12034" n="Disney Channel ME"/>
@@ -52,6 +55,7 @@
 		<S i="196" t="1964" on="9c" s="90" frq="12015" n="SUPER RTL HD"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] DVB">
+		<S i="db5" t="16a8" on="9c" s="90" frq="11881" n="RTI"/>
 		<S i="db2" t="16a8" on="9c" s="90" frq="11881" n="World Fashion Channel"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] Encoder">
@@ -73,6 +77,7 @@
 	<Bouquet name="[E009.0] Eutelsat">
 		<S i="73a" t="1" on="64" s="90" frq="11823" n="Athavan TV"/>
 		<S i="672" t="170c" on="9e" s="90" frq="11900" n="myZen.tv HD"/>
+		<S i="dbb" t="16a8" on="9c" s="90" frq="11881" n="ORTB TV"/>
 		<S i="db5" t="16a8" on="9c" s="90" frq="11881" n="RTI"/>
 		<S i="712" t="1" on="64" s="90" frq="11823" n="SISAL 1"/>
 		<S i="71c" t="1" on="64" s="90" frq="11823" n="SISAL 2"/>
@@ -111,6 +116,9 @@
 	<Bouquet name="[E009.0] iKO Media Group">
 		<S i="dbe" t="16a8" on="9c" s="90" frq="11881" n="Love Nature HD"/>
 		<S i="dbd" t="16a8" on="9c" s="90" frq="11881" n="ZOOMOO HD"/>
+	</Bouquet>
+	<Bouquet name="[E009.0] iKOMG">
+		<S i="dc4" t="16a8" on="9c" s="90" frq="11881" n="TRT Tamil Oli"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] Jonye">
 		<S i="1a2" t="c40e" on="9e" s="90" frq="12074" n="History HD"/>
@@ -253,7 +261,7 @@
 		<S i="fa0" t="1bbc" on="9c" s="90" frq="12130" n="Silverline"/>
 		<S i="faa" t="1bbc" on="9c" s="90" frq="12130" n="SONY CHANNEL HD"/>
 		<S i="268" t="206c" on="9c" s="90" frq="12360" n="Spiegel TV Wissen HD"/>
-		<S i="26f" t="206c" on="9c" s="90" frq="12360" n="Sport1 US HD"/>
+		<S i="26f" t="206c" on="9c" s="90" frq="12360" n="SPORT1+ HD"/>
 		<S i="4eef" t="21fc" on="9c" s="90" frq="12437" n="sportdigital HD"/>
 		<S i="fffd" t="1bbc" on="9c" s="90" frq="12130" n="SWDL 65533"/>
 		<S i="26d" t="206c" on="9c" s="90" frq="12360" n="SyFy HD"/>
@@ -355,6 +363,7 @@
 		<S i="407" t="1" on="aa" s="90" frq="11843" n="Luxe TV HD"/>
 		<S i="420" t="6" on="aa" s="90" frq="12399" n="MAD"/>
 		<S i="41e" t="1" on="aa" s="90" frq="11843" n="MAD Hits"/>
+		<S i="427" t="2" on="aa" s="90" frq="12054" n="MAD Valentine Hits"/>
 		<S i="40b" t="4" on="aa" s="90" frq="12207" n="MEGA"/>
 		<S i="449" t="1" on="aa" s="90" frq="11843" n="MEZZO"/>
 		<S i="401" t="4" on="aa" s="90" frq="12207" n="Motorvision Channel HD"/>
@@ -381,7 +390,6 @@
 		<S i="429" t="7" on="aa" s="90" frq="12475" n="TEST 2"/>
 		<S i="45f" t="1" on="aa" s="90" frq="11843" n="TEST 3"/>
 		<S i="462" t="8" on="aa" s="90" frq="12169" n="TEST 5"/>
-		<S i="427" t="2" on="aa" s="90" frq="12054" n="TEST B"/>
 		<S i="415" t="2" on="aa" s="90" frq="12054" n="TEST C"/>
 		<S i="448" t="4" on="aa" s="90" frq="12207" n="TEST G"/>
 		<S i="457" t="7" on="aa" s="90" frq="12475" n="TEST I"/>
@@ -436,6 +444,7 @@
 		<S i="dad" t="16a8" on="9c" s="90" frq="11881" n="Virtual Verde"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] TRACE">
+		<S i="e" t="170c" on="9e" s="90" frq="11900" n="TRACE SPORTS INTER HD"/>
 		<S i="f" t="170c" on="9e" s="90" frq="11900" n="TRACE URBAN INTER HD"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] TVT">

@@ -25,6 +25,10 @@
 		<S i="1f7e" t="ca1" on="3" s="235" frq="12344" n="CRo TEST DD"/>
 		<S i="1f75" t="ca1" on="3" s="235" frq="12344" n="CRo VLTAVA"/>
 	</Bouquet>
+	<Bouquet name="[E023.5] M7 group">
+		<S i="525b" t="c99" on="3" s="235" frq="12188" n="NPO Radio4"/>
+		<S i="525c" t="c99" on="3" s="235" frq="12188" n="NPO Radio5"/>
+	</Bouquet>
 	<Bouquet name="[E023.5] M7 Group">
 		<S i="177f" t="c82" on="3" s="235" frq="11739" n="192TV"/>
 		<S i="523f" t="c99" on="3" s="235" frq="12188" n="24Kitchen"/>
@@ -116,9 +120,9 @@
 		<S i="36f6" t="c8c" on="3" s="235" frq="11934" n="MTV NL"/>
 		<S i="302" t="c94" on="3" s="235" frq="12090" n="Nat Geo HD"/>
 		<S i="303" t="c94" on="3" s="235" frq="12090" n="Nat Geo HD CZ"/>
-		<S i="304" t="c94" on="3" s="235" frq="12090" n="Nat Geo Wild HD"/>
-		<S i="305" t="c94" on="3" s="235" frq="12090" n="Nat Geo Wild HD CZ"/>
-		<S i="306" t="c94" on="3" s="235" frq="12090" n="Nat Geo Wild HD DUT"/>
+		<S i="304" t="c94" on="3" s="235" frq="12090" n="National Geographic Wild HD"/>
+		<S i="305" t="c94" on="3" s="235" frq="12090" n="National Geographic Wild HD CZ"/>
+		<S i="306" t="c94" on="3" s="235" frq="12090" n="National Geographic Wild HD DUT"/>
 		<S i="1bfd" t="c88" on="3" s="235" frq="11856" n="Nautical HD"/>
 		<S i="521c" t="c99" on="3" s="235" frq="12188" n="NET5 HD"/>
 		<S i="13b9" t="c95" on="3" s="235" frq="12110" n="NGC"/>
@@ -136,7 +140,7 @@
 		<S i="339b" t="c89" on="3" s="235" frq="11876" n="Nova International"/>
 		<S i="3393" t="c89" on="3" s="235" frq="11876" n="Nova Sport 1 HD"/>
 		<S i="371e" t="c8e" on="3" s="235" frq="11973" n="Nova Sport 2 HD"/>
-		<S i="177a" t="c82" on="3" s="235" frq="11739" n="NPO Feestdagen Specials"/>
+		<S i="177a" t="c82" on="3" s="235" frq="11739" n="NPO Politiek"/>
 		<S i="5225" t="c99" on="3" s="235" frq="12188" n="NPO1 HD"/>
 		<S i="17c0" t="c82" on="3" s="235" frq="11739" n="NPO2 HD"/>
 		<S i="5230" t="c99" on="3" s="235" frq="12188" n="NPO3 HD"/>
@@ -175,7 +179,7 @@
 		<S i="51d1" t="c96" on="3" s="235" frq="12129" n="SBS9"/>
 		<S i="36f1" t="c8c" on="3" s="235" frq="11934" n="Senzi"/>
 		<S i="335b" t="c93" on="3" s="235" frq="12070" n="Seznam.cz HD"/>
-		<S i="1f4b" t="ca1" on="3" s="235" frq="12344" n="Skylink Ochutnavka"/>
+		<S i="1f4b" t="ca1" on="3" s="235" frq="12344" n="Skylink 7"/>
 		<S i="339d" t="c89" on="3" s="235" frq="11876" n="Slagr 2"/>
 		<S i="310" t="c94" on="3" s="235" frq="12090" n="Spektrum HD"/>
 		<S i="36f9" t="c8c" on="3" s="235" frq="11934" n="Spike 24"/>
@@ -185,10 +189,12 @@
 		<S i="30f" t="c94" on="3" s="235" frq="12090" n="Stingray Brava HD"/>
 		<S i="30d" t="c94" on="3" s="235" frq="12090" n="Stingray CMusic"/>
 		<S i="30e" t="c94" on="3" s="235" frq="12090" n="Stingray CMusic CZ"/>
+		<S i="311" t="c94" on="3" s="235" frq="12090" n="Test 1"/>
+		<S i="313" t="c94" on="3" s="235" frq="12090" n="Test 2"/>
 		<S i="17ce" t="c82" on="3" s="235" frq="11739" n="the QYOU"/>
 		<S i="17cf" t="c82" on="3" s="235" frq="11739" n="the QYOU CZ"/>
-		<S i="13b8" t="c95" on="3" s="235" frq="12110" n="TLC"/>
 		<S i="51d5" t="c96" on="3" s="235" frq="12129" n="TLC"/>
+		<S i="13b8" t="c95" on="3" s="235" frq="12110" n="TLC"/>
 		<S i="13b3" t="c95" on="3" s="235" frq="12110" n="Travel XP HD"/>
 		<S i="13c7" t="c95" on="3" s="235" frq="12110" n="Travel XP HD BNL"/>
 		<S i="524f" t="c99" on="3" s="235" frq="12188" n="TV Drenthe"/>
@@ -203,7 +209,7 @@
 		<S i="17e1" t="c82" on="3" s="235" frq="11739" n="TVV Infokanaal"/>
 		<S i="52e5" t="c96" on="3" s="235" frq="12129" n="UP NETWORK CZ"/>
 		<S i="522b" t="c99" on="3" s="235" frq="12188" n="Veronica/DisneyXD HD"/>
-		<S i="36ed" t="c8c" on="3" s="235" frq="11934" n="Viasat Explore/Spice"/>
+		<S i="36ed" t="c8c" on="3" s="235" frq="11934" n="Viasat Explore"/>
 		<S i="36ec" t="c8c" on="3" s="235" frq="11934" n="Viasat History"/>
 		<S i="36ee" t="c8c" on="3" s="235" frq="11934" n="Viasat Nature"/>
 		<S i="1b91" t="c88" on="3" s="235" frq="11856" n="VIER HD"/>
@@ -239,10 +245,6 @@
 		<S i="5261" t="c99" on="3" s="235" frq="12188" n="Sky Radio"/>
 		<S i="5262" t="c99" on="3" s="235" frq="12188" n="SLAM!"/>
 		<S i="52db" t="c96" on="3" s="235" frq="12129" n="Studio Brussel"/>
-	</Bouquet>
-	<Bouquet name="[E023.5] M7 group">
-		<S i="525b" t="c99" on="3" s="235" frq="12188" n="NPO Radio4"/>
-		<S i="525c" t="c99" on="3" s="235" frq="12188" n="NPO Radio5"/>
 	</Bouquet>
 	<Bouquet name="[E023.5] MB Satellite">
 		<S i="36d9" t="c8c" on="3" s="235" frq="11934" n="GERMAN TOTE TV"/>
@@ -436,6 +438,9 @@
 		<S i="5156" t="c8b" on="3" s="235" frq="11914" n="Radio 202"/>
 		<S i="5154" t="c8b" on="3" s="235" frq="11914" n="Radio Beograd 1"/>
 		<S i="5155" t="c8b" on="3" s="235" frq="11914" n="Radio Beograd 2"/>
+	</Bouquet>
+	<Bouquet name="[E023.5] Telewizja Polska">
+		<S i="46d" t="bbf" on="3" s="235" frq="11586" n="POL-033 OUT1"/>
 	</Bouquet>
 	<Bouquet name="[E023.5] Towercom">
 		<S i="132d" t="ca2" on="3" s="235" frq="12363" n="Barrandov Plus HD"/>

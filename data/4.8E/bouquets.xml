@@ -1,5 +1,6 @@
 	<Bouquet name="[E004.8] 1+1 Media">
 		<S i="1e32" t="2c" on="55" s="48" frq="12265" n="TEST7730"/>
+		<S i="1831" t="c" on="55" s="48" frq="11766" n="Unian TV"/>
 	</Bouquet>
 	<Bouquet name="[E004.8] 1plus1 Media">
 		<S i="17d4" t="c" on="55" s="48" frq="11766" n="1+1"/>
@@ -83,6 +84,12 @@
 		<S i="27ce" t="c9" on="55" s="48" frq="11785" n="Viasat History HD"/>
 		<S i="2936" t="cb" on="55" s="48" frq="11938" n="Viasat Nature"/>
 	</Bouquet>
+	<Bouquet name="[E004.8] ARQIVA">
+		<S i="46" t="0" on="1" s="48" frq="12303" n="BBC - CCI DAB"/>
+		<S i="50b" t="0" on="1" s="48" frq="12303" n="Belsat TV"/>
+		<S i="50a" t="0" on="1" s="48" frq="12303" n="GBI Racing"/>
+		<S i="503" t="0" on="1" s="48" frq="12303" n="1283"/>
+	</Bouquet>
 	<Bouquet name="[E004.8] Arqiva">
 		<S i="507" t="0" on="1" s="48" frq="12303" n="Travel"/>
 		<S i="3ee" t="0" on="1" s="48" frq="12303" n="Absolute Radio"/>
@@ -92,15 +99,9 @@
 		<S i="2e4" t="0" on="1" s="48" frq="12303" n="BBC AM Dist5"/>
 		<S i="4f9" t="0" on="1" s="48" frq="12303" n="IRN"/>
 	</Bouquet>
-	<Bouquet name="[E004.8] ARQIVA">
-		<S i="46" t="0" on="1" s="48" frq="12303" n="BBC - CCI DAB"/>
-		<S i="50b" t="0" on="1" s="48" frq="12303" n="Belsat TV"/>
-		<S i="50a" t="0" on="1" s="48" frq="12303" n="GBI Racing"/>
-		<S i="503" t="0" on="1" s="48" frq="12303" n="1283"/>
-	</Bouquet>
 	<Bouquet name="[E004.8] ATR">
-		<S i="1b26" t="11" on="55" s="48" frq="12284" n="ATR"/>
-		<S i="1b3a" t="11" on="55" s="48" frq="12284" n="LALE"/>
+		<S i="1b3a" t="11" on="55" s="48" frq="12284" n="112-Test"/>
+		<S i="1b26" t="11" on="55" s="48" frq="12284" n="Priamyi-Test"/>
 	</Bouquet>
 	<Bouquet name="[E004.8] AVERS">
 		<S i="1815" t="c" on="55" s="48" frq="11766" n="AVERS"/>
@@ -158,11 +159,11 @@
 		<S i="1e21" t="2c" on="55" s="48" frq="12265" n="EPOQUE"/>
 		<S i="1e24" t="2c" on="55" s="48" frq="12265" n="Fauna"/>
 		<S i="1e25" t="2c" on="55" s="48" frq="12265" n="FILMUADRAMA"/>
+		<S i="1e29" t="2c" on="55" s="48" frq="12265" n="Kyiv TV"/>
 		<S i="1e23" t="2c" on="55" s="48" frq="12265" n="Nauka"/>
 		<S i="1e22" t="2c" on="55" s="48" frq="12265" n="Terra"/>
 		<S i="1e2a" t="2c" on="55" s="48" frq="12265" n="Test"/>
 		<S i="1e32" t="2c" on="55" s="48" frq="12265" n="TEST7730"/>
-		<S i="1e29" t="2c" on="55" s="48" frq="12265" n="TV KYIV"/>
 	</Bouquet>
 	<Bouquet name="[E004.8] Scopus">
 		<S i="1" t="1f2" on="55" s="48" frq="12735" n="JurnalTV"/>
@@ -177,7 +178,9 @@
 		<S i="1964" t="f" on="55" s="48" frq="12073" n="Emmanuel"/>
 	</Bouquet>
 	<Bouquet name="[E004.8] TRK Astra">
+		<S i="1b3a" t="11" on="55" s="48" frq="12284" n="112-Test"/>
 		<S i="1b1c" t="11" on="55" s="48" frq="12284" n="KRT"/>
+		<S i="1b26" t="11" on="55" s="48" frq="12284" n="Priamyi-Test"/>
 		<S i="1b21" t="11" on="55" s="48" frq="12284" n="VINTAGE TV Test"/>
 	</Bouquet>
 	<Bouquet name="[E004.8] TRK ERA">
@@ -240,8 +243,8 @@
 		<S i="1" t="0" on="1" s="48" frq="12303" n="Bootstrap Master"/>
 		<S i="8c0" t="21" on="56" s="48" frq="11265" n="CANAL9"/>
 		<S i="b40" t="24" on="56" s="48" frq="11345" n="Cartoon Network"/>
-		<S i="1388" t="7" on="56" s="48" frq="11881" n="Cmore Fotboll HD"/>
 		<S i="be0" t="25" on="56" s="48" frq="11385" n="Cmore Fotboll HD"/>
+		<S i="1388" t="7" on="56" s="48" frq="11881" n="Cmore Fotboll HD"/>
 		<S i="bf4" t="25" on="56" s="48" frq="11385" n="Cmore Golf HD"/>
 		<S i="bd6" t="25" on="56" s="48" frq="11385" n="Cmore Hockey HD"/>
 		<S i="6ea" t="19" on="56" s="48" frq="11345" n="Cmore Hockey HD"/>
@@ -249,8 +252,6 @@
 		<S i="69a" t="1b" on="56" s="48" frq="12437" n="Cmore Live HD"/>
 		<S i="bcc" t="25" on="56" s="48" frq="11385" n="Cmore Sport HD"/>
 		<S i="aff" t="24" on="56" s="48" frq="11345" n="CNN"/>
-		<S i="1392" t="7" on="56" s="48" frq="11881" n="Comedy Central (D)"/>
-		<S i="a2d" t="22" on="56" s="48" frq="11265" n="Comedy Central (S)"/>
 		<S i="8d4" t="21" on="56" s="48" frq="11265" n="Comedy Central Norway"/>
 		<S i="14" t="c9" on="1" s="48" frq="12149" n="CORAL TV1 - PVU4"/>
 		<S i="1d" t="c9" on="1" s="48" frq="12149" n="CORAL TV1 SIS DATA - PVU4"/>
@@ -283,7 +284,7 @@
 		<S i="adc" t="23" on="56" s="48" frq="11305" n="Eurosport 1"/>
 		<S i="8bb" t="21" on="56" s="48" frq="11265" n="Eurosport DK"/>
 		<S i="5c8" t="20" on="56" s="48" frq="11305" n="Eurosport Norge HD"/>
-		<S i="190a" t="14" on="56" s="48" frq="12637" n="Explore/Spice(FSS)"/>
+		<S i="190a" t="14" on="56" s="48" frq="12637" n="Explore (FSS)"/>
 		<S i="6e0" t="19" on="56" s="48" frq="11345" n="FEM"/>
 		<S i="1edb" t="1c" on="56" s="48" frq="12015" n="Fox Nor"/>
 		<S i="8f2" t="21" on="56" s="48" frq="11265" n="Fox Swe"/>
@@ -329,6 +330,7 @@
 		<S i="a87" t="22" on="56" s="48" frq="11265" n="Nick Toons"/>
 		<S i="a6e" t="22" on="56" s="48" frq="11265" n="Nickelodeon Norge"/>
 		<S i="8b6" t="21" on="56" s="48" frq="11265" n="Nickelodeon SE"/>
+		<S i="b5f" t="35" on="53" s="48" frq="12245" n="NLO XD"/>
 		<S i="411" t="1c" on="56" s="48" frq="12015" n="NRK Super/NRK3"/>
 		<S i="1eba" t="1c" on="56" s="48" frq="12015" n="NRK Tegnspråk"/>
 		<S i="40f" t="1c" on="56" s="48" frq="12015" n="NRK1"/>
@@ -347,6 +349,8 @@
 		<S i="465d" t="1c" on="56" s="48" frq="12015" n="NRK2 lydtekst"/>
 		<S i="465e" t="1c" on="56" s="48" frq="12015" n="NRKSuper/NRK3lydtekst"/>
 		<S i="1c98" t="13" on="55" s="48" frq="12399" n="NTN"/>
+		<S i="1392" t="7" on="56" s="48" frq="11881" n="Paramount Network DK"/>
+		<S i="a2d" t="22" on="56" s="48" frq="11265" n="Paramount Network SE"/>
 		<S i="1cc5" t="13" on="55" s="48" frq="12399" n="PIXEL"/>
 		<S i="6f" t="65" on="1" s="48" frq="12418" n="PPTV1"/>
 		<S i="71" t="c9" on="1" s="48" frq="12149" n="PPTV1-IE"/>
@@ -402,6 +406,7 @@
 		<S i="1142" t="18" on="56" s="48" frq="11919" n="SVT24"/>
 		<S i="113f" t="18" on="56" s="48" frq="11919" n="SVTB"/>
 		<S i="1888" t="d" on="55" s="48" frq="11843" n="Tallinna TV"/>
+		<S i="bae" t="35" on="53" s="48" frq="12245" n="Test"/>
 		<S i="73" t="65" on="1" s="48" frq="12418" n="TEST CHANNEL - CISCO 1"/>
 		<S i="1e15" t="2c" on="55" s="48" frq="12265" n="TEST1"/>
 		<S i="1e16" t="2c" on="55" s="48" frq="12265" n="TEST2"/>
@@ -461,9 +466,10 @@
 		<S i="1145" t="18" on="56" s="48" frq="11919" n="TV8 HD"/>
 		<S i="bb8" t="25" on="56" s="48" frq="11385" n="U test 27"/>
 		<S i="bea" t="25" on="56" s="48" frq="11385" n="U test 27 2"/>
+		<S i="b5e" t="35" on="53" s="48" frq="12245" n="Ukraine XD"/>
 		<S i="1f6" t="0" on="1" s="48" frq="12303" n="Universal HUNGARY"/>
-		<S i="26d" t="0" on="1" s="48" frq="12303" n="Universal HUNGARY"/>
 		<S i="26f" t="0" on="1" s="48" frq="12303" n="Universal HUNGARY"/>
+		<S i="26d" t="0" on="1" s="48" frq="12303" n="Universal HUNGARY"/>
 		<S i="cb" t="c9" on="1" s="48" frq="12149" n="VBI Test"/>
 		<S i="578" t="20" on="56" s="48" frq="11305" n="VFActionHD"/>
 		<S i="8fa" t="21" on="56" s="48" frq="11265" n="VFilm Family"/>
@@ -523,12 +529,6 @@
 		<S i="bca" t="25" on="56" s="48" frq="11385" n="Svenska Favoriter"/>
 		<S i="1f4" t="65" on="1" s="48" frq="12418" n="Upgrade Test Channel"/>
 	</Bouquet>
-	<Bouquet name="[E004.8] viasat">
-		<S i="286e" t="ca" on="55" s="48" frq="11727" n="ESPORTSTV HD"/>
-		<S i="28b4" t="ca" on="55" s="48" frq="11727" n="NHK World Japan"/>
-		<S i="1928" t="14" on="56" s="48" frq="12637" n="TV1000 Russian Kino"/>
-		<S i="195a" t="14" on="56" s="48" frq="12637" n="Viasat History (FSS)"/>
-	</Bouquet>
 	<Bouquet name="[E004.8] Viasat">
 		<S i="3a5" t="3" on="56" s="48" frq="12054" n="CORE SI"/>
 		<S i="456" t="3" on="56" s="48" frq="12054" n="Ohota i Rybalka"/>
@@ -536,6 +536,12 @@
 	</Bouquet>
 	<Bouquet name="[E004.8] VIASAT">
 		<S i="a6e" t="18" on="44" s="48" frq="12207" n="UA: Перший"/>
+	</Bouquet>
+	<Bouquet name="[E004.8] viasat">
+		<S i="286e" t="ca" on="55" s="48" frq="11727" n="ESPORTSTV HD"/>
+		<S i="28b4" t="ca" on="55" s="48" frq="11727" n="NHK World Japan"/>
+		<S i="1928" t="14" on="56" s="48" frq="12637" n="TV1000 Russian Kino"/>
+		<S i="195a" t="14" on="56" s="48" frq="12637" n="Viasat History (FSS)"/>
 	</Bouquet>
 	<Bouquet name="[E004.8] VisionTV">
 		<S i="9ce" t="18" on="44" s="48" frq="12207" n="Animal Planet"/>
