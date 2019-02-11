@@ -1,0 +1,45 @@
+#Das entfernt das Attribut 'num' komplett. (das hat auch keinerlei Einfluss auf den späteren Betrieb, weil es bei jedem Neuladen der Kanalliste wieder generiert wird)
+/bin/xsltproc -o ./services.pre.onum.xml /var/script/xsl/delnum.xsl services.pre.xml
+
+xsltproc -o ./tmp.xml ./grep0.8.xsl services.xml
+cat ./tmp.xml | grep -v "^[[:space:]]*$" | grep -v zapit | grep -v xml > 0.8W.xml
+xsltproc -o ./tmp.xml ./grep4.8.xsl services.xml
+cat ./tmp.xml | grep -v "^[[:space:]]*$" | grep -v zapit | grep -v xml > 4.8.xml
+xsltproc -o ./tmp.xml ./grep7.0.xsl services.xml
+cat ./tmp.xml | grep -v "^[[:space:]]*$" | grep -v zapit | grep -v xml > 7.0E.xml
+xsltproc -o ./tmp.xml ./grep9.0.xsl services.xml
+cat ./tmp.xml | grep -v "^[[:space:]]*$" | grep -v zapit | grep -v xml > 9.0E.xml
+xsltproc -o ./tmp.xml ./grep13.0.xsl services.xml
+cat ./tmp.xml | grep -v "^[[:space:]]*$" | grep -v zapit | grep -v xml > 13.0E.xml
+xsltproc -o ./tmp.xml ./grep16.0.xsl services.xml
+cat ./tmp.xml | grep -v "^[[:space:]]*$" | grep -v zapit | grep -v xml > 16.0E.xml
+xsltproc -o ./tmp.xml ./grep19.2.xsl services.xml
+cat ./tmp.xml | grep -v "^[[:space:]]*$" | grep -v zapit | grep -v xml > 19.2E.xml
+xsltproc -o ./tmp.xml ./grep23.5.xsl services.xml
+cat ./tmp.xml | grep -v "^[[:space:]]*$" | grep -v zapit | grep -v xml > 23.5E.xml
+xsltproc -o ./tmp.xml ./grep26.0.xsl services.xml
+cat ./tmp.xml | grep -v "^[[:space:]]*$" | grep -v zapit | grep -v xml > 26.0E.xml
+xsltproc -o ./tmp.xml ./grep28.2.xsl services.xml
+cat ./tmp.xml | grep -v "^[[:space:]]*$" | grep -v zapit | grep -v xml > 28.2E.xml
+
+cat ./13.0E.xml | grep -v "^[[:space:]]*$" | grep -v zapit | grep -v xml > test2.xml
+cat ./13.0E.xml | grep -v "^[[:space:]]*$" > test2.xml
+
+Aber die Include-Anweissung von xsltproc gestattet ja über die xpointer-Selektion gezielt einen Knoten auszuwählen.
+
+Zum Beispiel extract192.xml mit dem Nutzinhalt:
+
+<xi:include href="/var/txbox/config/zapit/services.xml" xpointer="xpointer(//sat[@pos='192'])" />
+
+würde aus der Quelle (nur) den Sat-Knoten mit dem Attribut pos="192" auslesen.
+
+Das über den -o Parameter in eine services.192.xml zu speichern, dürfte mit einer XSL-Datei ähnlich wie delnum.xsl oben wahrscheinlich zum gewünschten Ergebnis führen. (mit korrrekten Pfanangaben natürlich)
+
+xsltproc -o services.192.xml delnum.xsl extract192.xml
+
+Damit einen Scriptjob aufbauen, um jede einzelne Position abzuarbeiten:
+xsltproc -o services.130.xml delnum.xsl extract130.xml
+xsltproc -o services.192.xml delnum.xsl extract192.xml
+xsltproc -o services.235.xml delnum.xsl extract235.xml
+
+Falls Du Makro-Ersetzungen besser im Griff hast als ich, kann man das sicher auch eleganter lösen.

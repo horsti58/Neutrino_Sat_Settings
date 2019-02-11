@@ -1,0 +1,100 @@
+<xsl:stylesheet  version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" >
+
+	<!--xsl:strip-space elements="*"/ --> 
+	<xsl:output method="xml" encoding="utf-8" indent="yes"/>
+
+ 	<xsl:template match="sat">
+		<sat name="19.2E Ku-band Astra 1KR/1L/1M/1N" position="192" diseqc="-1" uncommited="-1">
+            <xsl:apply-templates/>
+		</sat>
+	</xsl:template>
+
+	<xsl:template match="TS">
+		<TS>
+		    <xsl:attribute name="id">
+			    <xsl:value-of select="@id"/>
+		    </xsl:attribute>
+
+		    <xsl:attribute name="on">
+			    <xsl:value-of select="@on"/>
+		    </xsl:attribute>
+
+		    <xsl:attribute name="frq">
+			    <xsl:value-of select="@frq"/>
+		    </xsl:attribute>
+
+		    <xsl:attribute name="inv">
+			    <xsl:value-of select="@inv"/>
+		    </xsl:attribute>
+
+		    <xsl:attribute name="sr">
+			    <xsl:value-of select="@sr"/>
+		    </xsl:attribute>
+
+		    <xsl:attribute name="fec">
+			    <xsl:value-of select="@fec"/>
+		    </xsl:attribute>
+
+		    <xsl:attribute name="pol">
+			    <xsl:value-of select="@pol"/>
+		    </xsl:attribute>
+
+		    <xsl:attribute name="mod">
+			    <xsl:value-of select="@mod"/>
+		    </xsl:attribute>
+
+		    <xsl:attribute name="pli">
+			    <xsl:value-of select="@pli"/>
+		    </xsl:attribute>
+
+		    <xsl:attribute name="plc">
+			    <xsl:value-of select="@plc"/>
+		    </xsl:attribute>
+
+		    <xsl:attribute name="plm">
+			    <xsl:value-of select="@plm"/>
+		    </xsl:attribute>
+
+		    <xsl:attribute name="sys">
+			    <xsl:value-of select="@sys"/>
+		    </xsl:attribute>
+
+		</TS>
+	</xsl:template>
+
+    <xsl:template match="S">
+                <S
+                    <xsl:attribute name="i">
+                        <xsl:value-of select="@i"/>
+                    </xsl:attribute>
+
+                    <xsl:attribute name="n">
+                        <xsl:value-of select="@n"/>
+                    </xsl:attribute>
+
+                    <xsl:attribute name="t">
+                        <xsl:value-of select="@t"/>
+                    </xsl:attribute>
+
+                    <xsl:attribute name="s">
+                        <xsl:value-of select="@s"/>
+                    </xsl:attribute>
+
+                    <xsl:attribute name="num">
+                        <xsl:value-of select="@num"/>
+                    </xsl:attribute>
+
+                    <xsl:attribute name="f">
+                        <xsl:value-of select="@f"/>
+                    </xsl:attribute>
+                S/>
+    </xsl:template>
+
+	<xsl:template match="attribute::*|node()">
+		<xsl:copy>
+			<xsl:apply-templates select="attribute::*|node()"/>
+		</xsl:copy>
+	</xsl:template>
+
+</xsl:stylesheet>
+
