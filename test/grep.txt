@@ -1,9 +1,0 @@
-MAXZEILEN=Maximale Zeilenzahl die Du erwartest
-suche="Deine MAC"
-filename="your logfile"
-
-# grep -A ${MAXZEILEN} "${suche}" ${filename} | grep -m 2 -B ${MAXZEILEN} "${suche}"
-
----------------------------------------------------------------------------------------------
-
-
