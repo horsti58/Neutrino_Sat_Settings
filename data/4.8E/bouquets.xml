@@ -248,8 +248,8 @@
 		<S i="bf4" t="25" on="56" s="48" frq="11385" n="Cmore Golf HD"/>
 		<S i="bd6" t="25" on="56" s="48" frq="11385" n="Cmore Hockey HD"/>
 		<S i="6ea" t="19" on="56" s="48" frq="11345" n="Cmore Hockey HD"/>
-		<S i="bfe" t="25" on="56" s="48" frq="11385" n="Cmore Live HD"/>
 		<S i="69a" t="1b" on="56" s="48" frq="12437" n="Cmore Live HD"/>
+		<S i="bfe" t="25" on="56" s="48" frq="11385" n="Cmore Live HD"/>
 		<S i="bcc" t="25" on="56" s="48" frq="11385" n="Cmore Sport HD"/>
 		<S i="aff" t="24" on="56" s="48" frq="11345" n="CNN"/>
 		<S i="8d4" t="21" on="56" s="48" frq="11265" n="Comedy Central Norway"/>
@@ -290,7 +290,6 @@
 		<S i="8f2" t="21" on="56" s="48" frq="11265" n="Fox Swe"/>
 		<S i="fdc" t="6" on="56" s="48" frq="11996" n="GOD Channel"/>
 		<S i="a91" t="23" on="56" s="48" frq="11305" n="HISTORY"/>
-		<S i="1ca2" t="13" on="55" s="48" frq="12399" n="Horizont TEST"/>
 		<S i="834" t="1" on="5e" s="48" frq="12360" n="ID Poland"/>
 		<S i="640" t="1" on="5e" s="48" frq="12360" n="ID Sweden"/>
 		<S i="1c8e" t="13" on="55" s="48" frq="12399" n="Inter"/>
@@ -379,6 +378,7 @@
 		<S i="5" t="0" on="1" s="48" frq="12303" n="Software Update"/>
 		<S i="5c" t="c9" on="1" s="48" frq="12149" n="SPANISH - PVU2"/>
 		<S i="af0" t="24" on="56" s="48" frq="11345" n="Sportkanalen HD"/>
+		<S i="1ca2" t="13" on="55" s="48" frq="12399" n="Svarogichi"/>
 		<S i="64a" t="1b" on="56" s="48" frq="12437" n="SVT 1 HD"/>
 		<S i="668" t="1b" on="56" s="48" frq="12437" n="SVT 2 HD"/>
 		<S i="1151" t="18" on="56" s="48" frq="11919" n="SVT1 Dalarna"/>
@@ -529,19 +529,19 @@
 		<S i="bca" t="25" on="56" s="48" frq="11385" n="Svenska Favoriter"/>
 		<S i="1f4" t="65" on="1" s="48" frq="12418" n="Upgrade Test Channel"/>
 	</Bouquet>
-	<Bouquet name="[E004.8] Viasat">
-		<S i="3a5" t="3" on="56" s="48" frq="12054" n="CORE SI"/>
-		<S i="456" t="3" on="56" s="48" frq="12054" n="Ohota i Rybalka"/>
-		<S i="385" t="3" on="56" s="48" frq="12054" n="XSI_Data"/>
-	</Bouquet>
-	<Bouquet name="[E004.8] VIASAT">
-		<S i="a6e" t="18" on="44" s="48" frq="12207" n="UA: Перший"/>
-	</Bouquet>
 	<Bouquet name="[E004.8] viasat">
 		<S i="286e" t="ca" on="55" s="48" frq="11727" n="ESPORTSTV HD"/>
 		<S i="28b4" t="ca" on="55" s="48" frq="11727" n="NHK World Japan"/>
 		<S i="1928" t="14" on="56" s="48" frq="12637" n="TV1000 Russian Kino"/>
 		<S i="195a" t="14" on="56" s="48" frq="12637" n="Viasat History (FSS)"/>
+	</Bouquet>
+	<Bouquet name="[E004.8] VIASAT">
+		<S i="a6e" t="18" on="44" s="48" frq="12207" n="UA: Перший"/>
+	</Bouquet>
+	<Bouquet name="[E004.8] Viasat">
+		<S i="3a5" t="3" on="56" s="48" frq="12054" n="CORE SI"/>
+		<S i="456" t="3" on="56" s="48" frq="12054" n="Ohota i Rybalka"/>
+		<S i="385" t="3" on="56" s="48" frq="12054" n="XSI_Data"/>
 	</Bouquet>
 	<Bouquet name="[E004.8] VisionTV">
 		<S i="9ce" t="18" on="44" s="48" frq="12207" n="Animal Planet"/>

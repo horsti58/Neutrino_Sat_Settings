@@ -358,6 +358,7 @@
 			<S i="0309" f="4" s="1" t="1" n="Pink Reality"/>
 			<S i="030a" f="4" s="1" t="1" n="Vavoom"/>
 			<S i="030b" f="4" s="1" t="1" n="Pikaboo Slo/Hr"/>
+			<S i="030c" f="1" s="1" t="1" n="Test pin"/>
 		</TS>
 		<TS id="0001" on="016e" frq="11262000" inv="2" sr="30000000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0004" f="4" s="0" t="1" n="BN SAT HD"/>
@@ -430,6 +431,7 @@
 			<S i="001d" f="4" s="0" t="2" n="RM BiH"/>
 			<S i="001e" f="4" s="0" t="2" n="RM Armenia"/>
 			<S i="0020" f="4" s="0" t="2" n="RM Hungary"/>
+			<S i="0021" f="4" s="1" t="1" n="UNK (0x0002_0x0021)"/>
 			<S i="ffff" f="4" s="0" t="1" n="EFB2"/>
 		</TS>
 		<TS id="9e98" on="016e" frq="11324000" inv="2" sr="30000000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
@@ -871,6 +873,7 @@
 			<S i="07ba" f="2" s="1" t="19" n="Cinemax 2 HD"/>
 		</TS>
 		<TS id="0003" on="0040" frq="11678000" inv="2" sr="30000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
+			<S i="0022" f="1" s="1" t="16" n="Vivid"/>
 			<S i="002b" f="4" s="1" t="16" n="Woman."/>
 			<S i="002d" f="4" s="1" t="16" n="History 2."/>
 			<S i="0038" f="4" s="1" t="16" n="PickboxTV."/>
@@ -947,10 +950,10 @@
 			<S i="0002" f="4" s="0" t="1" n="Kanal D"/>
 			<S i="0003" f="4" s="0" t="1" n="National TV"/>
 			<S i="0004" f="4" s="0" t="1" n="Boomerang"/>
-			<S i="0005" f="4" s="1" t="16" n="PRO TV"/>
-			<S i="0006" f="4" s="1" t="16" n="PRO X"/>
-			<S i="0007" f="4" s="1" t="16" n="PRO 2"/>
-			<S i="0008" f="4" s="1" t="16" n="PRO CINEMA"/>
+			<S i="0005" f="4" s="1" t="16" n="Pro TV"/>
+			<S i="0006" f="4" s="1" t="16" n="Sport Ro"/>
+			<S i="0007" f="4" s="1" t="16" n="Acasatv"/>
+			<S i="0008" f="4" s="1" t="16" n="Pro Cinema"/>
 			<S i="0009" f="4" s="0" t="1" n="TNT"/>
 			<S i="000a" f="4" s="0" t="1" n="RomaniaTV"/>
 			<S i="000b" f="4" s="0" t="1" n="Neptun TV"/>
