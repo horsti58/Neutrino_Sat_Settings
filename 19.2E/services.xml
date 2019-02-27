@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zapit api="4">
-	<sat name="19.2E Ku-band Astra 1KR/1L/1M/1N" position="192" diseqc="-1" uncommited="-1">
+	<sat name="19.2E Astra" position="192" diseqc="-1" uncommited="-1">
 		<TS id="0419" on="0001" frq="10714000" inv="2" sr="22000000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="170c" f="4" s="0" t="19" n="Mainfranken HD"/>
 			<S i="170d" f="4" s="0" t="19" n="Franken Fernsehen HD"/>
@@ -251,12 +251,12 @@
 		</TS>
 		<TS id="0410" on="0001" frq="11068000" inv="2" sr="22000000" fec="5" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="7a45" f="4" s="0" t="1" n="TV Record SD"/>
-			<S i="7a46" f="1" s="1" t="1" n="TEST"/>
+			<S i="7a46" f="4" s="1" t="1" n="TEST"/>
 			<S i="7a48" f="4" s="0" t="1" n="TELESUR"/>
 			<S i="7a49" f="4" s="0" t="1" n="TBN Espana"/>
 			<S i="7a4a" f="4" s="0" t="1" n="TVGA"/>
 			<S i="7a4b" f="4" s="0" t="1" n="I24 Francis"/>
-			<S i="7a4d" f="1" s="0" t="16" n="TELEMAROC"/>
+			<S i="7a4d" f="4" s="0" t="1" n="TELEMAROC"/>
 		</TS>
 		<TS id="0411" on="0001" frq="11082000" inv="2" sr="22000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="2e87" f="4" s="1" t="19" n="RTL HD Austria"/>
@@ -565,7 +565,7 @@
 			<S i="1158" f="4" s="0" t="1" n="Al Jazeera English"/>
 		</TS>
 		<TS id="0406" on="0001" frq="11656000" inv="2" sr="22000000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="1194" f="1" s="1" t="1" n=".."/>
+			<S i="1194" f="4" s="1" t="19" n="sportdigital HD"/>
 			<S i="11da" f="4" s="1" t="16" n="Colors"/>
 			<S i="11db" f="4" s="1" t="16" n="Rishtey Europe"/>
 			<S i="11dd" f="4" s="1" t="16" n="B4U Movies UK"/>
@@ -802,7 +802,7 @@
 			<S i="000a" f="4" s="1" t="16" n="Sky Cinema"/>
 			<S i="0012" f="4" s="0" t="16" n="Sky Select"/>
 			<S i="0013" f="4" s="1" t="16" n="Junior"/>
-			<S i="0014" f="4" s="1" t="16" n="Sky Cinema Awards"/>
+			<S i="0014" f="4" s="1" t="16" n="Sky Cinema Emotion"/>
 			<S i="0017" f="4" s="1" t="16" n="Sky Krimi"/>
 			<S i="0018" f="4" s="1" t="16" n="Classica"/>
 			<S i="008c" f="4" s="1" t="19" n="TNT Film HD"/>
@@ -878,7 +878,7 @@
 			<S i="003c" f="4" s="0" t="1" n="Comedy Central Austria"/>
 			<S i="003d" f="4" s="0" t="1" n="NICKELODEON AT"/>
 			<S i="0041" f="4" s="0" t="1" n="DELUXE MUSIC"/>
-			<S i="0046" f="4" s="0" t="1" n="BB-Lokal-TV"/>
+			<S i="0046" f="4" s="0" t="1" n="unknown (0x0007_0x0046)"/>
 			<S i="0047" f="4" s="0" t="1" n="TLC Austria"/>
 			<S i="0048" f="4" s="0" t="1" n="unknown (0x0007_0x0048)"/>
 			<S i="0049" f="4" s="0" t="1" n="DMAX Austria"/>
@@ -1007,7 +1007,7 @@
 			<S i="6f24" f="4" s="0" t="2" n="Inforadio"/>
 			<S i="6f25" f="4" s="0" t="2" n="Kulturradio"/>
 			<S i="6f26" f="4" s="0" t="2" n="Antenne Brandenburg"/>
-			<S i="6f27" f="4" s="0" t="2" n="radioBERLIN 88,8"/>
+			<S i="6f27" f="4" s="0" t="2" n="rbb 88.8"/>
 			<S i="6f28" f="4" s="0" t="2" n="radioeins"/>
 			<S i="6f29" f="4" s="0" t="2" n="Fritz"/>
 			<S i="6f2d" f="4" s="0" t="2" n="SR 1 Europawelle"/>
@@ -1072,7 +1072,6 @@
 		</TS>
 		<TS id="044a" on="0001" frq="12363000" inv="2" sr="27500000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="238e" f="4" s="1" t="2" n="AUDIO PRIMO"/>
-			<S i="2394" f="1" s="1" t="1" n="UNK (0x044A_0x2394)"/>
 			<S i="2395" f="4" s="0" t="2" n="SUD RADIO"/>
 			<S i="2396" f="4" s="1" t="1" n="UNK (0x044A_0x2396)"/>
 			<S i="2397" f="4" s="0" t="2" n="BFM BUSINESS"/>
@@ -1149,7 +1148,6 @@
 			<S i="2209" f="4" s="1" t="19" n="MCM TOP"/>
 			<S i="220a" f="4" s="1" t="19" n="MCM"/>
 			<S i="220b" f="4" s="1" t="19" n="MULTISPORTS 4"/>
-			<S i="220c" f="2" s="1" t="1" n="UNK (0x044C_0x220C)"/>
 		</TS>
 		<TS id="04b1" on="0001" frq="12422000" inv="2" sr="27500000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="6e92" f="4" s="0" t="1" n="WDR Bielefeld"/>
@@ -1203,34 +1201,20 @@
 			<S i="0701" f="4" s="0" t="1" n="Disney Channel"/>
 			<S i="0702" f="4" s="0" t="1" n="QVC"/>
 		</TS>
-		<TS id="0021" on="0001" frq="12480000" inv="2" sr="27500000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
-			<S i="0020" f="1" s="1" t="1" n="UNK (0x0021_0x0020)"/>
-			<S i="0028" f="1" s="1" t="1" n="UNK (0x0021_0x0028)"/>
-			<S i="002e" f="1" s="1" t="1" n="UNK (0x0021_0x002E)"/>
-			<S i="0033" f="1" s="1" t="1" n="UNK (0x0021_0x0033)"/>
-			<S i="003f" f="1" s="1" t="1" n="UNK (0x0021_0x003F)"/>
-			<S i="004c" f="1" s="1" t="1" n="UNK (0x0021_0x004C)"/>
-			<S i="004d" f="1" s="1" t="1" n="UNK (0x0021_0x004D)"/>
-			<S i="0295" f="1" s="1" t="1" n="UNK (0x0021_0x0295)"/>
-			<S i="0381" f="1" s="1" t="1" n="UNK (0x0021_0x0381)"/>
-			<S i="0382" f="1" s="1" t="1" n="UNK (0x0021_0x0382)"/>
-			<S i="0383" f="1" s="1" t="1" n="UNK (0x0021_0x0383)"/>
-			<S i="0384" f="1" s="1" t="1" n="UNK (0x0021_0x0384)"/>
-		</TS>
-		<TS id="0021" on="0085" frq="12480000" inv="2" sr="27500000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
-			<S i="0020" f="4" s="0" t="1" n="Sonnenklar TV"/>
-			<S i="0028" f="4" s="0" t="1" n="HSE24"/>
-			<S i="002e" f="4" s="0" t="1" n="Sparhandy TV 2"/>
-			<S i="002f" f="4" s="0" t="16" n="REGIO TV"/>
-			<S i="0033" f="4" s="0" t="1" n="TELE 5"/>
-			<S i="003f" f="4" s="0" t="1" n="DMAX"/>
-			<S i="004c" f="4" s="0" t="16" n="Baden TV"/>
-			<S i="004d" f="4" s="0" t="1" n="HSE24 TREND"/>
-			<S i="0295" f="4" s="0" t="1" n="AstroTV"/>
-			<S i="0381" f="4" s="0" t="1" n="e8 television"/>
-			<S i="0382" f="4" s="0" t="1" n="MediaShop- Neuheiten"/>
-			<S i="0383" f="4" s="0" t="1" n="meinTVshop"/>
-			<S i="0384" f="4" s="0" t="1" n="SPORT1"/>
+		<TS id="0021" on="005b" frq="12480000" inv="2" sr="27500000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
+			<S i="0020" f="4" s="1" t="1" n="UNK (0x0021_0x0020)"/>
+			<S i="0028" f="4" s="1" t="1" n="UNK (0x0021_0x0028)"/>
+			<S i="002e" f="4" s="1" t="1" n="UNK (0x0021_0x002E)"/>
+			<S i="002f" f="4" s="1" t="1" n="UNK (0x0021_0x002F)"/>
+			<S i="0033" f="4" s="1" t="1" n="UNK (0x0021_0x0033)"/>
+			<S i="003f" f="4" s="1" t="1" n="UNK (0x0021_0x003F)"/>
+			<S i="004c" f="4" s="1" t="1" n="UNK (0x0021_0x004C)"/>
+			<S i="004d" f="4" s="1" t="1" n="UNK (0x0021_0x004D)"/>
+			<S i="0295" f="4" s="1" t="1" n="UNK (0x0021_0x0295)"/>
+			<S i="0381" f="4" s="1" t="1" n="UNK (0x0021_0x0381)"/>
+			<S i="0382" f="4" s="1" t="1" n="UNK (0x0021_0x0382)"/>
+			<S i="0383" f="4" s="1" t="1" n="UNK (0x0021_0x0383)"/>
+			<S i="0384" f="4" s="1" t="1" n="UNK (0x0021_0x0384)"/>
 		</TS>
 		<TS id="0451" on="0035" frq="12515000" inv="2" sr="22000000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="0fdc" f="4" s="0" t="2" n="Radio Lebensquelle"/>
@@ -1333,7 +1317,7 @@
 			<S i="3161" f="4" s="0" t="1" n="Clipmobile"/>
 			<S i="3162" f="4" s="0" t="1" n="MB SAT - Test7"/>
 			<S i="3163" f="4" s="0" t="1" n="ALT Sendersuchlauf starten!!"/>
-			<S i="3164" f="4" s="0" t="1" n="MB SAT - Test2"/>
+			<S i="3164" f="4" s="0" t="1f" n="MB SAT - Test2"/>
 			<S i="3165" f="4" s="0" t="1" n="MB SAT - Test6"/>
 			<S i="3166" f="4" s="0" t="1" n="MB SAT - Test4"/>
 			<S i="3167" f="4" s="0" t="1" n="MB SAT - Test5"/>
