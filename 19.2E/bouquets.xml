@@ -801,6 +801,11 @@
 	<Bouquet name="[E019.2] FOXNWS">
 		<S i="749b" t="41c" on="1" s="192" frq="10758" n="FOX NEWS"/>
 	</Bouquet>
+	<Bouquet name="[E019.2] GlobeCast">
+		<S i="79f4" t="443" on="1" s="192" frq="12226" n="EURONEWS FRENCH SD"/>
+		<S i="79fe" t="443" on="1" s="192" frq="12226" n="EURONEWS GERMAN SD"/>
+		<S i="1b03" t="3fe" on="1" s="192" frq="11538" n="TV5MONDE EUROPE"/>
+	</Bouquet>
 	<Bouquet name="[E019.2] GLOBECAST">
 		<S i="1b61" t="3fc" on="1" s="192" frq="11509" n="Al Jazeera Channel"/>
 		<S i="1b63" t="3fc" on="1" s="192" frq="11509" n="Arirang TV"/>
@@ -820,11 +825,6 @@
 		<S i="1af8" t="3fe" on="1" s="192" frq="11538" n="Russia Today"/>
 		<S i="18ec" t="3f4" on="1" s="192" frq="11377" n="TELESUR HD"/>
 		<S i="1b06" t="3fe" on="1" s="192" frq="11538" n="TRT World HD"/>
-	</Bouquet>
-	<Bouquet name="[E019.2] GlobeCast">
-		<S i="79f4" t="443" on="1" s="192" frq="12226" n="EURONEWS FRENCH SD"/>
-		<S i="79fe" t="443" on="1" s="192" frq="12226" n="EURONEWS GERMAN SD"/>
-		<S i="1b03" t="3fe" on="1" s="192" frq="11538" n="TV5MONDE EUROPE"/>
 	</Bouquet>
 	<Bouquet name="[E019.2] GoTV">
 		<S i="3404" t="3ed" on="1" s="192" frq="11273" n="gotv neu"/>
@@ -880,6 +880,7 @@
 		<S i="3139" t="459" on="1" s="192" frq="12633" n="K-TV"/>
 		<S i="3159" t="459" on="1" s="192" frq="12633" n="LEGENDEN TV"/>
 		<S i="314e" t="459" on="1" s="192" frq="12633" n="Maennersache TV"/>
+		<S i="313e" t="459" on="1" s="192" frq="12633" n="MB SAT - Test 8"/>
 		<S i="314d" t="459" on="1" s="192" frq="12633" n="MB SAT - Test1"/>
 		<S i="3164" t="459" on="1" s="192" frq="12633" n="MB SAT - Test2"/>
 		<S i="3166" t="459" on="1" s="192" frq="12633" n="MB SAT - Test4"/>
@@ -888,7 +889,6 @@
 		<S i="3162" t="459" on="1" s="192" frq="12633" n="MB SAT - Test7"/>
 		<S i="3151" t="459" on="1" s="192" frq="12633" n="Mobile Sex"/>
 		<S i="315a" t="459" on="1" s="192" frq="12633" n="nice"/>
-		<S i="313e" t="459" on="1" s="192" frq="12633" n="nice temp"/>
 		<S i="3146" t="459" on="1" s="192" frq="12633" n="rhein main tv"/>
 		<S i="3152" t="459" on="1" s="192" frq="12633" n="SEX-Kontakte"/>
 		<S i="3155" t="459" on="1" s="192" frq="12633" n="Traumfrauen TV"/>
@@ -903,6 +903,7 @@
 		<S i="316f" t="459" on="1" s="192" frq="12633" n="Radio Paloma"/>
 		<S i="3177" t="459" on="1" s="192" frq="12633" n="Radio Regenbogen"/>
 		<S i="3178" t="459" on="1" s="192" frq="12633" n="radioB2 SCHLAGER"/>
+		<S i="3179" t="459" on="1" s="192" frq="12633" n="Regenbogen 2"/>
 		<S i="3172" t="459" on="1" s="192" frq="12633" n="SCHLAGER-RADIO"/>
 	</Bouquet>
 	<Bouquet name="[E019.2] Movistar+">
@@ -916,9 +917,9 @@
 	</Bouquet>
 	<Bouquet name="[E019.2] MTV Networks">
 		<S i="3c" t="7" on="85" s="192" frq="12148" n="Comedy Central Austria"/>
-		<S i="5273" t="41d" on="1" s="192" frq="10773" n="NICK/MTV+ HD"/>
+		<S i="5273" t="41d" on="1" s="192" frq="10773" n="Comedy Central HD"/>
+		<S i="527d" t="41d" on="1" s="192" frq="10773" n="Comedy Central HD AT"/>
 		<S i="3d" t="7" on="85" s="192" frq="12148" n="NICKELODEON AT"/>
-		<S i="527d" t="41d" on="1" s="192" frq="10773" n="NICKELODEON HD AT"/>
 	</Bouquet>
 	<Bouquet name="[E019.2] MTV Networks Europe">
 		<S i="7004" t="436" on="1" s="192" frq="11973" n="Comedy Central"/>
