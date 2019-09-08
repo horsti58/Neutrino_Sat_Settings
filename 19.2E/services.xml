@@ -516,17 +516,25 @@
 		</TS>
 		<TS id="0400" on="0001" frq="11568000" inv="2" sr="23000000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="1a2c" f="4" s="0" t="1" n="Izvestia(test_avc_aac)"/>
-			<S i="1a2d" f="4" s="0" t="1" n="Channel 5 (Ukraine)(test_avc_aac)"/>
+			<S i="1a2d" f="4" s="1" t="1" n="Channel 5 (Ukraine)(test_avc_aac)Encrypted"/>
 			<S i="1a2e" f="4" s="0" t="1" n="TVCi(test_avc_aac)"/>
 			<S i="1a2f" f="4" s="0" t="1" n="CTV(test_avc_aac)"/>
 			<S i="1a30" f="4" s="0" t="1" n="Trofey(test_avc_aac)"/>
 			<S i="1a31" f="4" s="0" t="1" n="Shanson(test_avc_aac)"/>
 			<S i="1a32" f="4" s="0" t="1" n="REN TV Int.(test_avc_aac)"/>
 			<S i="1a33" f="2" s="0" t="1" n="5CHannel-Spb"/>
-			<S i="1a34" f="2" s="0" t="1" n="DOM-INT(test_avc_aac)"/>
+			<S i="1a34" f="4" s="0" t="1" n="DOM-INT(test_avc_aac)"/>
 			<S i="1a35" f="4" s="0" t="1" n="Peretz Int(test_avc_aac)"/>
 			<S i="1a36" f="4" s="0" t="1" n="CTC Int(test_avc_aac)"/>
+			<S i="1a37" f="4" s="0" t="1" n="PlanetaHD(test_HEVC_aac)"/>
+			<S i="1a38" f="4" s="1" t="1" n="Mult(test_HEVC_aac)Encrypted"/>
 			<S i="1a39" f="4" s="0" t="1" n="Perez Int.(test_avc_mpeg2)"/>
+			<S i="1a3a" f="4" s="0" t="1" n="Rybalka i Oxota"/>
+			<S i="1a3b" f="4" s="0" t="1" n="Mir Seriala"/>
+			<S i="1a3c" f="4" s="0" t="1" n="Detskii Mir"/>
+			<S i="1a3d" f="4" s="0" t="1" n="Lyubimoe Kino"/>
+			<S i="1a3e" f="4" s="0" t="1" n="360 MIR"/>
+			<S i="1a3f" f="4" s="0" t="1" n="5 Channel SPB int"/>
 		</TS>
 		<TS id="0401" on="0001" frq="11582000" inv="2" sr="22000000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="2855" f="4" s="0" t="19" n="BR Fernsehen Süd HD"/>
@@ -598,7 +606,7 @@
 			<S i="760e" f="4" s="1" t="1" n="EUROSPORT 2"/>
 		</TS>
 		<TS id="0003" on="0085" frq="11720000" inv="2" sr="27500000" fec="11" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
-			<S i="0008" f="4" s="1" t="16" n="Sky Cinema Summerfeeling"/>
+			<S i="0008" f="4" s="1" t="16" n="Sky Cinema Comedy"/>
 			<S i="0009" f="4" s="1" t="16" n="Sky Cinema Action"/>
 			<S i="001c" f="4" s="1" t="16" n="Disney XD"/>
 			<S i="0085" f="4" s="1" t="19" n="Beate-Uhse.TV HD"/>
@@ -661,7 +669,8 @@
 			<S i="0150" f="4" s="1" t="d3" n="Sky Sport Austria 3"/>
 			<S i="0206" f="4" s="1" t="16" n="Romance TV"/>
 		</TS>
-		<TS id="042c" on="0001" frq="11778000" inv="2" sr="27500000" fec="11" pol="1" mod="0" pli="0" plc="1" plm="0" sys="1">
+		<TS id="042c" on="0001" frq="11778000" inv="2" sr="30000000" fec="11" pol="1" mod="0" pli="0" plc="1" plm="0" sys="1">
+			<S i="0001" f="4" s="0" t="80" n="8kTest"/>
 			<S i="1645" f="2" s="0" t="1" n="ARTEUHD1_HDR"/>
 			<S i="1646" f="2" s="0" t="1" n="ARTEUHD2"/>
 			<S i="164f" f="3" s="0" t="1" n="Asteroid Day"/>
@@ -753,7 +762,7 @@
 			<S i="22c7" f="2" s="1" t="19" n="ELLE GIRL"/>
 			<S i="22ca" f="4" s="1" t="19" n="DISNEY JUNIOR"/>
 			<S i="22cd" f="4" s="1" t="19" n="CANAL+"/>
-			<S i="22ce" f="4" s="1" t="1f" n="4K UHD - EVENEMENT"/>
+			<S i="22ce" f="4" s="0" t="0" n="MOTORSPORT TV HD"/>
 			<S i="22d0" f="4" s="1" t="19" n="NICKELODEON JUNIOR"/>
 			<S i="22d1" f="4" s="1" t="19" n="MULTISPORTS 2"/>
 			<S i="22d2" f="4" s="1" t="19" n="RMC SPORT 1"/>
@@ -821,7 +830,7 @@
 			<S i="0134" f="4" s="1" t="19" n="Sky Sport 7 HD"/>
 			<S i="0136" f="4" s="1" t="19" n="Eurosport360HD 5"/>
 			<S i="0196" f="4" s="1" t="16" n="Kinowelt TV"/>
-			<S i="0197" f="4" s="1" t="16" n="Sky Cinema Family"/>
+			<S i="0197" f="4" s="1" t="16" n="Sky Cinema Back to School"/>
 			<S i="0204" f="4" s="1" t="16" n="Sky Cinema Nostalgie"/>
 		</TS>
 		<TS id="043a" on="0001" frq="12051000" inv="2" sr="27500000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
@@ -1060,7 +1069,7 @@
 			<S i="0069" f="4" s="1" t="19" n="Sky Sport Bundesliga 1 HD"/>
 			<S i="006b" f="4" s="1" t="19" n="Sky Cinema Dark Future HD"/>
 			<S i="006c" f="4" s="0" t="19" n="Sky Sport News HD"/>
-			<S i="0075" f="4" s="1" t="19" n="unknown (0x000C_0x0075)"/>
+			<S i="0075" f="4" s="1" t="19" n="Sky Serien &amp; Shows HD"/>
 			<S i="007c" f="4" s="1" t="19" n="Fox HD"/>
 			<S i="007e" f="4" s="1" t="19" n="SYFY HD"/>
 			<S i="011f" f="4" s="1" t="19" n="Sky Sport Bundesliga 4 HD"/>

@@ -339,7 +339,6 @@
 		<S i="7536" t="426" on="1" s="192" frq="10906" n="TELECINCO HD"/>
 	</Bouquet>
 	<Bouquet name="[E019.2] CanalSat France">
-		<S i="22ce" t="434" on="1" s="192" frq="11934" n="4K UHD - EVENEMENT"/>
 		<S i="1f4b" t="42e" on="1" s="192" frq="11817" n="6TER"/>
 		<S i="2070" t="432" on="1" s="192" frq="11895" n="A LA UNE"/>
 		<S i="2081" t="432" on="1" s="192" frq="11895" n="ARTE"/>
@@ -447,6 +446,7 @@
 		<S i="2017" t="430" on="1" s="192" frq="11856" n="MELODY"/>
 		<S i="1f4a" t="42e" on="1" s="192" frq="11817" n="MEZZO"/>
 		<S i="1966" t="44e" on="1" s="192" frq="12441" n="MEZZO LIVE"/>
+		<S i="22ce" t="434" on="1" s="192" frq="11934" n="MOTORSPORT TV HD"/>
 		<S i="1f44" t="42e" on="1" s="192" frq="11817" n="MTV"/>
 		<S i="1f43" t="42e" on="1" s="192" frq="11817" n="MTV HITS"/>
 		<S i="1f4d" t="42e" on="1" s="192" frq="11817" n="MULTISPORTS 1"/>
@@ -487,8 +487,8 @@
 		<S i="239b" t="44a" on="1" s="192" frq="12363" n="RF"/>
 		<S i="2202" t="44c" on="1" s="192" frq="12402" n="RFM TV"/>
 		<S i="2011" t="430" on="1" s="192" frq="11856" n="RMC DECOUVERTE"/>
-		<S i="22d2" t="434" on="1" s="192" frq="11934" n="RMC SPORT 1"/>
 		<S i="219f" t="448" on="1" s="192" frq="12324" n="RMC SPORT 1"/>
+		<S i="22d2" t="434" on="1" s="192" frq="11934" n="RMC SPORT 1"/>
 		<S i="19c9" t="444" on="1" s="192" frq="12246" n="RMC SPORT 2"/>
 		<S i="21fe" t="44c" on="1" s="192" frq="12402" n="RMC SPORT 3"/>
 		<S i="1f47" t="42e" on="1" s="192" frq="11817" n="RMC SPORT 4"/>
@@ -585,8 +585,8 @@
 	<Bouquet name="[E019.2] Digital+">
 		<S i="7478" t="3f0" on="1" s="192" frq="11318" n="#0"/>
 		<S i="788c" t="414" on="1" s="192" frq="11127" n="#0 HD"/>
-		<S i="7606" t="408" on="1" s="192" frq="11686" n="#VAMOS"/>
 		<S i="760c" t="408" on="1" s="192" frq="11686" n="#VAMOS"/>
+		<S i="7606" t="408" on="1" s="192" frq="11686" n="#VAMOS"/>
 		<S i="778e" t="424" on="1" s="192" frq="10876" n="#VAMOS BAR"/>
 		<S i="756c" t="412" on="1" s="192" frq="11097" n="#VAMOS BAR1"/>
 		<S i="7584" t="412" on="1" s="192" frq="11097" n="#VAMOS BAR2"/>
@@ -659,8 +659,8 @@
 		<S i="7863" t="41a" on="1" s="192" frq="10729" n="LA 1 HD"/>
 		<S i="77c2" t="40a" on="1" s="192" frq="10979" n="LA 2"/>
 		<S i="77bf" t="40a" on="1" s="192" frq="10979" n="LA SEXTA"/>
-		<S i="7793" t="424" on="1" s="192" frq="10876" n="LALIGATV BAR"/>
 		<S i="7859" t="41a" on="1" s="192" frq="10729" n="LALIGATV BAR"/>
+		<S i="7793" t="424" on="1" s="192" frq="10876" n="LALIGATV BAR"/>
 		<S i="76c5" t="40e" on="1" s="192" frq="11038" n="LALIGATVBAR1"/>
 		<S i="769a" t="41e" on="1" s="192" frq="10788" n="LALIGATVBAR2"/>
 		<S i="7574" t="412" on="1" s="192" frq="11097" n="LALIGATVBAR3"/>
@@ -840,15 +840,23 @@
 		<S i="3404" t="3ed" on="1" s="192" frq="11273" n="gotv neu"/>
 	</Bouquet>
 	<Bouquet name="[E019.2] Kartina Satellite">
+		<S i="1a3e" t="400" on="1" s="192" frq="11568" n="360 MIR"/>
+		<S i="1a3f" t="400" on="1" s="192" frq="11568" n="5 Channel SPB int"/>
 		<S i="1a33" t="400" on="1" s="192" frq="11568" n="5CHannel-Spb"/>
-		<S i="1a2d" t="400" on="1" s="192" frq="11568" n="Channel 5 (Ukraine)(test_avc_aac)"/>
+		<S i="1a2d" t="400" on="1" s="192" frq="11568" n="Channel 5 (Ukraine)(test_avc_aac)Encrypted"/>
 		<S i="1a36" t="400" on="1" s="192" frq="11568" n="CTC Int(test_avc_aac)"/>
 		<S i="1a2f" t="400" on="1" s="192" frq="11568" n="CTV(test_avc_aac)"/>
+		<S i="1a3c" t="400" on="1" s="192" frq="11568" n="Detskii Mir"/>
 		<S i="1a34" t="400" on="1" s="192" frq="11568" n="DOM-INT(test_avc_aac)"/>
 		<S i="1a2c" t="400" on="1" s="192" frq="11568" n="Izvestia(test_avc_aac)"/>
+		<S i="1a3d" t="400" on="1" s="192" frq="11568" n="Lyubimoe Kino"/>
+		<S i="1a3b" t="400" on="1" s="192" frq="11568" n="Mir Seriala"/>
+		<S i="1a38" t="400" on="1" s="192" frq="11568" n="Mult(test_HEVC_aac)Encrypted"/>
 		<S i="1a35" t="400" on="1" s="192" frq="11568" n="Peretz Int(test_avc_aac)"/>
 		<S i="1a39" t="400" on="1" s="192" frq="11568" n="Perez Int.(test_avc_mpeg2)"/>
+		<S i="1a37" t="400" on="1" s="192" frq="11568" n="PlanetaHD(test_HEVC_aac)"/>
 		<S i="1a32" t="400" on="1" s="192" frq="11568" n="REN TV Int.(test_avc_aac)"/>
+		<S i="1a3a" t="400" on="1" s="192" frq="11568" n="Rybalka i Oxota"/>
 		<S i="1a31" t="400" on="1" s="192" frq="11568" n="Shanson(test_avc_aac)"/>
 		<S i="1a30" t="400" on="1" s="192" frq="11568" n="Trofey(test_avc_aac)"/>
 		<S i="1a2e" t="400" on="1" s="192" frq="11568" n="TVCi(test_avc_aac)"/>
@@ -1088,6 +1096,7 @@
 	</Bouquet>
 	<Bouquet name="[E019.2] SES">
 		<S i="141b" t="403" on="1" s="192" frq="11612" n="8 TV RU"/>
+		<S i="1" t="42c" on="1" s="192" frq="11778" n="8kTest"/>
 		<S i="1081" t="3ee" on="1" s="192" frq="11288" n="Deutschland Vozrozhdenie"/>
 		<S i="139d" t="3ea" on="1" s="192" frq="11229" n="NHK WORLD-JPN"/>
 		<S i="1418" t="403" on="1" s="192" frq="11612" n="NTV Mir"/>
@@ -1185,14 +1194,14 @@
 		<S i="87" t="b" on="85" s="192" frq="12382" n="Sky Cinema +24 HD"/>
 		<S i="9" t="3" on="85" s="192" frq="11720" n="Sky Cinema Action"/>
 		<S i="74" t="9" on="85" s="192" frq="11171" n="Sky Cinema Action HD"/>
+		<S i="197" t="4" on="85" s="192" frq="12032" n="Sky Cinema Back to School"/>
+		<S i="8" t="3" on="85" s="192" frq="11720" n="Sky Cinema Comedy"/>
 		<S i="29" t="2" on="85" s="192" frq="11758" n="Sky Cinema Dark Future"/>
 		<S i="6b" t="c" on="85" s="192" frq="12304" n="Sky Cinema Dark Future HD"/>
 		<S i="14" t="4" on="85" s="192" frq="12032" n="Sky Cinema Emotion"/>
-		<S i="197" t="4" on="85" s="192" frq="12032" n="Sky Cinema Family"/>
 		<S i="8b" t="2" on="85" s="192" frq="11758" n="Sky Cinema Family HD"/>
 		<S i="83" t="6" on="85" s="192" frq="11914" n="Sky Cinema HD"/>
 		<S i="204" t="4" on="85" s="192" frq="12032" n="Sky Cinema Nostalgie"/>
-		<S i="8" t="3" on="85" s="192" frq="11720" n="Sky Cinema Summerfeeling"/>
 		<S i="17" t="4" on="85" s="192" frq="12032" n="Sky Krimi"/>
 		<S i="12" t="4" on="85" s="192" frq="12032" n="Sky Select"/>
 		<S i="fb" t="3" on="85" s="192" frq="11720" n="Sky Select 1"/>
@@ -1206,6 +1215,7 @@
 		<S i="14b" t="2" on="85" s="192" frq="11758" n="Sky Select 9"/>
 		<S i="fe" t="3" on="85" s="192" frq="11720" n="Sky Select Event A"/>
 		<S i="14e" t="2" on="85" s="192" frq="11758" n="Sky Select Event B"/>
+		<S i="75" t="c" on="85" s="192" frq="12304" n="Sky Serien &amp; Shows HD"/>
 		<S i="dd" t="4" on="85" s="192" frq="12032" n="Sky Sport 1"/>
 		<S i="81" t="6" on="85" s="192" frq="11914" n="Sky Sport 1 HD"/>
 		<S i="14d" t="2" on="85" s="192" frq="11758" n="Sky Sport 10"/>
@@ -1272,7 +1282,6 @@
 		<S i="8c" t="4" on="85" s="192" frq="12032" n="TNT Film HD"/>
 		<S i="7b" t="9" on="85" s="192" frq="11171" n="TNT Serie HD"/>
 		<S i="65" t="9" on="85" s="192" frq="11171" n="Universal TV HD"/>
-		<S i="75" t="c" on="85" s="192" frq="12304" n="unknown (0x000C_0x0075)"/>
 	</Bouquet>
 	<Bouquet name="[E019.2] TSA">
 		<S i="7a4b" t="410" on="1" s="192" frq="11068" n="I24 Francis"/>
