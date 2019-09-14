@@ -18,3 +18,5 @@ FEC 3/4     fec_inner="4"
 QPSK        modulation="1"
 8PSK        modulation="2"
 
+14.09.2019
+
