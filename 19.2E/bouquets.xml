@@ -344,8 +344,10 @@
 		<S i="7537" t="426" on="1" s="192" frq="10906" n="LA SEXTA HD"/>
 		<S i="7532" t="426" on="1" s="192" frq="10906" n="M. DEPORTES1HD"/>
 		<S i="7536" t="426" on="1" s="192" frq="10906" n="TELECINCO HD"/>
+		<S i="7539" t="426" on="1" s="192" frq="10906" n="UNK (0x0426_0x7539)"/>
 	</Bouquet>
 	<Bouquet name="[E019.2] CanalSat France">
+		<S i="22ce" t="434" on="1" s="192" frq="11934" n="4K UHD - EVENEMENT"/>
 		<S i="23aa" t="44a" on="1" s="192" frq="12363" n="6PLAY"/>
 		<S i="1f4b" t="42e" on="1" s="192" frq="11817" n="6TER"/>
 		<S i="2070" t="432" on="1" s="192" frq="11895" n="A LA UNE"/>
@@ -398,18 +400,18 @@
 		<S i="23ed" t="44a" on="1" s="192" frq="12363" n="DATA SERVICE R7"/>
 		<S i="23f3" t="44a" on="1" s="192" frq="12363" n="DATA SERVICE R9"/>
 		<S i="23ef" t="44a" on="1" s="192" frq="12363" n="DATA SYSTEM[98]"/>
-		<S i="1a2b" t="444" on="1" s="192" frq="12246" n="DATASYSTEM"/>
 		<S i="238b" t="442" on="1" s="192" frq="12207" n="DATASYSTEM"/>
 		<S i="225f" t="44c" on="1" s="192" frq="12402" n="DATASYSTEM"/>
-		<S i="270f" t="43e" on="1" s="192" frq="12129" n="DATASYSTEM"/>
-		<S i="251b" t="43c" on="1" s="192" frq="12090" n="DATASYSTEM"/>
 		<S i="24b7" t="440" on="1" s="192" frq="12168" n="DATASYSTEM"/>
-		<S i="22c3" t="438" on="1" s="192" frq="12012" n="DATASYSTEM"/>
+		<S i="1a2b" t="444" on="1" s="192" frq="12246" n="DATASYSTEM"/>
+		<S i="270f" t="43e" on="1" s="192" frq="12129" n="DATASYSTEM"/>
 		<S i="2007" t="434" on="1" s="192" frq="11934" n="DATASYSTEM"/>
+		<S i="251b" t="43c" on="1" s="192" frq="12090" n="DATASYSTEM"/>
+		<S i="22c3" t="438" on="1" s="192" frq="12012" n="DATASYSTEM"/>
+		<S i="1af4" t="3fe" on="1" s="192" frq="11538" n="DATASYSTEM"/>
+		<S i="1fa3" t="42e" on="1" s="192" frq="11817" n="DATASYSTEM"/>
 		<S i="19c7" t="44e" on="1" s="192" frq="12441" n="DATASYSTEM"/>
 		<S i="1b58" t="3fc" on="1" s="192" frq="11509" n="DATASYSTEM"/>
-		<S i="1fa3" t="42e" on="1" s="192" frq="11817" n="DATASYSTEM"/>
-		<S i="1af4" t="3fe" on="1" s="192" frq="11538" n="DATASYSTEM"/>
 		<S i="21fb" t="448" on="1" s="192" frq="12324" n="DATASYSTEM R9"/>
 		<S i="23a2" t="44a" on="1" s="192" frq="12363" n="DEUTSCHE GRAMMOPHON+"/>
 		<S i="23d4" t="44a" on="1" s="192" frq="12363" n="DIAGNOSTIC TECHNIQUE"/>
@@ -501,7 +503,6 @@
 		<S i="23a1" t="44a" on="1" s="192" frq="12363" n="MON NICKELODEON JUNIOR"/>
 		<S i="21ae" t="448" on="1" s="192" frq="12324" n="MOSAIQUE"/>
 		<S i="21af" t="448" on="1" s="192" frq="12324" n="MOSAIQUE BEIN SPORTS"/>
-		<S i="22ce" t="434" on="1" s="192" frq="11934" n="MOTORSPORT TV HD"/>
 		<S i="1f44" t="42e" on="1" s="192" frq="11817" n="MTV"/>
 		<S i="1f43" t="42e" on="1" s="192" frq="11817" n="MTV HITS"/>
 		<S i="26b7" t="43e" on="1" s="192" frq="12129" n="MULTISPORTS"/>
@@ -648,14 +649,6 @@
 		<S i="ef11" t="421" on="1" s="192" frq="10832" n="VOX HD"/>
 		<S i="2e91" t="411" on="1" s="192" frq="11082" n="VOX HD Austria"/>
 	</Bouquet>
-	<Bouquet name="[E019.2] DIGITAL+">
-		<S i="749c" t="41c" on="1" s="192" frq="10758" n="BABY TV"/>
-		<S i="749e" t="41c" on="1" s="192" frq="10758" n="BOING"/>
-		<S i="78b8" t="3ec" on="1" s="192" frq="11259" n="COSMO HD"/>
-		<S i="749a" t="41c" on="1" s="192" frq="10758" n="DIVINITY"/>
-		<S i="749f" t="41c" on="1" s="192" frq="10758" n="ENERGY"/>
-		<S i="74a2" t="41c" on="1" s="192" frq="10758" n="MTV ESPAÑA"/>
-	</Bouquet>
 	<Bouquet name="[E019.2] Digital+">
 		<S i="7478" t="3f0" on="1" s="192" frq="11318" n="#0"/>
 		<S i="788c" t="414" on="1" s="192" frq="11127" n="#0 HD"/>
@@ -760,7 +753,6 @@
 		<S i="756b" t="412" on="1" s="192" frq="11097" n="M. LaLiga 1"/>
 		<S i="74ff" t="420" on="1" s="192" frq="10818" n="M. LaLiga 1 HD"/>
 		<S i="7578" t="412" on="1" s="192" frq="11097" n="M. LaLiga 10"/>
-		<S i="7607" t="408" on="1" s="192" frq="11686" n="M. LaLiga 11"/>
 		<S i="7580" t="412" on="1" s="192" frq="11097" n="M. LaLiga 2"/>
 		<S i="7855" t="41a" on="1" s="192" frq="10729" n="M. LaLiga 2 HD"/>
 		<S i="769c" t="41e" on="1" s="192" frq="10788" n="M. LaLiga 3"/>
@@ -821,6 +813,7 @@
 		<S i="77c3" t="40a" on="1" s="192" frq="10979" n="TELECINCO"/>
 		<S i="76cc" t="40e" on="1" s="192" frq="11038" n="TELEDEPORTE"/>
 		<S i="76a7" t="41e" on="1" s="192" frq="10788" n="TEST F1"/>
+		<S i="7607" t="408" on="1" s="192" frq="11686" n="TEST P"/>
 		<S i="75dd" t="422" on="1" s="192" frq="10847" n="TEST TÉCNICO"/>
 		<S i="7691" t="41e" on="1" s="192" frq="10788" n="TEST Z"/>
 		<S i="75de" t="422" on="1" s="192" frq="10847" n="TEST_CSD1"/>
@@ -833,15 +826,21 @@
 		<S i="7570" t="412" on="1" s="192" frq="11097" n="TOROS"/>
 		<S i="782d" t="428" on="1" s="192" frq="10936" n="TOROS HD"/>
 		<S i="1131" t="404" on="1" s="192" frq="11627" n="TVE INTERNACIONAL EUROPA"/>
+		<S i="7472" t="3f0" on="1" s="192" frq="11318" n="UNK (0x03F0_0x7472)"/>
 		<S i="76c2" t="40e" on="1" s="192" frq="11038" n="UNK (0x040E_0x76C2)"/>
 		<S i="76c4" t="40e" on="1" s="192" frq="11038" n="UNK (0x040E_0x76C4)"/>
+		<S i="788a" t="414" on="1" s="192" frq="11127" n="UNK (0x0414_0x788A)"/>
 		<S i="7853" t="41a" on="1" s="192" frq="10729" n="UNK (0x041A_0x7853)"/>
+		<S i="785a" t="41a" on="1" s="192" frq="10729" n="UNK (0x041A_0x785A)"/>
 		<S i="76a6" t="41e" on="1" s="192" frq="10788" n="UNK (0x041E_0x76A6)"/>
+		<S i="7508" t="420" on="1" s="192" frq="10818" n="UNK (0x0420_0x7508)"/>
+		<S i="750a" t="420" on="1" s="192" frq="10818" n="UNK (0x0420_0x750A)"/>
 		<S i="7599" t="422" on="1" s="192" frq="10847" n="UNK (0x0422_0x7599)"/>
 		<S i="759b" t="422" on="1" s="192" frq="10847" n="UNK (0x0422_0x759B)"/>
 		<S i="75ad" t="422" on="1" s="192" frq="10847" n="UNK (0x0422_0x75AD)"/>
 		<S i="75f4" t="422" on="1" s="192" frq="10847" n="UNK (0x0422_0x75F4)"/>
 		<S i="7798" t="424" on="1" s="192" frq="10876" n="UNK (0x0424_0x7798)"/>
+		<S i="7825" t="428" on="1" s="192" frq="10936" n="UNK (0x0428_0x7825)"/>
 		<S i="75fb" t="408" on="1" s="192" frq="11686" n="unknown (0x0408_0x75FB)"/>
 		<S i="77c4" t="40a" on="1" s="192" frq="10979" n="unknown (0x040A_0x77C4)"/>
 		<S i="75a6" t="422" on="1" s="192" frq="10847" n="unknown (0x0422_0x75A6)"/>
@@ -867,6 +866,14 @@
 		<S i="113e" t="404" on="1" s="192" frq="11627" n="RNE RADIO 5 TODO NOTICIAS"/>
 		<S i="113f" t="404" on="1" s="192" frq="11627" n="RNE RADIO CLASICA"/>
 		<S i="1140" t="404" on="1" s="192" frq="11627" n="RNE RADIO EXTERIOR DE ESPAÑA"/>
+	</Bouquet>
+	<Bouquet name="[E019.2] DIGITAL+">
+		<S i="749c" t="41c" on="1" s="192" frq="10758" n="BABY TV"/>
+		<S i="749e" t="41c" on="1" s="192" frq="10758" n="BOING"/>
+		<S i="78b8" t="3ec" on="1" s="192" frq="11259" n="COSMO HD"/>
+		<S i="749a" t="41c" on="1" s="192" frq="10758" n="DIVINITY"/>
+		<S i="749f" t="41c" on="1" s="192" frq="10758" n="ENERGY"/>
+		<S i="74a2" t="41c" on="1" s="192" frq="10758" n="MTV ESPAÑA"/>
 	</Bouquet>
 	<Bouquet name="[E019.2] Eurociel">
 		<S i="1c79" t="457" on="1" s="192" frq="12604" n="Radio Horeb"/>
@@ -932,6 +939,7 @@
 		<S i="1a37" t="400" on="1" s="192" frq="11568" n="Izvestia"/>
 		<S i="1a2c" t="400" on="1" s="192" frq="11568" n="Izvestia(test_avc_aac)"/>
 		<S i="1a38" t="400" on="1" s="192" frq="11568" n="Mir Seriala"/>
+		<S i="1a48" t="400" on="1" s="192" frq="11568" n="Mir24"/>
 		<S i="1a30" t="400" on="1" s="192" frq="11568" n="Mult"/>
 		<S i="1a39" t="400" on="1" s="192" frq="11568" n="Nashe Lubimoe Kino"/>
 		<S i="1a34" t="400" on="1" s="192" frq="11568" n="Perez"/>
@@ -1133,6 +1141,7 @@
 	<Bouquet name="[E019.2] PRISA TV">
 		<S i="78c0" t="3ec" on="1" s="192" frq="11259" n="COMEDYCENTRALHD"/>
 		<S i="78b5" t="3ec" on="1" s="192" frq="11259" n="FOX LIFE HD"/>
+		<S i="78be" t="3ec" on="1" s="192" frq="11259" n="UNK (0x03EC_0x78BE)"/>
 	</Bouquet>
 	<Bouquet name="[E019.2] ProSiebenSat.1">
 		<S i="4e24" t="43a" on="1" s="192" frq="12051" n="Kabel 1 Austria"/>
@@ -1216,6 +1225,7 @@
 		<S i="1194" t="406" on="1" s="192" frq="11656" n="SPORTDIGITAL FUSSBALL HD"/>
 		<S i="141a" t="403" on="1" s="192" frq="11612" n="STS Int"/>
 		<S i="37" t="f" on="85" s="192" frq="10921" n="unknown (0x000F_0x0037)"/>
+		<S i="1197" t="406" on="1" s="192" frq="11656" n="unknown (0x0406_0x1197)"/>
 	</Bouquet>
 	<Bouquet name="[E019.2] SES Astra">
 		<S i="d" t="457" on="1" s="192" frq="12604" n="ASTRA SDT"/>
@@ -1327,6 +1337,7 @@
 		<S i="2b" t="6" on="85" s="192" frq="11914" n="Sky Cinema +24"/>
 		<S i="87" t="b" on="85" s="192" frq="12382" n="Sky Cinema +24 HD"/>
 		<S i="9" t="3" on="85" s="192" frq="11720" n="Sky Cinema Action"/>
+		<S i="6f" t="d" on="85" s="192" frq="11992" n="Sky Cinema Action Buddies HD"/>
 		<S i="74" t="9" on="85" s="192" frq="11171" n="Sky Cinema Action HD"/>
 		<S i="8" t="3" on="85" s="192" frq="11720" n="Sky Cinema Comedy"/>
 		<S i="14" t="4" on="85" s="192" frq="12032" n="Sky Cinema Emotion"/>
@@ -1336,7 +1347,6 @@
 		<S i="29" t="2" on="85" s="192" frq="11758" n="Sky Cinema Hits"/>
 		<S i="6b" t="c" on="85" s="192" frq="12304" n="Sky Cinema Hits HD"/>
 		<S i="204" t="4" on="85" s="192" frq="12032" n="Sky Cinema Nostalgie"/>
-		<S i="6f" t="d" on="85" s="192" frq="11992" n="Sky Cinema Special HD"/>
 		<S i="17" t="4" on="85" s="192" frq="12032" n="Sky Krimi HD"/>
 		<S i="12" t="4" on="85" s="192" frq="12032" n="Sky Select"/>
 		<S i="fb" t="3" on="85" s="192" frq="11720" n="Sky Select 1"/>
