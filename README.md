@@ -1,8 +1,10 @@
 # Neutrino_Sat_Settings
 
-Neutrino Sat Settings 28.2E, 23.5E, 19.2E, 13.0E, 26.0E, 16.0E, 9.0E, 7.0E, 4.8E, 0.8W 
+Neutrino Sat-Settings 28.2E, 23.5E, 19.2E, 13.0E, 26.0E, 16.0E, 9.0E, 7.0E, 4.8E, 0.8W 
 
-Mit Hilfe der Scripts können diverse Satellitensettings zusammen gestellt werden.
+Neutrino Kabel-Settings UnityMedia und KabelDeutschland/Vodafone
+
+Mit Hilfe der Scripts können diverse Satelliten/Kabelsettings zusammen gestellt werden.
 
 Legende für satellites.xml
 
