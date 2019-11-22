@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Datei erstellt am Freitag, den 22.11.2019 09:00:00 [GMT]
+-->
 <zapit api="4">
 	<sat name="19.2E Astra" position="192" diseqc="-1" uncommited="-1">
 		<TS id="0419" on="0001" frq="10714000" inv="2" sr="22000000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
@@ -315,7 +318,7 @@
 			<S i="30d5" f="4" s="0" t="19" n="unknown (0x0413_0x30D5)"/>
 			<S i="30d6" f="4" s="1" t="19" n="Eurosport 1 HD"/>
 			<S i="30d7" f="4" s="1" t="19" n="Eurosport 2 HD Xtra"/>
-			<S i="30de" f="4" s="0" t="1f" n="Fashion 4K"/>
+			<S i="30de" f="4" s="1" t="1f" n="Fashion 4K"/>
 			<S i="30e8" f="4" s="1" t="19" n="SAT.1 Gold HD Austria"/>
 			<S i="30ea" f="4" s="1" t="19" n="Eurosport 1 HD Austria"/>
 		</TS>
@@ -365,7 +368,7 @@
 			<S i="10d7" f="4" s="0" t="2" n="Radio Maryja"/>
 		</TS>
 		<TS id="03e9" on="0001" frq="11214000" inv="2" sr="22000000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="3459" f="4" s="0" t="1" n="Service 13401"/>
+			<S i="3459" f="4" s="1" t="1f" n="Service 13401"/>
 			<S i="345d" f="4" s="0" t="1" n="Service13405"/>
 			<S i="3462" f="4" s="1" t="1f" n="RTL UHD Austria"/>
 			<S i="3464" f="4" s="0" t="1" n="Service 13412"/>
@@ -834,7 +837,7 @@
 			<S i="22c7" f="2" s="1" t="19" n="ELLE GIRL"/>
 			<S i="22ca" f="4" s="1" t="19" n="DISNEY JUNIOR"/>
 			<S i="22cd" f="4" s="1" t="19" n="CANAL+"/>
-			<S i="22ce" f="4" s="1" t="1f" n="4K UHD - EVENEMENT"/>
+			<S i="22ce" f="4" s="0" t="0" n="MOTORSPORT TV HD"/>
 			<S i="22d0" f="4" s="1" t="19" n="NICKELODEON JUNIOR"/>
 			<S i="22d1" f="4" s="1" t="19" n="MULTISPORTS 2"/>
 			<S i="22d2" f="4" s="1" t="19" n="RMC SPORT 1"/>
@@ -873,7 +876,7 @@
 		<TS id="000d" on="0085" frq="11992000" inv="2" sr="27500000" fec="11" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="0031" f="4" s="1" t="16" n="Spiegel TV Wissen"/>
 			<S i="006e" f="4" s="1" t="19" n="Sky Atlantic HD"/>
-			<S i="006f" f="4" s="1" t="19" n="Sky Cinema Special HD"/>
+			<S i="006f" f="4" s="1" t="19" n="Sky Cinema Western HD"/>
 			<S i="0070" f="4" s="1" t="19" n="NatGeo HD"/>
 			<S i="0072" f="4" s="1" t="19" n="Sky Sport 2 HD"/>
 			<S i="007f" f="4" s="1" t="19" n="13th Street HD"/>
@@ -1502,7 +1505,7 @@
 			<S i="3154" f="4" s="0" t="1" n="Achtung Sexy TV"/>
 			<S i="3155" f="4" s="0" t="1" n="Traumfrauen TV"/>
 			<S i="3156" f="4" s="0" t="1" n="Heiss und Sexy TV"/>
-			<S i="3159" f="4" s="0" t="1" n="LEGENDEN TV"/>
+			<S i="3159" f="4" s="0" t="1" n="Volksmusik.TV - Der neue Sender!"/>
 			<S i="315a" f="4" s="0" t="1" n="nice"/>
 			<S i="315b" f="4" s="0" t="1" n="Babestation24"/>
 			<S i="315c" f="4" s="0" t="1" n="freenet Shopping"/>
@@ -1512,7 +1515,7 @@
 			<S i="3161" f="4" s="0" t="1" n="Clipmobile"/>
 			<S i="3162" f="4" s="0" t="1" n="MB SAT - Test7"/>
 			<S i="3163" f="4" s="0" t="1" n="ALT Sendersuchlauf starten!!"/>
-			<S i="3164" f="4" s="0" t="1f" n="MB SAT - Test2"/>
+			<S i="3164" f="4" s="0" t="1" n="MB SAT - Test2"/>
 			<S i="3165" f="4" s="0" t="1" n="MB SAT - Test6"/>
 			<S i="3166" f="4" s="0" t="1" n="MB SAT - Test4"/>
 			<S i="3167" f="4" s="0" t="1" n="MB SAT - Test5"/>

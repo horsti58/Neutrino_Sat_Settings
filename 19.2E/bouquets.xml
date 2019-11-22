@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Datei erstellt am Freitag, den 22.11.2019 09:00:00 [GMT]
+-->
 <zapit api="4">
 	<Bouquet name="[E019.2] -">
 		<S i="3338" t="45b" on="1" s="192" frq="12663" n="4MEDIATHEK"/>
@@ -340,7 +343,6 @@
 		<S i="7539" t="426" on="1" s="192" frq="10906" n="UNK (0x0426_0x7539)"/>
 	</Bouquet>
 	<Bouquet name="[E019.2] CanalSat France">
-		<S i="22ce" t="434" on="1" s="192" frq="11934" n="4K UHD - EVENEMENT"/>
 		<S i="1f4b" t="42e" on="1" s="192" frq="11817" n="6TER"/>
 		<S i="2070" t="432" on="1" s="192" frq="11895" n="A LA UNE"/>
 		<S i="2081" t="432" on="1" s="192" frq="11895" n="ARTE"/>
@@ -364,8 +366,8 @@
 		<S i="2334" t="442" on="1" s="192" frq="12207" n="C8"/>
 		<S i="196f" t="44e" on="1" s="192" frq="12441" n="CANAL J"/>
 		<S i="219b" t="448" on="1" s="192" frq="12324" n="CANAL+"/>
-		<S i="22cd" t="434" on="1" s="192" frq="11934" n="CANAL+"/>
 		<S i="2261" t="438" on="1" s="192" frq="12012" n="CANAL+"/>
+		<S i="22cd" t="434" on="1" s="192" frq="11934" n="CANAL+"/>
 		<S i="2263" t="438" on="1" s="192" frq="12012" n="CANAL+ CINEMA"/>
 		<S i="2262" t="438" on="1" s="192" frq="12012" n="CANAL+ DECALE"/>
 		<S i="2265" t="438" on="1" s="192" frq="12012" n="CANAL+ FAMILY"/>
@@ -449,6 +451,7 @@
 		<S i="2017" t="430" on="1" s="192" frq="11856" n="MELODY"/>
 		<S i="1f4a" t="42e" on="1" s="192" frq="11817" n="MEZZO"/>
 		<S i="1966" t="44e" on="1" s="192" frq="12441" n="MEZZO LIVE"/>
+		<S i="22ce" t="434" on="1" s="192" frq="11934" n="MOTORSPORT TV HD"/>
 		<S i="1f44" t="42e" on="1" s="192" frq="11817" n="MTV"/>
 		<S i="1f43" t="42e" on="1" s="192" frq="11817" n="MTV HITS"/>
 		<S i="1f4d" t="42e" on="1" s="192" frq="11817" n="MULTISPORTS 1"/>
@@ -585,11 +588,19 @@
 		<S i="ef11" t="421" on="1" s="192" frq="10832" n="VOX HD"/>
 		<S i="2e91" t="411" on="1" s="192" frq="11082" n="VOX HD Austria"/>
 	</Bouquet>
+	<Bouquet name="[E019.2] DIGITAL+">
+		<S i="749c" t="41c" on="1" s="192" frq="10758" n="BABY TV"/>
+		<S i="749e" t="41c" on="1" s="192" frq="10758" n="BOING"/>
+		<S i="78b8" t="3ec" on="1" s="192" frq="11259" n="COSMO HD"/>
+		<S i="749a" t="41c" on="1" s="192" frq="10758" n="DIVINITY"/>
+		<S i="749f" t="41c" on="1" s="192" frq="10758" n="ENERGY"/>
+		<S i="74a2" t="41c" on="1" s="192" frq="10758" n="MTV ESPAÑA"/>
+	</Bouquet>
 	<Bouquet name="[E019.2] Digital+">
 		<S i="7478" t="3f0" on="1" s="192" frq="11318" n="#0"/>
 		<S i="788c" t="414" on="1" s="192" frq="11127" n="#0 HD"/>
-		<S i="7606" t="408" on="1" s="192" frq="11686" n="#VAMOS"/>
 		<S i="760c" t="408" on="1" s="192" frq="11686" n="#VAMOS"/>
+		<S i="7606" t="408" on="1" s="192" frq="11686" n="#VAMOS"/>
 		<S i="778e" t="424" on="1" s="192" frq="10876" n="#VAMOS BAR"/>
 		<S i="756c" t="412" on="1" s="192" frq="11097" n="#VAMOS BAR1"/>
 		<S i="7584" t="412" on="1" s="192" frq="11097" n="#VAMOS BAR2"/>
@@ -817,14 +828,6 @@
 		<S i="113f" t="404" on="1" s="192" frq="11627" n="RNE RADIO CLASICA"/>
 		<S i="1140" t="404" on="1" s="192" frq="11627" n="RNE RADIO EXTERIOR DE ESPAÑA"/>
 	</Bouquet>
-	<Bouquet name="[E019.2] DIGITAL+">
-		<S i="749c" t="41c" on="1" s="192" frq="10758" n="BABY TV"/>
-		<S i="749e" t="41c" on="1" s="192" frq="10758" n="BOING"/>
-		<S i="78b8" t="3ec" on="1" s="192" frq="11259" n="COSMO HD"/>
-		<S i="749a" t="41c" on="1" s="192" frq="10758" n="DIVINITY"/>
-		<S i="749f" t="41c" on="1" s="192" frq="10758" n="ENERGY"/>
-		<S i="74a2" t="41c" on="1" s="192" frq="10758" n="MTV ESPAÑA"/>
-	</Bouquet>
 	<Bouquet name="[E019.2] Eurociel">
 		<S i="1c79" t="457" on="1" s="192" frq="12604" n="Radio Horeb"/>
 	</Bouquet>
@@ -935,7 +938,6 @@
 		<S i="3156" t="459" on="1" s="192" frq="12633" n="Heiss und Sexy TV"/>
 		<S i="3148" t="459" on="1" s="192" frq="12633" n="JuweloTV"/>
 		<S i="3139" t="459" on="1" s="192" frq="12633" n="K-TV"/>
-		<S i="3159" t="459" on="1" s="192" frq="12633" n="LEGENDEN TV"/>
 		<S i="314e" t="459" on="1" s="192" frq="12633" n="Maennersache TV"/>
 		<S i="313e" t="459" on="1" s="192" frq="12633" n="MB SAT - Test 8"/>
 		<S i="314d" t="459" on="1" s="192" frq="12633" n="MB SAT - Test1"/>
@@ -949,6 +951,7 @@
 		<S i="3146" t="459" on="1" s="192" frq="12633" n="rhein main tv"/>
 		<S i="3152" t="459" on="1" s="192" frq="12633" n="SEX-Kontakte"/>
 		<S i="3155" t="459" on="1" s="192" frq="12633" n="Traumfrauen TV"/>
+		<S i="3159" t="459" on="1" s="192" frq="12633" n="Volksmusik.TV - Der neue Sender!"/>
 		<S i="316e" t="459" on="1" s="192" frq="12633" n="ffn"/>
 		<S i="3176" t="459" on="1" s="192" frq="12633" n="harmony.fm"/>
 		<S i="3174" t="459" on="1" s="192" frq="12633" n="HIT RADIO FFH"/>
@@ -1246,7 +1249,7 @@
 		<S i="29" t="2" on="85" s="192" frq="11758" n="Sky Cinema Hits"/>
 		<S i="6b" t="c" on="85" s="192" frq="12304" n="Sky Cinema Hits HD"/>
 		<S i="204" t="4" on="85" s="192" frq="12032" n="Sky Cinema Nostalgie"/>
-		<S i="6f" t="d" on="85" s="192" frq="11992" n="Sky Cinema Special HD"/>
+		<S i="6f" t="d" on="85" s="192" frq="11992" n="Sky Cinema Western HD"/>
 		<S i="17" t="4" on="85" s="192" frq="12032" n="Sky Krimi HD"/>
 		<S i="12" t="4" on="85" s="192" frq="12032" n="Sky Select"/>
 		<S i="fb" t="3" on="85" s="192" frq="11720" n="Sky Select 1"/>
