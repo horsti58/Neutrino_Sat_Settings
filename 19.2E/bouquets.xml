@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-	Datei erstellt am Freitag, den 22.11.2019 09:00:00 [GMT]
+	Datei erstellt am Sonntag, den 01.12.2019 12:00:00 [GMT]
 -->
 <zapit api="4">
 	<Bouquet name="[E019.2] -">
@@ -186,7 +186,7 @@
 		<S i="6f3b" t="445" on="1" s="192" frq="12266" n="1LIVE"/>
 		<S i="6f41" t="445" on="1" s="192" frq="12266" n="1LIVE diGGi"/>
 		<S i="6f40" t="445" on="1" s="192" frq="12266" n="COSMO"/>
-		<S i="6f42" t="445" on="1" s="192" frq="12266" n="KIRAKA"/>
+		<S i="6f42" t="445" on="1" s="192" frq="12266" n="Die Maus"/>
 		<S i="6f3c" t="445" on="1" s="192" frq="12266" n="WDR 2 Rheinland"/>
 		<S i="6f3d" t="445" on="1" s="192" frq="12266" n="WDR 3"/>
 		<S i="6f3e" t="445" on="1" s="192" frq="12266" n="WDR 4"/>
@@ -584,17 +584,9 @@
 		<S i="2e9b" t="411" on="1" s="192" frq="11082" n="SUPER RTL HD"/>
 		<S i="2efe" t="441" on="1" s="192" frq="12188" n="TOGGO plus"/>
 		<S i="2f1c" t="441" on="1" s="192" frq="12188" n="VOX"/>
-		<S i="7094" t="443" on="1" s="192" frq="12226" n="VOX CH"/>
 		<S i="ef11" t="421" on="1" s="192" frq="10832" n="VOX HD"/>
 		<S i="2e91" t="411" on="1" s="192" frq="11082" n="VOX HD Austria"/>
-	</Bouquet>
-	<Bouquet name="[E019.2] DIGITAL+">
-		<S i="749c" t="41c" on="1" s="192" frq="10758" n="BABY TV"/>
-		<S i="749e" t="41c" on="1" s="192" frq="10758" n="BOING"/>
-		<S i="78b8" t="3ec" on="1" s="192" frq="11259" n="COSMO HD"/>
-		<S i="749a" t="41c" on="1" s="192" frq="10758" n="DIVINITY"/>
-		<S i="749f" t="41c" on="1" s="192" frq="10758" n="ENERGY"/>
-		<S i="74a2" t="41c" on="1" s="192" frq="10758" n="MTV ESPAÑA"/>
+		<S i="7094" t="443" on="1" s="192" frq="12226" n="VOXup"/>
 	</Bouquet>
 	<Bouquet name="[E019.2] Digital+">
 		<S i="7478" t="3f0" on="1" s="192" frq="11318" n="#0"/>
@@ -828,6 +820,14 @@
 		<S i="113f" t="404" on="1" s="192" frq="11627" n="RNE RADIO CLASICA"/>
 		<S i="1140" t="404" on="1" s="192" frq="11627" n="RNE RADIO EXTERIOR DE ESPAÑA"/>
 	</Bouquet>
+	<Bouquet name="[E019.2] DIGITAL+">
+		<S i="749c" t="41c" on="1" s="192" frq="10758" n="BABY TV"/>
+		<S i="749e" t="41c" on="1" s="192" frq="10758" n="BOING"/>
+		<S i="78b8" t="3ec" on="1" s="192" frq="11259" n="COSMO HD"/>
+		<S i="749a" t="41c" on="1" s="192" frq="10758" n="DIVINITY"/>
+		<S i="749f" t="41c" on="1" s="192" frq="10758" n="ENERGY"/>
+		<S i="74a2" t="41c" on="1" s="192" frq="10758" n="MTV ESPAÑA"/>
+	</Bouquet>
 	<Bouquet name="[E019.2] Eurociel">
 		<S i="1c79" t="457" on="1" s="192" frq="12604" n="Radio Horeb"/>
 	</Bouquet>
@@ -887,6 +887,7 @@
 		<S i="1a47" t="400" on="1" s="192" frq="11568" n="RTVi Archive"/>
 		<S i="1a49" t="400" on="1" s="192" frq="11568" n="Russian Music Box"/>
 		<S i="1a36" t="400" on="1" s="192" frq="11568" n="Shanson"/>
+		<S i="1a4b" t="400" on="1" s="192" frq="11568" n="Souz"/>
 		<S i="1a43" t="400" on="1" s="192" frq="11568" n="Trofey"/>
 		<S i="1a32" t="400" on="1" s="192" frq="11568" n="TVCi"/>
 		<S i="1a45" t="400" on="1" s="192" frq="11568" n="Ukraine1"/>
@@ -1249,7 +1250,7 @@
 		<S i="29" t="2" on="85" s="192" frq="11758" n="Sky Cinema Hits"/>
 		<S i="6b" t="c" on="85" s="192" frq="12304" n="Sky Cinema Hits HD"/>
 		<S i="204" t="4" on="85" s="192" frq="12032" n="Sky Cinema Nostalgie"/>
-		<S i="6f" t="d" on="85" s="192" frq="11992" n="Sky Cinema Western HD"/>
+		<S i="6f" t="d" on="85" s="192" frq="11992" n="Sky Cinema Special HD"/>
 		<S i="17" t="4" on="85" s="192" frq="12032" n="Sky Krimi HD"/>
 		<S i="12" t="4" on="85" s="192" frq="12032" n="Sky Select"/>
 		<S i="fb" t="3" on="85" s="192" frq="11720" n="Sky Select 1"/>

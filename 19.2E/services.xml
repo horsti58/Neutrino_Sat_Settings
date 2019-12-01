@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-	Datei erstellt am Freitag, den 22.11.2019 09:00:00 [GMT]
+	Datei erstellt am Sonntag, den 01.12.2019 12:00:00 [GMT]
 -->
 <zapit api="4">
 	<sat name="19.2E Astra" position="192" diseqc="-1" uncommited="-1">
@@ -229,7 +229,7 @@
 		</TS>
 		<TS id="040b" on="0001" frq="10994000" inv="2" sr="22000000" fec="5" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0001" f="4" s="0" t="1f" n="SES UHD Demo Channel"/>
-			<S i="0002" f="4" s="0" t="1f" n="UHD1 by ASTRA / HD+"/>
+			<S i="0002" f="4" s="1" t="1f" n="UHD1 by ASTRA / HD+"/>
 			<S i="183a" f="4" s="1" t="1f" n="Travelxp 4k"/>
 		</TS>
 		<TS id="040e" on="0001" frq="11038000" inv="2" sr="22000000" fec="5" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
@@ -596,6 +596,7 @@
 			<S i="1a48" f="4" s="1" t="1" n="Mir24"/>
 			<S i="1a49" f="4" s="1" t="1" n="Russian Music Box"/>
 			<S i="1a4a" f="4" s="1" t="1" n="1+1 International"/>
+			<S i="1a4b" f="1" s="1" t="1" n="Souz"/>
 		</TS>
 		<TS id="0401" on="0001" frq="11582000" inv="2" sr="22000000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="2855" f="4" s="0" t="19" n="BR Fernsehen Süd HD"/>
@@ -876,7 +877,7 @@
 		<TS id="000d" on="0085" frq="11992000" inv="2" sr="27500000" fec="11" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="0031" f="4" s="1" t="16" n="Spiegel TV Wissen"/>
 			<S i="006e" f="4" s="1" t="19" n="Sky Atlantic HD"/>
-			<S i="006f" f="4" s="1" t="19" n="Sky Cinema Western HD"/>
+			<S i="006f" f="4" s="1" t="19" n="Sky Cinema Special HD"/>
 			<S i="0070" f="4" s="1" t="19" n="NatGeo HD"/>
 			<S i="0072" f="4" s="1" t="19" n="Sky Sport 2 HD"/>
 			<S i="007f" f="4" s="1" t="19" n="13th Street HD"/>
@@ -1057,8 +1058,8 @@
 			<S i="7085" f="4" s="0" t="1" n="VOX Austria"/>
 			<S i="708a" f="4" s="0" t="1" n="RTL2 Austria"/>
 			<S i="708f" f="4" s="0" t="1" n="SUPER RTL A"/>
-			<S i="7094" f="4" s="0" t="1" n="VOX CH"/>
-			<S i="7099" f="4" s="0" t="1" n="RTL CH"/>
+			<S i="7094" f="4" s="0" t="1" n="VOXup"/>
+			<S i="7099" f="2" s="0" t="1" n="RTL CH"/>
 			<S i="79e0" f="4" s="0" t="1" n="Eurosport 1 Deutschland"/>
 			<S i="79ea" f="4" s="0" t="1" n="HSE24 EXTRA"/>
 			<S i="79f4" f="4" s="0" t="1" n="EURONEWS FRENCH SD"/>
@@ -1143,7 +1144,7 @@
 			<S i="6f3f" f="4" s="0" t="2" n="WDR 5"/>
 			<S i="6f40" f="4" s="0" t="2" n="COSMO"/>
 			<S i="6f41" f="4" s="0" t="2" n="1LIVE diGGi"/>
-			<S i="6f42" f="4" s="0" t="2" n="KIRAKA"/>
+			<S i="6f42" f="4" s="0" t="2" n="Die Maus"/>
 			<S i="6f43" f="4" s="0" t="2" n="WDR Event"/>
 			<S i="6f46" f="4" s="0" t="1" n="SR Fernsehen"/>
 			<S i="6f47" f="4" s="0" t="1" n="ARD-alpha"/>
