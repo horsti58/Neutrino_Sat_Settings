@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-	Datei erstellt am Sonntag, den 01.12.2019 12:00:00 [GMT]
+	Datei erstellt am Sonntag, den 08.12.2019 12:00:00 [GMT]
 -->
 <zapit api="4">
 	<Bouquet name="[E019.2] -">
@@ -212,6 +212,8 @@
 		<S i="2fc" t="5" on="85" s="192" frq="12460" n="ANIXE+"/>
 		<S i="295" t="21" on="85" s="192" frq="12480" n="AstroTV"/>
 		<S i="4c" t="21" on="85" s="192" frq="12480" n="Baden TV"/>
+		<S i="f86" t="4" on="85" s="192" frq="12032" n="BData3"/>
+		<S i="dac" t="4" on="85" s="192" frq="12032" n="BEM Service"/>
 		<S i="301" t="7" on="85" s="192" frq="12148" n="Channel21"/>
 		<S i="2778" t="409" on="1" s="192" frq="10964" n="Channel21 HD"/>
 		<S i="41" t="7" on="85" s="192" frq="12148" n="DELUXE MUSIC"/>
@@ -230,6 +232,7 @@
 		<S i="36" t="7" on="85" s="192" frq="12148" n="Genius exklusiv"/>
 		<S i="21" t="f" on="85" s="192" frq="10921" n="Genius family"/>
 		<S i="5279" t="41d" on="1" s="192" frq="10773" n="Genius Plus"/>
+		<S i="dad" t="4" on="85" s="192" frq="12032" n="GFD Service"/>
 		<S i="293" t="5" on="85" s="192" frq="12460" n="Handystar TV"/>
 		<S i="2e" t="21" on="85" s="192" frq="12480" n="Handystar TV 2"/>
 		<S i="2776" t="409" on="1" s="192" frq="10964" n="Handystar TV HD"/>
@@ -258,6 +261,8 @@
 		<S i="1580" t="41f" on="1" s="192" frq="10803" n="QVC2 HD"/>
 		<S i="2f" t="21" on="85" s="192" frq="12480" n="REGIO TV"/>
 		<S i="3070" t="3f5" on="1" s="192" frq="11391" n="RTL 2 CH"/>
+		<S i="dae" t="4" on="85" s="192" frq="12032" n="SDMS Service 1"/>
+		<S i="daf" t="4" on="85" s="192" frq="12032" n="SDMS Service 2"/>
 		<S i="125c" t="3f7" on="1" s="192" frq="11421" n="SES 01"/>
 		<S i="125d" t="3f7" on="1" s="192" frq="11421" n="SES 02"/>
 		<S i="125f" t="3f7" on="1" s="192" frq="11421" n="SES 04"/>
@@ -706,8 +711,8 @@
 		<S i="7696" t="41e" on="1" s="192" frq="10788" n="M. SERIES"/>
 		<S i="7882" t="414" on="1" s="192" frq="11127" n="M. SERIES HD"/>
 		<S i="76ca" t="40e" on="1" s="192" frq="11038" n="M. SERIESMANIA"/>
-		<S i="77c6" t="40a" on="1" s="192" frq="10979" n="M.CineDoc&amp;Roll"/>
 		<S i="74d8" t="3f8" on="1" s="192" frq="11436" n="M.CineDoc&amp;Roll"/>
+		<S i="77c6" t="40a" on="1" s="192" frq="10979" n="M.CineDoc&amp;Roll"/>
 		<S i="7857" t="41a" on="1" s="192" frq="10729" n="M.COMEDIA HD"/>
 		<S i="74d5" t="3f8" on="1" s="192" frq="11436" n="M.ESTRENOSHD"/>
 		<S i="7861" t="41a" on="1" s="192" frq="10729" n="M.LCAMPEON1"/>
@@ -787,6 +792,7 @@
 		<S i="7508" t="420" on="1" s="192" frq="10818" n="UNK (0x0420_0x7508)"/>
 		<S i="750a" t="420" on="1" s="192" frq="10818" n="UNK (0x0420_0x750A)"/>
 		<S i="7599" t="422" on="1" s="192" frq="10847" n="UNK (0x0422_0x7599)"/>
+		<S i="759a" t="422" on="1" s="192" frq="10847" n="UNK (0x0422_0x759A)"/>
 		<S i="759b" t="422" on="1" s="192" frq="10847" n="UNK (0x0422_0x759B)"/>
 		<S i="75ad" t="422" on="1" s="192" frq="10847" n="UNK (0x0422_0x75AD)"/>
 		<S i="75f4" t="422" on="1" s="192" frq="10847" n="UNK (0x0422_0x75F4)"/>
@@ -862,6 +868,9 @@
 	</Bouquet>
 	<Bouquet name="[E019.2] GoTV">
 		<S i="3404" t="3ed" on="1" s="192" frq="11273" n="gotv neu"/>
+	</Bouquet>
+	<Bouquet name="[E019.2] Harmonic">
+		<S i="1090" t="3ee" on="1" s="192" frq="11288" n="D7 TV"/>
 	</Bouquet>
 	<Bouquet name="[E019.2] Kartina Satellite">
 		<S i="1a4a" t="400" on="1" s="192" frq="11568" n="1+1 International"/>
@@ -943,12 +952,14 @@
 		<S i="313e" t="459" on="1" s="192" frq="12633" n="MB SAT - Test 8"/>
 		<S i="314d" t="459" on="1" s="192" frq="12633" n="MB SAT - Test1"/>
 		<S i="3164" t="459" on="1" s="192" frq="12633" n="MB SAT - Test2"/>
+		<S i="315e" t="459" on="1" s="192" frq="12633" n="MB SAT - Test3"/>
 		<S i="3166" t="459" on="1" s="192" frq="12633" n="MB SAT - Test4"/>
 		<S i="3167" t="459" on="1" s="192" frq="12633" n="MB SAT - Test5"/>
 		<S i="3165" t="459" on="1" s="192" frq="12633" n="MB SAT - Test6"/>
 		<S i="3162" t="459" on="1" s="192" frq="12633" n="MB SAT - Test7"/>
 		<S i="3151" t="459" on="1" s="192" frq="12633" n="Mobile Sex"/>
 		<S i="315a" t="459" on="1" s="192" frq="12633" n="nice"/>
+		<S i="3145" t="459" on="1" s="192" frq="12633" n="RAPS"/>
 		<S i="3146" t="459" on="1" s="192" frq="12633" n="rhein main tv"/>
 		<S i="3152" t="459" on="1" s="192" frq="12633" n="SEX-Kontakte"/>
 		<S i="3155" t="459" on="1" s="192" frq="12633" n="Traumfrauen TV"/>
@@ -1232,6 +1243,7 @@
 		<S i="a8" t="b" on="85" s="192" frq="12382" n="Motorvision TV"/>
 		<S i="76" t="6" on="85" s="192" frq="11914" n="Nat Geo Wild HD"/>
 		<S i="70" t="d" on="85" s="192" frq="11992" n="NatGeo HD"/>
+		<S i="a83" t="4" on="85" s="192" frq="12032" n="NDS Applikation"/>
 		<S i="206" t="2" on="85" s="192" frq="11758" n="Romance TV"/>
 		<S i="93" t="2" on="85" s="192" frq="11758" n="Sky 1 HD"/>
 		<S i="6e" t="d" on="85" s="192" frq="11992" n="Sky Atlantic HD"/>
@@ -1242,6 +1254,7 @@
 		<S i="87" t="b" on="85" s="192" frq="12382" n="Sky Cinema +24 HD"/>
 		<S i="9" t="3" on="85" s="192" frq="11720" n="Sky Cinema Action"/>
 		<S i="74" t="9" on="85" s="192" frq="11171" n="Sky Cinema Action HD"/>
+		<S i="204" t="4" on="85" s="192" frq="12032" n="Sky Cinema Bud Spencer"/>
 		<S i="8" t="3" on="85" s="192" frq="11720" n="Sky Cinema Comedy"/>
 		<S i="14" t="4" on="85" s="192" frq="12032" n="Sky Cinema Emotion"/>
 		<S i="197" t="4" on="85" s="192" frq="12032" n="Sky Cinema Family"/>
@@ -1249,7 +1262,6 @@
 		<S i="83" t="6" on="85" s="192" frq="11914" n="Sky Cinema HD"/>
 		<S i="29" t="2" on="85" s="192" frq="11758" n="Sky Cinema Hits"/>
 		<S i="6b" t="c" on="85" s="192" frq="12304" n="Sky Cinema Hits HD"/>
-		<S i="204" t="4" on="85" s="192" frq="12032" n="Sky Cinema Nostalgie"/>
 		<S i="6f" t="d" on="85" s="192" frq="11992" n="Sky Cinema Special HD"/>
 		<S i="17" t="4" on="85" s="192" frq="12032" n="Sky Krimi HD"/>
 		<S i="12" t="4" on="85" s="192" frq="12032" n="Sky Select"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-	Datei erstellt am Sonntag, den 01.12.2019 12:00:00 [GMT]
+	Datei erstellt am Sonntag, den 08.12.2019 12:00:00 [GMT]
 -->
 <zapit api="4">
 	<sat name="19.2E Astra" position="192" diseqc="-1" uncommited="-1">
@@ -68,7 +68,7 @@
 			<S i="7691" f="4" s="1" t="1" n="TEST Z"/>
 			<S i="7692" f="4" s="1" t="1" n="MULTIDEPORTE"/>
 			<S i="7693" f="4" s="1" t="1" n="M. DEPORTES7"/>
-			<S i="7694" f="4" s="1" t="1" n="UNK (0x041E_0x7694)"/>
+			<S i="7694" f="2" s="1" t="1" n="UNK (0x041E_0x7694)"/>
 			<S i="7695" f="4" s="1" t="1" n="ALQUILER XY"/>
 			<S i="7696" f="4" s="1" t="1" n="M. SERIES"/>
 			<S i="7697" f="4" s="1" t="1" n="NICK JR"/>
@@ -115,6 +115,7 @@
 			<S i="7596" f="4" s="0" t="1" n="RADIOS"/>
 			<S i="7598" f="4" s="0" t="2" n="RADIOS ESP"/>
 			<S i="7599" f="4" s="1" t="1" n="UNK (0x0422_0x7599)"/>
+			<S i="759a" f="1" s="1" t="1" n="UNK (0x0422_0x759A)"/>
 			<S i="759b" f="4" s="1" t="1" n="UNK (0x0422_0x759B)"/>
 			<S i="759c" f="4" s="0" t="1" n="PORTADA"/>
 			<S i="759e" f="4" s="0" t="1" n="BAJO DEMANDA"/>
@@ -427,6 +428,7 @@
 			<S i="1078" f="4" s="0" t="1" n="RAI News 24"/>
 			<S i="1081" f="4" s="0" t="16" n="Deutschland Vozrozhdenie"/>
 			<S i="1086" f="4" s="0" t="1f" n="QVC UHD"/>
+			<S i="1090" f="4" s="0" t="1" n="D7 TV"/>
 		</TS>
 		<TS id="03ef" on="0001" frq="11303000" inv="2" sr="22000000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="132f" f="4" s="1" t="19" n="ORF1 HD"/>
@@ -915,7 +917,7 @@
 			<S i="0136" f="4" s="1" t="19" n="Eurosport360HD 5"/>
 			<S i="0196" f="2" s="1" t="16" n="Kinowelt TV"/>
 			<S i="0197" f="4" s="1" t="16" n="Sky Cinema Family"/>
-			<S i="0204" f="4" s="1" t="16" n="Sky Cinema Nostalgie"/>
+			<S i="0204" f="4" s="1" t="16" n="Sky Cinema Bud Spencer"/>
 			<S i="0a83" f="2" s="0" t="c1" n="NDS Applikation"/>
 			<S i="0dac" f="2" s="0" t="95" n="BEM Service"/>
 			<S i="0dad" f="2" s="0" t="96" n="GFD Service"/>
@@ -1516,7 +1518,7 @@
 			<S i="3161" f="4" s="0" t="1" n="Clipmobile"/>
 			<S i="3162" f="4" s="0" t="1" n="MB SAT - Test7"/>
 			<S i="3163" f="4" s="0" t="1" n="ALT Sendersuchlauf starten!!"/>
-			<S i="3164" f="4" s="0" t="1" n="MB SAT - Test2"/>
+			<S i="3164" f="4" s="0" t="1f" n="MB SAT - Test2"/>
 			<S i="3165" f="4" s="0" t="1" n="MB SAT - Test6"/>
 			<S i="3166" f="4" s="0" t="1" n="MB SAT - Test4"/>
 			<S i="3167" f="4" s="0" t="1" n="MB SAT - Test5"/>
