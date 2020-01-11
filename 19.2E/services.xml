@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-	Datei erstellt am Dienstag, den 25.12.2019 12:00:00 [GMT]
+	Datei erstellt am Samstag, den 11.01.2020 19:00:00 [GMT]
 -->
 <zapit api="4">
 	<sat name="19.2E Astra" position="192" diseqc="-1" uncommited="-1">
@@ -722,6 +722,7 @@
 		</TS>
 		<TS id="042e" on="0001" frq="11817000" inv="2" sr="29700000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="1f41" f="4" s="1" t="19" n="BET"/>
+			<S i="1f42" f="1" s="1" t="1" n="UNK (0x042E_0x1F42)"/>
 			<S i="1f43" f="4" s="1" t="19" n="MTV HITS"/>
 			<S i="1f44" f="4" s="1" t="19" n="MTV"/>
 			<S i="1f45" f="4" s="1" t="19" n="FRANCEINFO:"/>
@@ -830,7 +831,7 @@
 		<TS id="000d" on="0085" frq="11992000" inv="2" sr="27500000" fec="11" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="0031" f="4" s="1" t="16" n="Spiegel TV Wissen"/>
 			<S i="006e" f="4" s="1" t="19" n="Sky Atlantic HD"/>
-			<S i="006f" f="4" s="1" t="19" n="Sky Cinema Mittelerde HD"/>
+			<S i="006f" f="4" s="1" t="19" n="Sky Cinema Special HD"/>
 			<S i="0070" f="4" s="1" t="19" n="NatGeo HD"/>
 			<S i="0072" f="4" s="1" t="19" n="Sky Sport 2 HD"/>
 			<S i="007f" f="4" s="1" t="19" n="13th Street HD"/>
@@ -1253,6 +1254,7 @@
 		<TS id="044c" on="0001" frq="12402000" inv="2" sr="29700000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="21fd" f="4" s="1" t="19" n="FRANCE 4"/>
 			<S i="21fe" f="4" s="1" t="19" n="RMC SPORT 3"/>
+			<S i="21ff" f="4" s="1" t="1" n="UNK (0x044C_0x21FF)"/>
 			<S i="2201" f="4" s="1" t="19" n="TV BREIZH"/>
 			<S i="2202" f="4" s="1" t="19" n="RFM TV"/>
 			<S i="2203" f="4" s="1" t="19" n="TIJI"/>
@@ -1428,7 +1430,7 @@
 			<S i="313e" f="4" s="0" t="1" n="MB SAT - Test 8"/>
 			<S i="313f" f="4" s="0" t="19" n="freenet TV connect"/>
 			<S i="3144" f="4" s="0" t="1" n="GayBoys LIVE"/>
-			<S i="3145" f="4" s="0" t="c" n="RAPS"/>
+			<S i="3145" f="2" s="0" t="c" n="RAPS"/>
 			<S i="3146" f="4" s="0" t="1" n="rhein main tv"/>
 			<S i="3147" f="4" s="0" t="1" n="Deutsche Girls 24 TV"/>
 			<S i="3148" f="4" s="0" t="1" n="JuweloTV"/>
@@ -1445,11 +1447,11 @@
 			<S i="3154" f="4" s="0" t="1" n="Achtung Sexy TV"/>
 			<S i="3155" f="4" s="0" t="1" n="Traumfrauen TV"/>
 			<S i="3156" f="4" s="0" t="1" n="Heiss und Sexy TV"/>
-			<S i="3159" f="4" s="0" t="1" n="Volksmusik.TV - Der neue Sender!"/>
+			<S i="3159" f="4" s="0" t="1" n="Volksmusik.TV - Neuer Sender!"/>
 			<S i="315a" f="4" s="0" t="1" n="nice"/>
 			<S i="315b" f="4" s="0" t="1" n="Babestation24"/>
 			<S i="315c" f="4" s="0" t="1" n="freenet Shopping"/>
-			<S i="315e" f="4" s="0" t="c" n="MB SAT - Test3"/>
+			<S i="315e" f="2" s="0" t="c" n="MB SAT - Test3"/>
 			<S i="315f" f="4" s="0" t="1" n="EROTIKA TV - NEU!"/>
 			<S i="3160" f="4" s="0" t="1" n="BunnyClub24"/>
 			<S i="3161" f="4" s="0" t="1" n="Clipmobile"/>
