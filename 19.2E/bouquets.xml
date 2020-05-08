@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-	Datei erstellt am Donnerstag, den 16.04.2020 15:15:00 [GMT]
+	Datei erstellt am Freitag, den 08.05.2020 20:15:00 [GMT]
 -->
 <zapit api="4">
 	<Bouquet name="[E019.2] -">
 		<S i="3338" t="45b" on="1" s="192" frq="12663" n="4MEDIATHEK"/>
-		<S i="32da" t="45d" on="1" s="192" frq="12692" n="Folx TV"/>
 		<S i="33ab" t="3eb" on="1" s="192" frq="11244" n="HopeTV"/>
-		<S i="3401" t="3ed" on="1" s="192" frq="11273" n="Krone TV"/>
+		<S i="3401" t="3ed" on="1" s="192" frq="11273" n="krone.tv"/>
 		<S i="3339" t="45b" on="1" s="192" frq="12663" n="L-TV"/>
 		<S i="3330" t="45b" on="1" s="192" frq="12663" n="LT1-OOE"/>
 		<S i="32d7" t="45d" on="1" s="192" frq="12692" n="Mei Musi TV"/>
@@ -20,6 +19,7 @@
 		<S i="3355" t="45b" on="1" s="192" frq="12663" n="TV1 OOE"/>
 		<S i="3333" t="45b" on="1" s="192" frq="12663" n="VISIT-X.tv"/>
 		<S i="33a6" t="3eb" on="1" s="192" frq="11244" n="Volksmusik"/>
+		<S i="32da" t="45d" on="1" s="192" frq="12692" n="Volksmusik.TV"/>
 		<S i="332f" t="45b" on="1" s="192" frq="12663" n="Welt der Wunder"/>
 	</Bouquet>
 	<Bouquet name="[E019.2] AB SAT">
@@ -406,18 +406,18 @@
 		<S i="23ed" t="44a" on="1" s="192" frq="12363" n="DATA SERVICE R7"/>
 		<S i="23f3" t="44a" on="1" s="192" frq="12363" n="DATA SERVICE R9"/>
 		<S i="23ef" t="44a" on="1" s="192" frq="12363" n="DATA SYSTEM[98]"/>
-		<S i="225f" t="44c" on="1" s="192" frq="12402" n="DATASYSTEM"/>
-		<S i="1b58" t="3fc" on="1" s="192" frq="11509" n="DATASYSTEM"/>
-		<S i="270f" t="43e" on="1" s="192" frq="12129" n="DATASYSTEM"/>
-		<S i="1fa3" t="42e" on="1" s="192" frq="11817" n="DATASYSTEM"/>
-		<S i="19c7" t="44e" on="1" s="192" frq="12441" n="DATASYSTEM"/>
-		<S i="1a2b" t="444" on="1" s="192" frq="12246" n="DATASYSTEM"/>
-		<S i="1af4" t="3fe" on="1" s="192" frq="11538" n="DATASYSTEM"/>
-		<S i="2007" t="434" on="1" s="192" frq="11934" n="DATASYSTEM"/>
-		<S i="24b7" t="440" on="1" s="192" frq="12168" n="DATASYSTEM"/>
 		<S i="22c3" t="438" on="1" s="192" frq="12012" n="DATASYSTEM"/>
+		<S i="24b7" t="440" on="1" s="192" frq="12168" n="DATASYSTEM"/>
 		<S i="251b" t="43c" on="1" s="192" frq="12090" n="DATASYSTEM"/>
 		<S i="238b" t="442" on="1" s="192" frq="12207" n="DATASYSTEM"/>
+		<S i="1af4" t="3fe" on="1" s="192" frq="11538" n="DATASYSTEM"/>
+		<S i="2007" t="434" on="1" s="192" frq="11934" n="DATASYSTEM"/>
+		<S i="1a2b" t="444" on="1" s="192" frq="12246" n="DATASYSTEM"/>
+		<S i="19c7" t="44e" on="1" s="192" frq="12441" n="DATASYSTEM"/>
+		<S i="270f" t="43e" on="1" s="192" frq="12129" n="DATASYSTEM"/>
+		<S i="1fa3" t="42e" on="1" s="192" frq="11817" n="DATASYSTEM"/>
+		<S i="225f" t="44c" on="1" s="192" frq="12402" n="DATASYSTEM"/>
+		<S i="1b58" t="3fc" on="1" s="192" frq="11509" n="DATASYSTEM"/>
 		<S i="21fb" t="448" on="1" s="192" frq="12324" n="DATASYSTEM R9"/>
 		<S i="23a2" t="44a" on="1" s="192" frq="12363" n="DEUTSCHE GRAMMOPHON+"/>
 		<S i="23d4" t="44a" on="1" s="192" frq="12363" n="DIAGNOSTIC TECHNIQUE"/>
@@ -658,14 +658,6 @@
 		<S i="2e91" t="411" on="1" s="192" frq="11082" n="VOX HD Austria"/>
 		<S i="7094" t="443" on="1" s="192" frq="12226" n="VOXup"/>
 	</Bouquet>
-	<Bouquet name="[E019.2] DIGITAL+">
-		<S i="749c" t="41c" on="1" s="192" frq="10758" n="BABY TV"/>
-		<S i="749e" t="41c" on="1" s="192" frq="10758" n="BOING"/>
-		<S i="78b8" t="3ec" on="1" s="192" frq="11259" n="COSMO HD"/>
-		<S i="749a" t="41c" on="1" s="192" frq="10758" n="DIVINITY"/>
-		<S i="749f" t="41c" on="1" s="192" frq="10758" n="ENERGY"/>
-		<S i="74a2" t="41c" on="1" s="192" frq="10758" n="MTV ESPAÑA"/>
-	</Bouquet>
 	<Bouquet name="[E019.2] Digital+">
 		<S i="7478" t="3f0" on="1" s="192" frq="11318" n="#0"/>
 		<S i="788c" t="414" on="1" s="192" frq="11127" n="#0 HD"/>
@@ -898,6 +890,14 @@
 		<S i="113f" t="404" on="1" s="192" frq="11627" n="RNE RADIO CLASICA"/>
 		<S i="1140" t="404" on="1" s="192" frq="11627" n="RNE RADIO EXTERIOR DE ESPAÑA"/>
 	</Bouquet>
+	<Bouquet name="[E019.2] DIGITAL+">
+		<S i="749c" t="41c" on="1" s="192" frq="10758" n="BABY TV"/>
+		<S i="749e" t="41c" on="1" s="192" frq="10758" n="BOING"/>
+		<S i="78b8" t="3ec" on="1" s="192" frq="11259" n="COSMO HD"/>
+		<S i="749a" t="41c" on="1" s="192" frq="10758" n="DIVINITY"/>
+		<S i="749f" t="41c" on="1" s="192" frq="10758" n="ENERGY"/>
+		<S i="74a2" t="41c" on="1" s="192" frq="10758" n="MTV ESPAÑA"/>
+	</Bouquet>
 	<Bouquet name="[E019.2] Eurociel">
 		<S i="1c79" t="457" on="1" s="192" frq="12604" n="Radio Horeb"/>
 	</Bouquet>
@@ -1023,7 +1023,6 @@
 		<S i="315f" t="459" on="1" s="192" frq="12633" n="EROTIKA TV - NEU!"/>
 		<S i="314b" t="459" on="1" s="192" frq="12633" n="Erotiksat24 TV temp"/>
 		<S i="3150" t="459" on="1" s="192" frq="12633" n="Fotohandy"/>
-		<S i="315c" t="459" on="1" s="192" frq="12633" n="freenet Shopping"/>
 		<S i="313f" t="459" on="1" s="192" frq="12633" n="freenet TV connect"/>
 		<S i="3144" t="459" on="1" s="192" frq="12633" n="GayBoys LIVE"/>
 		<S i="3138" t="459" on="1" s="192" frq="12633" n="health.tv"/>
@@ -1041,6 +1040,7 @@
 		<S i="3162" t="459" on="1" s="192" frq="12633" n="MB SAT - Test7"/>
 		<S i="3151" t="459" on="1" s="192" frq="12633" n="Mobile Sex"/>
 		<S i="315a" t="459" on="1" s="192" frq="12633" n="nice"/>
+		<S i="315c" t="459" on="1" s="192" frq="12633" n="NicerDicerTV"/>
 		<S i="3145" t="459" on="1" s="192" frq="12633" n="RAPS"/>
 		<S i="3146" t="459" on="1" s="192" frq="12633" n="rhein main tv"/>
 		<S i="3152" t="459" on="1" s="192" frq="12633" n="SEX-Kontakte"/>
@@ -1056,9 +1056,9 @@
 		<S i="3171" t="459" on="1" s="192" frq="12633" n="Radio HCJB"/>
 		<S i="316f" t="459" on="1" s="192" frq="12633" n="Radio Paloma"/>
 		<S i="3177" t="459" on="1" s="192" frq="12633" n="Radio Regenbogen"/>
-		<S i="3178" t="459" on="1" s="192" frq="12633" n="radioB2 SCHLAGER"/>
 		<S i="3179" t="459" on="1" s="192" frq="12633" n="Regenbogen 2"/>
-		<S i="3172" t="459" on="1" s="192" frq="12633" n="SCHLAGER-RADIO"/>
+		<S i="3178" t="459" on="1" s="192" frq="12633" n="Schlager Radio B2"/>
+		<S i="3172" t="459" on="1" s="192" frq="12633" n="Schlager Radio B2"/>
 	</Bouquet>
 	<Bouquet name="[E019.2] Movistar+">
 		<S i="74a3" t="41c" on="1" s="192" frq="10758" n="GOL"/>
@@ -1245,8 +1245,8 @@
 		<S i="37" t="f" on="85" s="192" frq="10921" n="unknown (0x000F_0x0037)"/>
 	</Bouquet>
 	<Bouquet name="[E019.2] SES Astra">
-		<S i="d" t="457" on="1" s="192" frq="12604" n="ASTRA SDT"/>
 		<S i="c" t="454" on="1" s="192" frq="12552" n="ASTRA SDT"/>
+		<S i="d" t="457" on="1" s="192" frq="12604" n="ASTRA SDT"/>
 		<S i="1389" t="3ea" on="1" s="192" frq="11229" n="BBC World News Europe HD"/>
 		<S i="2f5a" t="454" on="1" s="192" frq="12552" n="Bibel TV"/>
 		<S i="1645" t="42c" on="1" s="192" frq="11778" n="BVN TV"/>
@@ -1356,14 +1356,13 @@
 		<S i="197" t="4" on="85" s="192" frq="12032" n="Sky Cinema Family"/>
 		<S i="8b" t="2" on="85" s="192" frq="11758" n="Sky Cinema Family HD"/>
 		<S i="8" t="3" on="85" s="192" frq="11720" n="Sky Cinema Fun"/>
-		<S i="6f" t="d" on="85" s="192" frq="11992" n="Sky Cinema Harry Potter HD"/>
 		<S i="204" t="4" on="85" s="192" frq="12032" n="Sky Cinema Nostalgie"/>
 		<S i="a" t="4" on="85" s="192" frq="12032" n="Sky Cinema Premieren"/>
 		<S i="2b" t="6" on="85" s="192" frq="11914" n="Sky Cinema Premieren +24"/>
 		<S i="87" t="b" on="85" s="192" frq="12382" n="Sky Cinema Premieren +24 HD"/>
 		<S i="83" t="6" on="85" s="192" frq="11914" n="Sky Cinema Premieren HD"/>
+		<S i="6f" t="d" on="85" s="192" frq="11992" n="Sky Cinema Special HD"/>
 		<S i="b" t="4" on="85" s="192" frq="12032" n="Sky Cinema Thriller HD"/>
-		<S i="75" t="c" on="85" s="192" frq="12304" n="sky comedy HD"/>
 		<S i="17" t="4" on="85" s="192" frq="12032" n="Sky Krimi HD"/>
 		<S i="93" t="2" on="85" s="192" frq="11758" n="Sky One HD"/>
 		<S i="12" t="4" on="85" s="192" frq="12032" n="Sky Select"/>
@@ -1378,6 +1377,7 @@
 		<S i="14b" t="2" on="85" s="192" frq="11758" n="Sky Select 9"/>
 		<S i="fe" t="3" on="85" s="192" frq="11720" n="Sky Select Event A"/>
 		<S i="14e" t="2" on="85" s="192" frq="11758" n="Sky Select Event B"/>
+		<S i="75" t="c" on="85" s="192" frq="12304" n="Sky Serien &amp; Shows HD"/>
 		<S i="dab" t="10" on="85" s="192" frq="11798" n="Sky service config"/>
 		<S i="dd" t="4" on="85" s="192" frq="12032" n="Sky Sport 1"/>
 		<S i="81" t="6" on="85" s="192" frq="11914" n="Sky Sport 1 HD"/>
