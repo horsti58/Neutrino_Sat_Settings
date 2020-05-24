@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-	Datei erstellt am Freitag, den 08.05.2020 20:15:00 [GMT]
+	Datei erstellt am Sonntag, den 24.05.2020 19:00:00 [GMT]
 -->
 <zapit api="4">
 	<Bouquet name="[E019.2] -">
@@ -215,7 +215,6 @@
 		<S i="526c" t="41d" on="1" s="192" frq="10773" n="ANIXE HD"/>
 		<S i="2fc" t="5" on="85" s="192" frq="12460" n="ANIXE+"/>
 		<S i="295" t="21" on="85" s="192" frq="12480" n="AstroTV"/>
-		<S i="4c" t="21" on="85" s="192" frq="12480" n="Baden TV"/>
 		<S i="f86" t="4" on="85" s="192" frq="12032" n="BData3"/>
 		<S i="dac" t="4" on="85" s="192" frq="12032" n="BEM Service"/>
 		<S i="301" t="7" on="85" s="192" frq="12148" n="Channel21"/>
@@ -296,6 +295,7 @@
 		<S i="39" t="f" on="85" s="192" frq="10921" n="unknown (0x000F_0x0039)"/>
 		<S i="3a" t="f" on="85" s="192" frq="10921" n="unknown (0x000F_0x003A)"/>
 		<S i="3b" t="f" on="85" s="192" frq="10921" n="unknown (0x000F_0x003B)"/>
+		<S i="4c" t="21" on="85" s="192" frq="12480" n="unknown (0x0021_0x004C)"/>
 		<S i="125e" t="3f7" on="1" s="192" frq="11421" n="unknown (0x03F7_0x125E)"/>
 		<S i="1266" t="3f7" on="1" s="192" frq="11421" n="unknown (0x03F7_0x1266)"/>
 		<S i="1267" t="3f7" on="1" s="192" frq="11421" n="unknown (0x03F7_0x1267)"/>
@@ -406,18 +406,18 @@
 		<S i="23ed" t="44a" on="1" s="192" frq="12363" n="DATA SERVICE R7"/>
 		<S i="23f3" t="44a" on="1" s="192" frq="12363" n="DATA SERVICE R9"/>
 		<S i="23ef" t="44a" on="1" s="192" frq="12363" n="DATA SYSTEM[98]"/>
-		<S i="22c3" t="438" on="1" s="192" frq="12012" n="DATASYSTEM"/>
-		<S i="24b7" t="440" on="1" s="192" frq="12168" n="DATASYSTEM"/>
-		<S i="251b" t="43c" on="1" s="192" frq="12090" n="DATASYSTEM"/>
-		<S i="238b" t="442" on="1" s="192" frq="12207" n="DATASYSTEM"/>
-		<S i="1af4" t="3fe" on="1" s="192" frq="11538" n="DATASYSTEM"/>
-		<S i="2007" t="434" on="1" s="192" frq="11934" n="DATASYSTEM"/>
-		<S i="1a2b" t="444" on="1" s="192" frq="12246" n="DATASYSTEM"/>
-		<S i="19c7" t="44e" on="1" s="192" frq="12441" n="DATASYSTEM"/>
 		<S i="270f" t="43e" on="1" s="192" frq="12129" n="DATASYSTEM"/>
 		<S i="1fa3" t="42e" on="1" s="192" frq="11817" n="DATASYSTEM"/>
-		<S i="225f" t="44c" on="1" s="192" frq="12402" n="DATASYSTEM"/>
 		<S i="1b58" t="3fc" on="1" s="192" frq="11509" n="DATASYSTEM"/>
+		<S i="225f" t="44c" on="1" s="192" frq="12402" n="DATASYSTEM"/>
+		<S i="1a2b" t="444" on="1" s="192" frq="12246" n="DATASYSTEM"/>
+		<S i="19c7" t="44e" on="1" s="192" frq="12441" n="DATASYSTEM"/>
+		<S i="2007" t="434" on="1" s="192" frq="11934" n="DATASYSTEM"/>
+		<S i="1af4" t="3fe" on="1" s="192" frq="11538" n="DATASYSTEM"/>
+		<S i="238b" t="442" on="1" s="192" frq="12207" n="DATASYSTEM"/>
+		<S i="251b" t="43c" on="1" s="192" frq="12090" n="DATASYSTEM"/>
+		<S i="24b7" t="440" on="1" s="192" frq="12168" n="DATASYSTEM"/>
+		<S i="22c3" t="438" on="1" s="192" frq="12012" n="DATASYSTEM"/>
 		<S i="21fb" t="448" on="1" s="192" frq="12324" n="DATASYSTEM R9"/>
 		<S i="23a2" t="44a" on="1" s="192" frq="12363" n="DEUTSCHE GRAMMOPHON+"/>
 		<S i="23d4" t="44a" on="1" s="192" frq="12363" n="DIAGNOSTIC TECHNIQUE"/>
@@ -661,8 +661,8 @@
 	<Bouquet name="[E019.2] Digital+">
 		<S i="7478" t="3f0" on="1" s="192" frq="11318" n="#0"/>
 		<S i="788c" t="414" on="1" s="192" frq="11127" n="#0 HD"/>
-		<S i="760c" t="408" on="1" s="192" frq="11686" n="#VAMOS"/>
 		<S i="7606" t="408" on="1" s="192" frq="11686" n="#VAMOS"/>
+		<S i="760c" t="408" on="1" s="192" frq="11686" n="#VAMOS"/>
 		<S i="778e" t="424" on="1" s="192" frq="10876" n="#VAMOS BAR"/>
 		<S i="756c" t="412" on="1" s="192" frq="11097" n="#VAMOS BAR1"/>
 		<S i="7584" t="412" on="1" s="192" frq="11097" n="#VAMOS BAR2"/>
@@ -907,6 +907,7 @@
 	<Bouquet name="[E019.2] GLOBECAST">
 		<S i="1b61" t="3fc" on="1" s="192" frq="11509" n="Al Jazeera Channel"/>
 		<S i="1b63" t="3fc" on="1" s="192" frq="11509" n="Arirang TV"/>
+		<S i="1419" t="403" on="1" s="192" frq="11612" n="BestMarket TV"/>
 		<S i="1b02" t="3fe" on="1" s="192" frq="11538" n="CGTN"/>
 		<S i="1b00" t="3fe" on="1" s="192" frq="11538" n="CGTN Documentary"/>
 		<S i="1b01" t="3fe" on="1" s="192" frq="11538" n="CGTN F"/>
@@ -1214,7 +1215,7 @@
 		<S i="1078" t="3ee" on="1" s="192" frq="11288" n="RAI News 24"/>
 	</Bouquet>
 	<Bouquet name="[E019.2] RR Media">
-		<S i="1419" t="403" on="1" s="192" frq="11612" n="Juvelirochka"/>
+		<S i="1419" t="403" on="1" s="192" frq="11612" n="BestMarket TV"/>
 		<S i="1417" t="403" on="1" s="192" frq="11612" n="TBN Russia"/>
 	</Bouquet>
 	<Bouquet name="[E019.2] RTL">
@@ -1355,13 +1356,13 @@
 		<S i="14" t="4" on="85" s="192" frq="12032" n="Sky Cinema Emotion"/>
 		<S i="197" t="4" on="85" s="192" frq="12032" n="Sky Cinema Family"/>
 		<S i="8b" t="2" on="85" s="192" frq="11758" n="Sky Cinema Family HD"/>
+		<S i="6f" t="d" on="85" s="192" frq="11992" n="Sky Cinema Fast &amp; Furious HD"/>
 		<S i="8" t="3" on="85" s="192" frq="11720" n="Sky Cinema Fun"/>
 		<S i="204" t="4" on="85" s="192" frq="12032" n="Sky Cinema Nostalgie"/>
 		<S i="a" t="4" on="85" s="192" frq="12032" n="Sky Cinema Premieren"/>
 		<S i="2b" t="6" on="85" s="192" frq="11914" n="Sky Cinema Premieren +24"/>
 		<S i="87" t="b" on="85" s="192" frq="12382" n="Sky Cinema Premieren +24 HD"/>
 		<S i="83" t="6" on="85" s="192" frq="11914" n="Sky Cinema Premieren HD"/>
-		<S i="6f" t="d" on="85" s="192" frq="11992" n="Sky Cinema Special HD"/>
 		<S i="b" t="4" on="85" s="192" frq="12032" n="Sky Cinema Thriller HD"/>
 		<S i="17" t="4" on="85" s="192" frq="12032" n="Sky Krimi HD"/>
 		<S i="93" t="2" on="85" s="192" frq="11758" n="Sky One HD"/>
