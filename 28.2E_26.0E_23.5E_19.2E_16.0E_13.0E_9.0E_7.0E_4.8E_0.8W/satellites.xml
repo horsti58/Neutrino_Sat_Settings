@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-	Datei erstellt am Samstag, den 25.07.2020 16:00:00 [GMT]
+	Datei erstellt am Montag, den 10.08.2020 09:00:00 [GMT]
 -->
 <satellites>
 	<sat name="0.8W Thor" flags="1" position="-8">
@@ -71,6 +71,7 @@
 		<transponder frequency="12456000" symbol_rate="30000000" polarization="1" fec_inner="3" system="1" modulation="2"/>
 		<transponder frequency="12476000" symbol_rate="30000000" polarization="0" fec_inner="2" system="1" modulation="2"/>
 		<transponder frequency="12527000" symbol_rate="28800000" polarization="0" fec_inner="7" system="1" modulation="1"/>
+		<transponder frequency="12563000" symbol_rate="28800000" polarization="0" fec_inner="7" system="1" modulation="1"/>
 		<transponder frequency="12607000" symbol_rate="30000000" polarization="0" fec_inner="5" system="1" modulation="2"/>
 		<transponder frequency="12643000" symbol_rate="30000000" polarization="0" fec_inner="5" system="0" modulation="1"/>
 		<transponder frequency="12643000" symbol_rate="28800000" polarization="1" fec_inner="3" system="1" modulation="2"/>
@@ -177,6 +178,7 @@
 		<transponder frequency="11471000" symbol_rate="30000000" polarization="0" fec_inner="4" system="1" modulation="1"/>
 		<transponder frequency="11492000" symbol_rate="30000000" polarization="1" fec_inner="4" system="1" modulation="1"/>
 		<transponder frequency="11513000" symbol_rate="29900000" polarization="0" fec_inner="4" system="1" modulation="1"/>
+		<transponder frequency="11513000" symbol_rate="30000000" polarization="1" fec_inner="4" system="1" modulation="1"/>
 		<transponder frequency="11534000" symbol_rate="30000000" polarization="1" fec_inner="4" system="1" modulation="1"/>
 		<transponder frequency="11554000" symbol_rate="29750000" polarization="0" fec_inner="3" system="0" modulation="1"/>
 		<transponder frequency="11575000" symbol_rate="30000000" polarization="1" fec_inner="3" system="0" modulation="1"/>
@@ -332,8 +334,8 @@
 		<transponder frequency="12654000" symbol_rate="27500000" polarization="0" fec_inner="4" system="0" modulation="1"/>
 		<transponder frequency="12673000" symbol_rate="29900000" polarization="1" fec_inner="3" system="1" modulation="2"/>
 		<transponder frequency="12692000" symbol_rate="27500000" polarization="0" fec_inner="3" system="1" modulation="2"/>
-		<transponder frequency="12713000" symbol_rate="29900000" polarization="1" fec_inner="4" system="1" modulation="1"/>
-		<transponder frequency="12731000" symbol_rate="29900000" polarization="0" fec_inner="4" system="0" modulation="1"/>
+		<transponder frequency="12713000" symbol_rate="29900000" polarization="1" fec_inner="3" system="1" modulation="2"/>
+		<transponder frequency="12731000" symbol_rate="29900000" polarization="0" fec_inner="3" system="1" modulation="2"/>
 	</sat>
 	<sat name="16.0E Eutelsat" flags="1" position="160">
 		<transponder frequency="10721000" symbol_rate="30000000" polarization="0" fec_inner="3" system="0" modulation="1"/>
@@ -363,6 +365,7 @@
 		<transponder frequency="11131000" symbol_rate="16593000" polarization="1" fec_inner="2" system="1" modulation="2"/>
 		<transponder frequency="11140000" symbol_rate="30000000" polarization="0" fec_inner="7" system="1" modulation="2"/>
 		<transponder frequency="11151000" symbol_rate="14374000" polarization="1" fec_inner="7" system="1" modulation="2"/>
+		<transponder frequency="11176000" symbol_rate="30000000" polarization="0" fec_inner="4" system="1" modulation="1"/>
 		<transponder frequency="11178000" symbol_rate="30000000" polarization="1" fec_inner="7" system="1" modulation="2"/>
 		<transponder frequency="11221000" symbol_rate="30000000" polarization="0" fec_inner="7" system="1" modulation="2"/>
 		<transponder frequency="11231000" symbol_rate="42000000" polarization="1" fec_inner="8" system="1" modulation="1"/>
