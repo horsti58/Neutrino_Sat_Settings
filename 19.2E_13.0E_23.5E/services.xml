@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-	Datei erstellt am Mittwoch, den 02.09.2020 08:30:00 [GMT]
+	Datei erstellt am Mittwoch, den 16.09.2020 11:00:00 [GMT]
 -->
 <zapit api="4">
 	<sat name="13.0E Hotbird" position="130" diseqc="-1" uncommited="-1">
@@ -394,6 +394,35 @@
 			<S i="0e81" f="4" s="0" t="1" n="FOLX.TV"/>
 			<S i="0e83" f="4" s="0" t="1" n="TVP Polonia"/>
 			<S i="0e84" f="4" s="0" t="1" n="MyTVplus"/>
+		</TS>
+		<TS id="3264" on="013e" frq="11096000" inv="2" sr="30000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
+			<S i="0063" f="4" s="0" t="1" n="CH:Info"/>
+			<S i="0064" f="4" s="0" t="19" n="CH:1"/>
+			<S i="0065" f="4" s="0" t="1" n="CH:2"/>
+			<S i="0066" f="4" s="0" t="1" n="CH:3"/>
+			<S i="0067" f="4" s="0" t="1" n="CH:4"/>
+			<S i="0068" f="4" s="0" t="1" n="CH:5"/>
+			<S i="0069" f="4" s="0" t="1" n="CH:6"/>
+			<S i="006a" f="4" s="0" t="1" n="CH:7"/>
+			<S i="006b" f="4" s="0" t="1" n="CH:8"/>
+			<S i="006c" f="4" s="0" t="1" n="CH:9"/>
+			<S i="006d" f="4" s="0" t="1" n="CH:10"/>
+			<S i="006e" f="4" s="0" t="1" n="CH:11"/>
+			<S i="006f" f="4" s="0" t="1" n="CH:12"/>
+			<S i="0070" f="4" s="0" t="1" n="CH:14"/>
+			<S i="0071" f="4" s="0" t="1" n="CH:15"/>
+			<S i="0072" f="4" s="0" t="1" n="CH:16"/>
+			<S i="0073" f="4" s="0" t="1" n="CH:17"/>
+			<S i="0074" f="4" s="0" t="1" n="CH:19"/>
+			<S i="0075" f="4" s="0" t="1" n="CH:20"/>
+			<S i="0076" f="4" s="0" t="1" n="CH:21"/>
+			<S i="0078" f="4" s="0" t="1" n="CH:22"/>
+			<S i="0079" f="4" s="0" t="1" n="CH:23"/>
+			<S i="007a" f="4" s="0" t="1" n="CH:24"/>
+			<S i="007b" f="4" s="0" t="1" n="CH:25"/>
+			<S i="007f" f="4" s="0" t="1" n="CH:18"/>
+			<S i="0082" f="4" s="0" t="1" n="CH:26"/>
+			<S i="0084" f="4" s="1" t="1" n="CH: SPARE"/>
 		</TS>
 		<TS id="32c8" on="013e" frq="11117000" inv="2" sr="27500000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0709" f="4" s="1" t="1" n="Polsat Sport Premium 1"/>
@@ -1869,7 +1898,7 @@
 			<S i="0136" f="4" s="0" t="2" n="VOA Urdu Radio 310"/>
 			<S i="0154" f="4" s="0" t="1" n="Global HD 340"/>
 		</TS>
-		<TS id="1e14" on="fbff" frq="12245000" inv="2" sr="29900000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
+		<TS id="1e14" on="fbff" frq="12245000" inv="2" sr="29900000" fec="5" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0fbd" f="2" s="1" t="1" n="Fox +1"/>
 			<S i="0fc1" f="2" s="1" t="1" n="FoxCrime +1"/>
 			<S i="0fc2" f="2" s="1" t="1" n="FoxLife +1"/>
@@ -1885,6 +1914,7 @@
 			<S i="0ff6" f="2" s="1" t="1" n="Starsat"/>
 			<S i="0fff" f="2" s="1" t="fb" n="Fusion BGDL 4095"/>
 			<S i="1002" f="4" s="1" t="83" n="IEPG Data"/>
+			<S i="1008" f="4" s="1" t="19" n="TEST5"/>
 		</TS>
 		<TS id="1e78" on="0071" frq="12265000" inv="2" sr="27500000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0016" f="4" s="0" t="81" n="Consumer Cam"/>
@@ -2497,7 +2527,7 @@
 			<S i="769e" f="4" s="1" t="1" n="M. DEPORTES6"/>
 			<S i="769f" f="4" s="1" t="1" n="M.LCAMPEON2"/>
 			<S i="76a3" f="4" s="1" t="1" n="MULTIDEPORTE"/>
-			<S i="76a4" f="4" s="1" t="1" n="CANAL ORBE21"/>
+			<S i="76a4" f="4" s="1" t="1" n="TEST 88"/>
 			<S i="76a5" f="4" s="1" t="1" n="SUNDANCE TV"/>
 			<S i="76a6" f="4" s="1" t="1" n="UNK (0x041E_0x76A6)"/>
 			<S i="76a7" f="4" s="1" t="1" n="TEST F1"/>
@@ -4724,6 +4754,7 @@
 		<TS id="0ca4" on="0003" frq="12402000" inv="2" sr="30000000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="4e63" f="4" s="0" t="1" n="FOX Life HD"/>
 			<S i="4e64" f="4" s="0" t="1" n="FOX Crime HD"/>
+			<S i="4e8f" f="1" s="0" t="1" n="ATV HD"/>
 			<S i="4e97" f="4" s="0" t="1" n="RTRS Plus"/>
 			<S i="4e98" f="4" s="0" t="1" n="Discovery Channel"/>
 			<S i="4e99" f="4" s="0" t="1" n="BBC Earth"/>
@@ -4743,8 +4774,8 @@
 			<S i="4ea8" f="4" s="0" t="1" n="English Club TV"/>
 			<S i="4ea9" f="4" s="0" t="1" n="E!"/>
 			<S i="4eac" f="4" s="0" t="1" n="24Kitchen"/>
-			<S i="4ead" f="4" s="0" t="1" n="Fashion TV"/>
-			<S i="4eaf" f="4" s="1" t="1" n="LoL"/>
+			<S i="4ead" f="4" s="1" t="1" n="Fashion TV"/>
+			<S i="4eaf" f="4" s="0" t="1" n="LoL"/>
 			<S i="4eb0" f="4" s="0" t="1" n="RTL Croatia"/>
 			<S i="4eb1" f="4" s="0" t="1" n="TV Hayat"/>
 			<S i="4eb2" f="4" s="0" t="1" n="TV Hayat Plus"/>
