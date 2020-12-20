@@ -15,7 +15,8 @@ DVB-S       system="0"
 DVB-S2      system="1"
 
 FEC 2/3     fec_inner="2"
-FEC 3/4     fec_inner="4"
+FEC 3/4     fec_inner="3"
+FEC 5/6     fec_inner="4"
 
 QPSK        modulation="1"
 8PSK        modulation="2"
