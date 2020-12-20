@@ -20,5 +20,5 @@ FEC 3/4     fec_inner="4"
 QPSK        modulation="1"
 8PSK        modulation="2"
 
-10.08.2020
+20.12.2020
 
