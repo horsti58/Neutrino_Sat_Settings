@@ -1,6 +1,6 @@
 # Neutrino_Settings
 
-Neutrino Sat-Settings 28.2E, 23.5E, 19.2E, 13.0E, 26.0E, 16.0E, 9.0E, 7.0E, 4.8E, 0.8W 
+Neutrino Sat-Settings 28.2E, 23.5E, 19.2E, 13.0E, 16.0E, 9.0E
 
 Neutrino Kabel-Settings Vodafone
 
@@ -21,5 +21,5 @@ FEC 5/6     fec_inner="4"
 QPSK        modulation="1"
 8PSK        modulation="2"
 
-20.12.2020
+04.03.2021
 
