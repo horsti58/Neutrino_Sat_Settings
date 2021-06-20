@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-	Datei erstellt am Dienstag, den 15.05.2021 12:00:00 [GMT]
+	Datei erstellt am Sonntag, den 20.06.2021 12:00:00 [GMT]
 -->
 <zapit api="4">
 	<Bouquet name="[E019.2] -">
@@ -334,8 +334,8 @@
 		<S i="16b1" t="3ff" on="1" s="192" frq="11553" n="Franken Plus HD"/>
 		<S i="16ad" t="3ff" on="1" s="192" frq="11553" n="Lokal-TV-Portal HD"/>
 		<S i="16a9" t="3ff" on="1" s="192" frq="11553" n="münchen.tv HD"/>
-		<S i="1710" t="419" on="1" s="192" frq="10714" n="NIEDERBAYERN TV HD"/>
-		<S i="16af" t="3ff" on="1" s="192" frq="11553" n="NIEDERBAYERN TV HD - neu"/>
+		<S i="16af" t="3ff" on="1" s="192" frq="11553" n="NIEDERBAYERN TV HD"/>
+		<S i="1710" t="419" on="1" s="192" frq="10714" n="NIEDERBAYERN TV HD - alt"/>
 		<S i="1711" t="419" on="1" s="192" frq="10714" n="Oberpfalz TV HD"/>
 		<S i="16b0" t="3ff" on="1" s="192" frq="11553" n="OTVA HD"/>
 		<S i="16aa" t="3ff" on="1" s="192" frq="11553" n="rfo Regional Fernsehen Oberbayern HD"/>
@@ -465,6 +465,7 @@
 		<S i="2017" t="430" on="1" s="192" frq="11856" n="MELODY"/>
 		<S i="1f4a" t="42e" on="1" s="192" frq="11817" n="MEZZO"/>
 		<S i="1f4c" t="42e" on="1" s="192" frq="11817" n="MEZZO LIVE"/>
+		<S i="22ce" t="434" on="1" s="192" frq="11934" n="MOTORSPORT TV HD"/>
 		<S i="1f44" t="42e" on="1" s="192" frq="11817" n="MTV"/>
 		<S i="1f43" t="42e" on="1" s="192" frq="11817" n="MTV HITS"/>
 		<S i="1f4d" t="42e" on="1" s="192" frq="11817" n="MULTISPORTS 1"/>
@@ -524,7 +525,6 @@
 		<S i="2201" t="44c" on="1" s="192" frq="12402" n="TV BREIZH"/>
 		<S i="22c6" t="434" on="1" s="192" frq="11934" n="TV5 MONDE"/>
 		<S i="1f47" t="42e" on="1" s="192" frq="11817" n="UNK (0x042E_0x1F47)"/>
-		<S i="22ce" t="434" on="1" s="192" frq="11934" n="UNK (0x0434_0x22CE)"/>
 		<S i="239e" t="44a" on="1" s="192" frq="12363" n="UNK (0x044A_0x239E)"/>
 		<S i="21fe" t="44c" on="1" s="192" frq="12402" n="UNK (0x044C_0x21FE)"/>
 		<S i="220c" t="44c" on="1" s="192" frq="12402" n="UNK (0x044C_0x220C)"/>
@@ -576,7 +576,7 @@
 		<S i="23df" t="446" on="1" s="192" frq="12285" n="RFM"/>
 		<S i="23d0" t="446" on="1" s="192" frq="12285" n="RIRE ET CHANSONS"/>
 		<S i="23cd" t="446" on="1" s="192" frq="12285" n="RTL"/>
-		<S i="23e2" t="446" on="1" s="192" frq="12285" n="RTL 2"/>
+		<S i="23e2" t="446" on="1" s="192" frq="12285" n="RTL2"/>
 		<S i="23e3" t="446" on="1" s="192" frq="12285" n="SKYROCK"/>
 		<S i="23d7" t="446" on="1" s="192" frq="12285" n="TSF JAZZ"/>
 		<S i="23e0" t="446" on="1" s="192" frq="12285" n="VIRGIN RADIO"/>
@@ -785,10 +785,6 @@
 	<Bouquet name="[E019.2] FOXNWS">
 		<S i="749b" t="41c" on="1" s="192" frq="10758" n="FOX NEWS"/>
 	</Bouquet>
-	<Bouquet name="[E019.2] GlobeCast">
-		<S i="79f4" t="443" on="1" s="192" frq="12226" n="EURONEWS FRENCH SD"/>
-		<S i="79fe" t="443" on="1" s="192" frq="12226" n="EURONEWS GERMAN SD"/>
-	</Bouquet>
 	<Bouquet name="[E019.2] GLOBECAST">
 		<S i="1b61" t="3fc" on="1" s="192" frq="11509" n="Al Jazeera Channel"/>
 		<S i="1b64" t="3fc" on="1" s="192" frq="11509" n="Arirang HD"/>
@@ -810,8 +806,22 @@
 		<S i="18f2" t="3f4" on="1" s="192" frq="11377" n="RADIO GALEGA"/>
 		<S i="18f3" t="3f4" on="1" s="192" frq="11377" n="RADIO GALEGA MUSICA"/>
 	</Bouquet>
+	<Bouquet name="[E019.2] GlobeCast">
+		<S i="79f4" t="443" on="1" s="192" frq="12226" n="EURONEWS FRENCH SD"/>
+		<S i="79fe" t="443" on="1" s="192" frq="12226" n="EURONEWS GERMAN SD"/>
+	</Bouquet>
 	<Bouquet name="[E019.2] GoTV">
 		<S i="3404" t="3ed" on="1" s="192" frq="11273" n="gotv neu"/>
+	</Bouquet>
+	<Bouquet name="[E019.2] Groupe M6">
+		<S i="23b7" t="446" on="1" s="192" frq="12285" n="BBC ARABIC"/>
+		<S i="23b6" t="446" on="1" s="192" frq="12285" n="BBCW SERVICE"/>
+		<S i="23ee" t="446" on="1" s="192" frq="12285" n="BEUR FM"/>
+		<S i="23b4" t="446" on="1" s="192" frq="12285" n="FUN RADIO"/>
+		<S i="23ea" t="446" on="1" s="192" frq="12285" n="RADIO NOTRE DAME"/>
+		<S i="23cd" t="446" on="1" s="192" frq="12285" n="RTL"/>
+		<S i="23e2" t="446" on="1" s="192" frq="12285" n="RTL2"/>
+		<S i="23e3" t="446" on="1" s="192" frq="12285" n="SKYROCK"/>
 	</Bouquet>
 	<Bouquet name="[E019.2] Harmonic">
 		<S i="23b8" t="446" on="1" s="192" frq="12285" n="RADIO MELODY"/>
@@ -889,7 +899,7 @@
 		<S i="74a7" t="41c" on="1" s="192" frq="10758" n="EUROSPORT 2"/>
 		<S i="74a3" t="41c" on="1" s="192" frq="10758" n="GOL"/>
 		<S i="78b7" t="3ec" on="1" s="192" frq="11259" n="M. GOLF HD"/>
-		<S i="749d" t="41c" on="1" s="192" frq="10758" n="M. Tolkien"/>
+		<S i="749d" t="41c" on="1" s="192" frq="10758" n="M. VHS"/>
 		<S i="78bf" t="3ec" on="1" s="192" frq="11259" n="M.CineDoc&amp;Roll"/>
 		<S i="78b4" t="3ec" on="1" s="192" frq="11259" n="M.LCAMPEONES"/>
 		<S i="78b6" t="3ec" on="1" s="192" frq="11259" n="M.Seriesmania HD"/>
@@ -907,8 +917,8 @@
 	<Bouquet name="[E019.2] MTV Networks Europe">
 		<S i="7004" t="436" on="1" s="192" frq="11973" n="Comedy Central"/>
 		<S i="7006" t="436" on="1" s="192" frq="11973" n="MTV"/>
+		<S i="6fff" t="436" on="1" s="192" frq="11973" n="MTV"/>
 		<S i="6ff1" t="436" on="1" s="192" frq="11973" n="MTV 80s"/>
-		<S i="6fff" t="436" on="1" s="192" frq="11973" n="MTV Music 24"/>
 		<S i="6ff5" t="436" on="1" s="192" frq="11973" n="Nick Jr"/>
 		<S i="6ff6" t="436" on="1" s="192" frq="11973" n="Nick Jr."/>
 		<S i="6ff7" t="436" on="1" s="192" frq="11973" n="Nick Jr.."/>
@@ -953,7 +963,7 @@
 		<S i="33fa" t="3ed" on="1" s="192" frq="11273" n="ORF2T HD"/>
 		<S i="33fb" t="3ed" on="1" s="192" frq="11273" n="ORF2V HD"/>
 		<S i="1330" t="3ef" on="1" s="192" frq="11303" n="ORF2W HD"/>
-		<S i="3464" t="3e9" on="1" s="192" frq="11214" n="Service 13412"/>
+		<S i="3464" t="3e9" on="1" s="192" frq="11214" n="Service13412"/>
 		<S i="334e" t="45b" on="1" s="192" frq="12663" n="FM4"/>
 		<S i="3341" t="45b" on="1" s="192" frq="12663" n="OE1"/>
 		<S i="3342" t="45b" on="1" s="192" frq="12663" n="OE1 DD"/>
@@ -1238,6 +1248,14 @@
 		<S i="2762" t="402" on="1" s="192" frq="11597" n="Algerie 3"/>
 		<S i="2763" t="402" on="1" s="192" frq="11597" n="Canal Algerie"/>
 	</Bouquet>
+	<Bouquet name="[E019.2] TDF">
+		<S i="23e1" t="446" on="1" s="192" frq="12285" n="CHERIE FM"/>
+		<S i="23ce" t="446" on="1" s="192" frq="12285" n="EUROPE 1"/>
+		<S i="23df" t="446" on="1" s="192" frq="12285" n="RFM"/>
+		<S i="23d0" t="446" on="1" s="192" frq="12285" n="RIRE ET CHANSONS"/>
+		<S i="23d7" t="446" on="1" s="192" frq="12285" n="TSF JAZZ"/>
+		<S i="23e0" t="446" on="1" s="192" frq="12285" n="VIRGIN RADIO"/>
+	</Bouquet>
 	<Bouquet name="[E019.2] TSA">
 		<S i="7a4b" t="410" on="1" s="192" frq="11068" n="I24 Francis"/>
 		<S i="7a4a" t="410" on="1" s="192" frq="11068" n="SENDER NEU JERUSALEM"/>
@@ -1248,6 +1266,7 @@
 		<S i="3350" t="45b" on="1" s="192" frq="12663" n="U1 Tirol"/>
 	</Bouquet>
 	<Bouquet name="[E019.2] Unknown Provider">
+		<S i="16a8" t="3ff" on="1" s="192" frq="11553" n="a.tv HD"/>
 		<S i="7562" t="412" on="1" s="192" frq="11097" n="UNK (0x0412_0x7562)"/>
 		<S i="7563" t="412" on="1" s="192" frq="11097" n="UNK (0x0412_0x7563)"/>
 		<S i="7565" t="412" on="1" s="192" frq="11097" n="UNK (0x0412_0x7565)"/>
