@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-	Datei erstellt am Montag, den 01.11.2021 21:00:00 [GMT]
+	Datei erstellt am Dienstag, den 16.11.2021 17:00:00 [GMT]
 -->
 <zapit api="4">
 	<sat name="19.2E Astra" position="192" diseqc="-1" uncommited="-1">
@@ -111,6 +111,8 @@
 			<S i="ef11" f="4" s="1" t="19" n="VOX HD"/>
 			<S i="ef14" f="4" s="1" t="19" n="ntv HD"/>
 			<S i="ef15" f="4" s="1" t="19" n="RTLZWEI HD"/>
+			<S i="ef16" f="1" s="1" t="19" n="RTLup HD"/>
+			<S i="ef17" f="1" s="1" t="19" n="VOXup HD"/>
 		</TS>
 		<TS id="0422" on="0001" frq="10847000" inv="2" sr="22000000" fec="5" pol="1" mod="0" sys="0">
 			<S i="7596" f="4" s="0" t="1" n="RADIOS"/>
@@ -481,7 +483,7 @@
 			<S i="33ff" f="4" s="0" t="16" n="Aristo.TV"/>
 			<S i="3400" f="4" s="0" t="19" n="R9 Oesterreich HD"/>
 			<S i="3401" f="4" s="0" t="16" n="krone.tv"/>
-			<S i="3402" f="4" s="1" t="19" n="oe24.TV HD"/>
+			<S i="3402" f="4" s="0" t="19" n="oe24.TV HD"/>
 			<S i="3403" f="4" s="0" t="16" n="volksmusik"/>
 			<S i="3404" f="4" s="0" t="16" n="gotv neu"/>
 			<S i="3405" f="4" s="0" t="16" n="Melodie TV NEU"/>
@@ -860,7 +862,7 @@
 			<S i="22cb" f="4" s="1" t="19" n="DJAZZ"/>
 			<S i="22cc" f="4" s="0" t="c9" n="MULTISPORTS"/>
 			<S i="22cd" f="4" s="1" t="19" n="CANAL+"/>
-			<S i="22ce" f="4" s="1" t="19" n="CANAL+DOCS"/>
+			<S i="22ce" f="4" s="0" t="0" n="MOTORSPORT TV HD"/>
 			<S i="22cf" f="4" s="1" t="19" n="MUSEUM"/>
 			<S i="22d0" f="4" s="1" t="19" n="NICKELODEON JUNIOR"/>
 			<S i="22d1" f="4" s="1" t="19" n="MULTISPORTS 2"/>

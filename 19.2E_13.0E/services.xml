@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-	Datei erstellt am Montag, den 01.11.2021 21:00:00 [GMT]
+	Datei erstellt am Dienstag, den 16.11.2021 17:00:00 [GMT]
 -->
 <zapit api="4">
 	<sat name="13.0E Hotbird" position="130" diseqc="-1" uncommited="-1">
@@ -327,7 +327,7 @@
 			<S i="4333" f="4" s="1" t="19" n="RTS Un HD"/>
 			<S i="4334" f="4" s="1" t="19" n="RTS Deux HD"/>
 			<S i="4335" f="4" s="1" t="19" n="Test17205"/>
-			<S i="4336" f="4" s="1" t="19" n="SRF info HD"/>
+			<S i="4336" f="4" s="0" t="19" n="SRF info HD"/>
 			<S i="4337" f="4" s="1" t="19" n="RSI LA 1 HD"/>
 			<S i="4338" f="4" s="1" t="19" n="RSI LA 2 HD"/>
 			<S i="4345" f="4" s="0" t="2" n="SRF 1"/>
@@ -1063,7 +1063,7 @@
 			<S i="0d4a" f="4" s="1" t="19" n="Rai 2 HD"/>
 			<S i="0d4b" f="4" s="1" t="19" n="Rai 3 HD"/>
 			<S i="0d4c" f="4" s="1" t="19" n="Rai Sport + HD"/>
-			<S i="0d4d" f="4" s="0" t="19" n="Rai 4 HD"/>
+			<S i="0d4d" f="4" s="1" t="19" n="Rai 4 HD"/>
 			<S i="0d4e" f="4" s="0" t="19" n="Rai Movie HD"/>
 			<S i="0d4f" f="4" s="1" t="1f" n="Rai 4K"/>
 			<S i="0d71" f="4" s="0" t="2" n="Rai Radio 1"/>
@@ -1086,7 +1086,7 @@
 			<S i="1015" f="4" s="1" t="19" n="Discovery HD"/>
 			<S i="1020" f="4" s="1" t="19" n="Crime + Inv. HD"/>
 			<S i="104a" f="4" s="1" t="19" n="Classica HD"/>
-			<S i="106c" f="4" s="1" t="19" n="Abatantuono Collection HD"/>
+			<S i="106c" f="4" s="1" t="19" n="Checco Zalone Collection HD"/>
 			<S i="379c" f="4" s="1" t="19" n="NationalGeo HD"/>
 			<S i="379d" f="4" s="1" t="19" n="Fox HD"/>
 			<S i="379e" f="2" s="1" t="19" n="Fox Crime HD"/>
@@ -1441,7 +1441,7 @@
 			<S i="2dc4" f="2" s="1" t="1" n="UNK (0x1A2C_0x2DC4)"/>
 			<S i="2dc6" f="4" s="1" t="1" n="Sky Uno"/>
 			<S i="2dc9" f="4" s="1" t="90" n="Mosaico Cinema"/>
-			<S i="2dcc" f="4" s="1" t="1" n="Abatantuono Collection"/>
+			<S i="2dcc" f="4" s="1" t="1" n="Checco Zalone Collection"/>
 			<S i="2dcd" f="4" s="1" t="1" n="Sky Cinema Comedy"/>
 			<S i="2dcf" f="4" s="1" t="1" n="Sky Cinema Drama"/>
 			<S i="2dd2" f="2" s="1" t="1" n="Sky Sport Collection"/>
@@ -1963,7 +1963,7 @@
 		</TS>
 		<TS id="2260" on="fbff" frq="12466000" inv="2" sr="29900000" fec="5" pol="1" mod="0" sys="1">
 			<S i="1fa7" f="4" s="1" t="1" n="Fox News"/>
-			<S i="2d00" f="4" s="1" t="19" n="Sky Atlantic +1 HD"/>
+			<S i="2d00" f="4" s="1" t="19" n="Sky Atlantic Gomorra HD"/>
 			<S i="2da1" f="2" s="1" t="19" n="PremiumCinema1 HD"/>
 			<S i="2da3" f="2" s="1" t="19" n="PremiumCinema2 HD"/>
 			<S i="2da4" f="4" s="1" t="19" n="Sky Serie HD"/>
@@ -2205,6 +2205,8 @@
 			<S i="ef11" f="4" s="1" t="19" n="VOX HD"/>
 			<S i="ef14" f="4" s="1" t="19" n="ntv HD"/>
 			<S i="ef15" f="4" s="1" t="19" n="RTLZWEI HD"/>
+			<S i="ef16" f="1" s="1" t="19" n="RTLup HD"/>
+			<S i="ef17" f="1" s="1" t="19" n="VOXup HD"/>
 		</TS>
 		<TS id="0422" on="0001" frq="10847000" inv="2" sr="22000000" fec="5" pol="1" mod="0" sys="0">
 			<S i="7596" f="4" s="0" t="1" n="RADIOS"/>
@@ -2575,7 +2577,7 @@
 			<S i="33ff" f="4" s="0" t="16" n="Aristo.TV"/>
 			<S i="3400" f="4" s="0" t="19" n="R9 Oesterreich HD"/>
 			<S i="3401" f="4" s="0" t="16" n="krone.tv"/>
-			<S i="3402" f="4" s="1" t="19" n="oe24.TV HD"/>
+			<S i="3402" f="4" s="0" t="19" n="oe24.TV HD"/>
 			<S i="3403" f="4" s="0" t="16" n="volksmusik"/>
 			<S i="3404" f="4" s="0" t="16" n="gotv neu"/>
 			<S i="3405" f="4" s="0" t="16" n="Melodie TV NEU"/>
@@ -2954,7 +2956,7 @@
 			<S i="22cb" f="4" s="1" t="19" n="DJAZZ"/>
 			<S i="22cc" f="4" s="0" t="c9" n="MULTISPORTS"/>
 			<S i="22cd" f="4" s="1" t="19" n="CANAL+"/>
-			<S i="22ce" f="4" s="1" t="19" n="CANAL+DOCS"/>
+			<S i="22ce" f="4" s="0" t="0" n="MOTORSPORT TV HD"/>
 			<S i="22cf" f="4" s="1" t="19" n="MUSEUM"/>
 			<S i="22d0" f="4" s="1" t="19" n="NICKELODEON JUNIOR"/>
 			<S i="22d1" f="4" s="1" t="19" n="MULTISPORTS 2"/>
