@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-	Datei erstellt am Dienstag, den 11.02.2022 15:15:00 [GMT]
+	Datei erstellt am Montag, den 28.02.2022 16:00:00 [GMT]
 -->
 <zapit api="4">
 	<sat name="19.2E Astra" position="192" diseqc="-1" uncommited="-1">
@@ -310,7 +310,7 @@
 		<TS id="0410" on="0001" frq="11068000" inv="2" sr="22000000" fec="5" pol="1" mod="0" sys="0">
 			<S i="7a48" f="4" s="0" t="1" n="Telesur SD"/>
 			<S i="7a49" f="4" s="0" t="19" n="Telesur HD"/>
-			<S i="7a4a" f="4" s="0" t="1" n="SENDER NEU JERUSALEM"/>
+			<S i="7a4a" f="4" s="0" t="16" n="SENDER NEU JERUSALEM"/>
 			<S i="7a4b" f="4" s="0" t="1" n="I24 Francis"/>
 			<S i="7a4c" f="4" s="0" t="1" n="SACHSEN EINS"/>
 		</TS>
@@ -371,7 +371,7 @@
 			<S i="7732" f="4" s="1" t="1" n="CRIMEN+INVES"/>
 			<S i="7733" f="4" s="1" t="1" n="M+ #VAMOS"/>
 			<S i="7734" f="4" s="1" t="1" n="M+ #VAMOS"/>
-			<S i="7736" f="4" s="1" t="1" n="M+ Los Goya"/>
+			<S i="7736" f="4" s="1" t="1" n="M+ Cine Español"/>
 			<S i="7738" f="4" s="1" t="1" n="24 HORAS"/>
 			<S i="7739" f="4" s="1" t="1" n="M+DEPORTES1"/>
 		</TS>
@@ -785,7 +785,7 @@
 			<S i="22cb" f="4" s="1" t="19" n="DJAZZ"/>
 			<S i="22cc" f="4" s="0" t="c9" n="MULTISPORTS"/>
 			<S i="22cd" f="4" s="1" t="19" n="CANAL+"/>
-			<S i="22ce" f="4" s="1" t="19" n="CANAL+DOCS"/>
+			<S i="22ce" f="4" s="0" t="0" n="MOTORSPORT TV HD"/>
 			<S i="22cf" f="4" s="1" t="19" n="MUSEUM"/>
 			<S i="22d0" f="4" s="1" t="19" n="NICKELODEON JUNIOR"/>
 			<S i="22d1" f="4" s="1" t="19" n="MULTISPORTS 2"/>
@@ -827,7 +827,7 @@
 			<S i="001b" f="4" s="1" t="16" n="Nicktoons"/>
 			<S i="0031" f="4" s="1" t="16" n="Spiegel TV Wissen"/>
 			<S i="006e" f="4" s="1" t="19" n="Sky Atlantic HD"/>
-			<S i="006f" f="4" s="1" t="19" n="Sky Cinema Special HD"/>
+			<S i="006f" f="4" s="1" t="19" n="Sky Cinema Mittelerde HD"/>
 			<S i="0070" f="4" s="1" t="19" n="NatGeo HD"/>
 			<S i="0072" f="4" s="1" t="19" n="Sky Sport 2 HD"/>
 			<S i="007f" f="4" s="1" t="19" n="13th Street HD"/>
@@ -1252,6 +1252,7 @@
 			<S i="1013" f="4" s="1" t="16" n="Bergblick"/>
 			<S i="101a" f="4" s="1" t="2" n="VRT Radio1"/>
 			<S i="101b" f="4" s="1" t="2" n="VRT Radio2"/>
+			<S i="101c" f="1" s="1" t="19" n="Test First"/>
 			<S i="101d" f="4" s="1" t="16" n="AXN Deutschland"/>
 			<S i="1034" f="4" s="1" t="16" n="Eleven Sports Pro League 1 FR"/>
 			<S i="103f" f="4" s="1" t="2" n="NRJ"/>
