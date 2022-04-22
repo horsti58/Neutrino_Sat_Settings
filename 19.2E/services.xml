@@ -183,16 +183,17 @@
 			<S i="7539" f="4" s="1" t="19" n="M+ESTRENOSHD"/>
 		</TS>
 		<TS id="000f" on="0085" frq="10921000" inv="2" sr="22000000" fec="7" pol="0" mod="0" sys="0">
-			<S i="0021" f="4" s="0" t="16" n="Genius family"/>
-			<S i="0023" f="4" s="0" t="1" n="Schlager Deluxe"/>
-			<S i="0025" f="4" s="0" t="16" n="unknown (0x000F_0x0025)"/>
-			<S i="0026" f="4" s="0" t="1" n="HGTV"/>
-			<S i="0027" f="4" s="0" t="19" n="unknown (0x000F_0x0027)"/>
-			<S i="0037" f="4" s="0" t="19" n="unknown (0x000F_0x0037)"/>
-			<S i="0038" f="4" s="0" t="1" n="unknown (0x000F_0x0038)"/>
-			<S i="0039" f="4" s="0" t="16" n="unknown (0x000F_0x0039)"/>
-			<S i="003a" f="4" s="0" t="16" n="unknown (0x000F_0x003A)"/>
-			<S i="003b" f="4" s="0" t="1" n="unknown (0x000F_0x003B)"/>
+			<S i="0021" n="Genius family" t="16" s="0" num="2848" f="4"/>
+			<S i="0022" n="AutoMotorSport HD temp" t="19" s="1" num="2834" f="1"/>
+			<S i="0023" n="Schlager Deluxe" t="1" s="0" num="72" f="4"/>
+			<S i="0025" n="unknown (0x000F_0x0025)" t="16" s="0" num="2827" f="4"/>
+			<S i="0026" n="HGTV" t="1" s="0" num="53" f="4"/>
+			<S i="0027" n="unknown (0x000F_0x0027)" t="19" s="0" num="2882" f="4"/>
+			<S i="0037" n="unknown (0x000F_0x0037)" t="19" s="0" num="3487" f="4"/>
+			<S i="0038" n="unknown (0x000F_0x0038)" t="1" s="0" num="2883" f="4"/>
+			<S i="0039" n="unknown (0x000F_0x0039)" t="16" s="0" num="2884" f="4"/>
+			<S i="003a" n="unknown (0x000F_0x003A)" t="16" s="0" num="2885" f="4"/>
+			<S i="003b" n="unknown (0x000F_0x003B)" t="1" s="0" num="2886" f="4"/>
 		</TS>
 		<TS id="0428" on="0001" frq="10936000" inv="2" sr="22000000" fec="2" pol="1" mod="9" sys="1">
 			<S i="7820" f="4" s="1" t="19" n="NICKELODEONHD"/>
