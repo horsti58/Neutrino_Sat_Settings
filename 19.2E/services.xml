@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-	Datei erstellt am Sonntag, den 15.05.2022 10:00:00 [GMT]
+	Datei erstellt am Sonntag, den 05.06.2022 10:00:00 [GMT]
 -->
 <zapit api="4">
 	<sat name="19.2E Astra" position="192" diseqc="-1" uncommited="-1">
@@ -309,7 +309,7 @@
 			<S i="28db" f="4" s="0" t="2" n="WDR Event"/>
 		</TS>
 		<TS id="0410" on="0001" frq="11068000" inv="2" sr="22000000" fec="5" pol="1" mod="0" sys="0">
-			<S i="7a47" f="1" s="0" t="19" n="Promo TSA"/>
+			<S i="7a47" f="4" s="0" t="19" n="Promo TSA"/>
 			<S i="7a48" f="4" s="0" t="1" n="Telesur SD"/>
 			<S i="7a49" f="4" s="0" t="19" n="Telesur HD"/>
 			<S i="7a4a" f="4" s="0" t="1" n="SENDER NEU JERUSALEM"/>
@@ -389,6 +389,14 @@
 			<S i="0153" f="4" s="1" t="19" n="Sky Sport Austria 3 HD"/>
 			<S i="0155" f="4" s="1" t="19" n="Prime Video Sportsbar"/>
 		</TS>
+		<TS id="0418" on="0001" frq="11186000" inv="2" sr="22000000" fec="2" pol="1" mod="9" sys="1">
+			<S i="10cc" f="4" s="1" t="19" n="SPORTDIGITAL FUSSBALL HD"/>
+			<S i="10cd" f="4" s="1" t="19" n="SPORT1+"/>
+			<S i="10ce" f="4" s="1" t="19" n="eSPORTS1"/>
+			<S i="10cf" f="4" s="1" t="19" n="EDGEsport"/>
+			<S i="10d0" f="4" s="1" t="19" n="WAIDWERK"/>
+			<S i="10d1" f="4" s="1" t="19" n="ClipMyHorse.TV"/>
+		</TS>
 		<TS id="03e9" on="0001" frq="11214000" inv="2" sr="22000000" fec="2" pol="0" mod="9" sys="1">
 			<S i="3459" f="4" s="1" t="1f" n="Service 13401"/>
 			<S i="345d" f="4" s="0" t="1" n="Service13405"/>
@@ -441,7 +449,7 @@
 			<S i="3401" f="4" s="0" t="16" n="krone.tv"/>
 			<S i="3402" f="4" s="0" t="19" n="oe24.TV HD"/>
 			<S i="3403" f="4" s="0" t="16" n="volksmusik"/>
-			<S i="3404" f="4" s="0" t="16" n="gotv neu"/>
+			<S i="3404" f="4" s="0" t="16" n="Stimmungsgarten TV"/>
 			<S i="3405" f="4" s="0" t="16" n="Melodie TV NEU"/>
 		</TS>
 		<TS id="03ee" on="0001" frq="11288000" inv="2" sr="22000000" fec="2" pol="1" mod="9" sys="1">
@@ -598,7 +606,7 @@
 			<S i="285b" f="4" s="0" t="19" n="phoenix HD"/>
 		</TS>
 		<TS id="0402" on="0001" frq="11597000" inv="2" sr="22000000" fec="5" pol="1" mod="0" sys="0">
-			<S i="2753" f="4" s="0" t="1" n="Bloomberg Europe TV"/>
+			<S i="2753" f="4" s="0" t="1" n="Bloomberg Europe TV_OLD_Please retune"/>
 			<S i="2760" f="4" s="0" t="1" n="Sonlife Broadcasting Network"/>
 			<S i="2762" f="4" s="0" t="1" n="Algerie 3"/>
 			<S i="2763" f="4" s="0" t="1" n="Canal Algerie"/>
@@ -793,7 +801,7 @@
 			<S i="22cb" f="4" s="1" t="19" n="DJAZZ"/>
 			<S i="22cc" f="4" s="0" t="c9" n="MULTISPORTS"/>
 			<S i="22cd" f="4" s="1" t="19" n="CANAL+"/>
-			<S i="22ce" f="4" s="1" t="19" n="CANAL+DOCS"/>
+			<S i="22ce" f="4" s="0" t="0" n="MOTORSPORT TV HD"/>
 			<S i="22cf" f="4" s="1" t="19" n="MUSEUM"/>
 			<S i="22d0" f="4" s="1" t="19" n="NICKELODEON JUNIOR"/>
 			<S i="22d1" f="4" s="1" t="19" n="MULTISPORTS 2"/>
@@ -836,7 +844,7 @@
 			<S i="001b" f="4" s="1" t="16" n="Nicktoons"/>
 			<S i="0031" f="4" s="1" t="16" n="Curiosity Channel powered by Spiegel"/>
 			<S i="006e" f="4" s="1" t="19" n="Sky Atlantic HD"/>
-			<S i="006f" f="4" s="1" t="19" n="Sky Cinema Special HD"/>
+			<S i="006f" f="4" s="1" t="19" n="Sky Cinema 007 HD"/>
 			<S i="0070" f="4" s="1" t="19" n="NatGeo HD"/>
 			<S i="0072" f="4" s="1" t="19" n="Sky Sport 2 HD"/>
 			<S i="007f" f="4" s="1" t="19" n="13th Street HD"/>
@@ -1262,7 +1270,7 @@
 			<S i="1013" f="4" s="1" t="16" n="Bergblick"/>
 			<S i="101a" f="4" s="1" t="2" n="VRT Radio1"/>
 			<S i="101b" f="4" s="1" t="2" n="VRT Radio2"/>
-			<S i="101c" f="4" s="1" t="19" n="CANALPLUS FIRST"/>
+			<S i="101c" f="4" s="1" t="19" n="Canal+ First HD"/>
 			<S i="101d" f="4" s="1" t="16" n="AXN Deutschland"/>
 			<S i="1034" f="4" s="1" t="16" n="Eleven Sports Pro League 1 FR"/>
 			<S i="103f" f="4" s="1" t="2" n="NRJ"/>
@@ -1311,6 +1319,7 @@
 		</TS>
 		<TS id="0457" on="0001" frq="12604000" inv="2" sr="22000000" fec="5" pol="0" mod="0" sys="0">
 			<S i="000d" f="4" s="0" t="81" n="ASTRA SDT"/>
+			<S i="1c20" f="1" s="0" t="1" n="Bloomberg Europe TV"/>
 			<S i="1c54" f="4" s="0" t="c" n="FP URMET"/>
 			<S i="1c63" f="4" s="0" t="c" n="STB Panasonic"/>
 			<S i="1c66" f="4" s="0" t="c" n="Datendienst T1M"/>
