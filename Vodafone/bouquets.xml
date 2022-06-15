@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-	Datei erstellt am Dienstag, den 15.02.2022 11:00:00 [GMT]
--->
 <zapit api="4">
 	<Bouquet name="[C384.2] ARD">
-		<S i="7034" t="41b" on="a401" s="3842" frq="3300" n="arte"/>
 		<S i="6dce" t="44d" on="a401" s="3842" frq="3140" n="BR Fernsehen Nord"/>
 		<S i="6dcb" t="44d" on="a401" s="3842" frq="3140" n="BR Fernsehen Süd"/>
 		<S i="6dca" t="44d" on="a401" s="3842" frq="3140" n="Das Erste"/>
@@ -70,6 +66,8 @@
 		<S i="b02d" t="1c3" on="270f" s="3842" frq="2340" n="COMEDY CENTRAL HD"/>
 		<S i="6210" t="83" on="270f" s="3842" frq="3460" n="Crime + Investigation"/>
 		<S i="db27" t="231" on="270f" s="3842" frq="2420" n="Crime + Investigation HD"/>
+		<S i="e6e6" t="24f" on="270f" s="3842" frq="3700" n="Curiosity Channel"/>
+		<S i="621b" t="1b9" on="270f" s="3842" frq="2260" n="Curiosity Channel HD"/>
 		<S i="ac4f" t="1b9" on="270f" s="3842" frq="2260" n="DAZN 1"/>
 		<S i="b034" t="1c3" on="270f" s="3842" frq="2340" n="DAZN 2"/>
 		<S i="69de" t="ab" on="270f" s="3842" frq="3060" n="DELUXE MUSIC"/>
@@ -127,7 +125,6 @@
 		<S i="7d67" t="141" on="270f" s="3842" frq="1460" n="kabel eins HD"/>
 		<S i="98bd" t="187" on="270f" s="3842" frq="1860" n="kabeleinsclassics HD"/>
 		<S i="5658" t="dd" on="270f" s="3842" frq="2900" n="Kanal 7"/>
-		<S i="e300" t="245" on="270f" s="3842" frq="2580" n="KAZAKH TV"/>
 		<S i="2b91" t="6f" on="270f" s="3842" frq="1220" n="KiKA HD"/>
 		<S i="3333" t="83" on="270f" s="3842" frq="3460" n="Kinowelt TV"/>
 		<S i="75a4" t="1a5" on="270f" s="3842" frq="2100" n="Kinowelt TV HD"/>
@@ -139,7 +136,6 @@
 		<S i="6241" t="fb" on="270f" s="3842" frq="6100" n="MBC Maghreb al Arabia"/>
 		<S i="df11" t="23b" on="270f" s="3842" frq="2500" n="MDR Thüringen HD"/>
 		<S i="42e4" t="ab" on="270f" s="3842" frq="3060" n="Mediaset"/>
-		<S i="e6e3" t="24f" on="270f" s="3842" frq="3700" n="Motorvision"/>
 		<S i="46c6" t="b5" on="270f" s="3842" frq="2820" n="MTV"/>
 		<S i="9ca7" t="6f" on="270f" s="3842" frq="1220" n="MTV HD"/>
 		<S i="5a4f" t="e7" on="270f" s="3842" frq="2660" n="N24 Doku"/>
@@ -153,6 +149,7 @@
 		<S i="3b15" t="97" on="270f" s="3842" frq="2980" n="NHK WORLD-JAPAN"/>
 		<S i="ac96" t="1b9" on="270f" s="3842" frq="2260" n="Nick"/>
 		<S i="ac4a" t="1b9" on="270f" s="3842" frq="2260" n="Nick HD"/>
+		<S i="2f54" t="79" on="270f" s="3842" frq="1140" n="Nick Jr. HD"/>
 		<S i="e6e7" t="24f" on="270f" s="3842" frq="3700" n="Nick.Jr."/>
 		<S i="75a2" t="b5" on="270f" s="3842" frq="2820" n="Nitro"/>
 		<S i="8151" t="14b" on="270f" s="3842" frq="1540" n="Nitro HD"/>
@@ -205,7 +202,6 @@
 		<S i="5a44" t="e7" on="270f" s="3842" frq="2660" n="RTR Planeta"/>
 		<S i="e6e5" t="24f" on="270f" s="3842" frq="3700" n="RTS Sat"/>
 		<S i="c3bf" t="1f5" on="270f" s="3842" frq="1780" n="RTV21"/>
-		<S i="a478" t="1a5" on="270f" s="3842" frq="2100" n="Russia Today"/>
 		<S i="2f46" t="a1" on="270f" s="3842" frq="3940" n="SAT.1"/>
 		<S i="3339" t="83" on="270f" s="3842" frq="3460" n="SAT.1 emotions"/>
 		<S i="7d6b" t="141" on="270f" s="3842" frq="1460" n="SAT.1 emotions HD"/>
@@ -219,14 +215,13 @@
 		<S i="e2fd" t="245" on="270f" s="3842" frq="2580" n="Silverline Movie Channel"/>
 		<S i="4e94" t="a1" on="270f" s="3842" frq="3940" n="SIXX"/>
 		<S i="7d68" t="141" on="270f" s="3842" frq="1460" n="sixx HD"/>
+		<S i="b035" t="1c3" on="270f" s="3842" frq="2340" n="Sky One HD"/>
 		<S i="42e2" t="ab" on="270f" s="3842" frq="3060" n="SonLife"/>
 		<S i="db25" t="231" on="270f" s="3842" frq="2420" n="Sonnenklar TV HD"/>
 		<S i="5e30" t="b5" on="270f" s="3842" frq="2820" n="sonnenklar.TV"/>
 		<S i="3335" t="83" on="270f" s="3842" frq="3460" n="SONY AXN"/>
 		<S i="9ca5" t="191" on="270f" s="3842" frq="1940" n="SONY AXN HD"/>
 		<S i="9ca9" t="191" on="270f" s="3842" frq="1940" n="SONY CHANNEL HD"/>
-		<S i="e6e6" t="24f" on="270f" s="3842" frq="3700" n="Spiegel TV Wissen"/>
-		<S i="621b" t="1b9" on="270f" s="3842" frq="2260" n="Spiegel TV Wissen HD"/>
 		<S i="a862" t="1af" on="270f" s="3842" frq="2180" n="SPORT1"/>
 		<S i="4e96" t="19b" on="270f" s="3842" frq="2020" n="Sport1 HD"/>
 		<S i="3b0c" t="97" on="270f" s="3842" frq="2980" n="Sport1+"/>
@@ -256,6 +251,7 @@
 		<S i="620e" t="b5" on="270f" s="3842" frq="2820" n="TV5MONDE Europe"/>
 		<S i="5a47" t="e7" on="270f" s="3842" frq="2660" n="TVE Internacional"/>
 		<S i="98c4" t="187" on="270f" s="3842" frq="1860" n="TVN 24"/>
+		<S i="e300" t="245" on="270f" s="3842" frq="2580" n="Ukraina 24"/>
 		<S i="2b92" t="6f" on="270f" s="3842" frq="1220" n="UNIVERSAL TV HD"/>
 		<S i="6264" t="fb" on="270f" s="3842" frq="6100" n="Vodafone TV"/>
 		<S i="2f48" t="a1" on="270f" s="3842" frq="3940" n="VOX"/>
@@ -309,8 +305,8 @@
 		<S i="85" t="1" on="85" s="3842" frq="3860" n="Beate Uhse HD"/>
 		<S i="dac" t="3" on="85" s="3842" frq="3620" n="BEM Service"/>
 		<S i="1c" t="4" on="85" s="3842" frq="3780" n="Boomerang"/>
-		<S i="144" t="3" on="85" s="3842" frq="3620" n="DAZN 1 Bar HD"/>
-		<S i="14f" t="4" on="85" s="3842" frq="3780" n="DAZN 2 Bar HD"/>
+		<S i="ac95" t="1b9" on="270f" s="3842" frq="2260" n="DAZN 1 (Sky)"/>
+		<S i="b07a" t="1c3" on="270f" s="3842" frq="2340" n="DAZN 2 (Sky)"/>
 		<S i="82" t="6" on="85" s="3842" frq="3540" n="Discovery HD"/>
 		<S i="10e" t="6" on="85" s="3842" frq="3540" n="Eurosport360HD 1"/>
 		<S i="118" t="d" on="85" s="3842" frq="1620" n="Eurosport360HD 2"/>
@@ -348,7 +344,6 @@
 		<S i="10" t="4" on="85" s="3842" frq="3780" n="Sky Documentaries HD"/>
 		<S i="17" t="1" on="85" s="3842" frq="3860" n="Sky Krimi HD"/>
 		<S i="f" t="4" on="85" s="3842" frq="3780" n="Sky Nature HD"/>
-		<S i="94" t="d" on="85" s="3842" frq="1620" n="Sky One HD"/>
 		<S i="93" t="d" on="85" s="3842" frq="1620" n="Sky One HD"/>
 		<S i="7c" t="6" on="85" s="3842" frq="3540" n="Sky Replay HD"/>
 		<S i="81" t="6" on="85" s="3842" frq="3540" n="Sky Sport 1 HD"/>
@@ -397,10 +392,13 @@
 		<S i="6d71" t="437" on="66" s="3842" frq="3380" n="Dlf Nova"/>
 	</Bouquet>
 	<Bouquet name="[C384.2] Unitymedia - STINGRAY MUSIC">
-		<S i="6245" t="fb" on="270f" s="3842" frq="6100" n="2000er"/>
+		<S i="6245" t="fb" on="270f" s="3842" frq="6100" n="2000er Hits"/>
+		<S i="2b89" t="8d" on="270f" s="3842" frq="2740" n="60er &amp; 70er Hits"/>
 		<S i="2b8d" t="8d" on="270f" s="3842" frq="2740" n="80er"/>
+		<S i="624a" t="fb" on="270f" s="3842" frq="6100" n="80er &amp; 90er Hits"/>
 		<S i="2b8e" t="8d" on="270f" s="3842" frq="2740" n="90er"/>
 		<S i="3348" t="83" on="270f" s="3842" frq="3460" n="All Day Party"/>
+		<S i="3343" t="83" on="270f" s="3842" frq="3460" n="Alternative Deutschland"/>
 		<S i="2b88" t="8d" on="270f" s="3842" frq="2740" n="Arabisch"/>
 		<S i="3345" t="83" on="270f" s="3842" frq="3460" n="Bass Breaks &amp; Beats"/>
 		<S i="334b" t="83" on="270f" s="3842" frq="3460" n="Blues"/>
@@ -408,42 +406,39 @@
 		<S i="2b8f" t="8d" on="270f" s="3842" frq="2740" n="Chansons"/>
 		<S i="3346" t="83" on="270f" s="3842" frq="3460" n="Chillout"/>
 		<S i="2b8a" t="8d" on="270f" s="3842" frq="2740" n="Classic Calm"/>
-		<S i="2b90" t="8d" on="270f" s="3842" frq="2740" n="Classic Rock"/>
 		<S i="2b86" t="8d" on="270f" s="3842" frq="2740" n="Cocktail Lounge"/>
 		<S i="2b84" t="8d" on="270f" s="3842" frq="2740" n="Cool Jazz"/>
-		<S i="3344" t="83" on="270f" s="3842" frq="3460" n="Dancefloor Fillers"/>
+		<S i="3344" t="83" on="270f" s="3842" frq="3460" n="Dance Party"/>
 		<S i="6248" t="fb" on="270f" s="3842" frq="6100" n="Drive"/>
-		<S i="2b87" t="8d" on="270f" s="3842" frq="2740" n="Easy Listening Charts"/>
+		<S i="2b87" t="8d" on="270f" s="3842" frq="2740" n="Easy Listening Deutschland"/>
 		<S i="334a" t="83" on="270f" s="3842" frq="3460" n="Groove (Disco &amp; Funk)"/>
 		<S i="3342" t="83" on="270f" s="3842" frq="3460" n="Headbangers"/>
 		<S i="6251" t="fb" on="270f" s="3842" frq="6100" n="Heavy Metal"/>
 		<S i="334d" t="83" on="270f" s="3842" frq="3460" n="Hip Hop"/>
+		<S i="624d" t="fb" on="270f" s="3842" frq="6100" n="Hip-Hop Deutschland"/>
 		<S i="6246" t="fb" on="270f" s="3842" frq="6100" n="Hot Country"/>
 		<S i="334f" t="83" on="270f" s="3842" frq="3460" n="Independent Classics"/>
 		<S i="2b85" t="8d" on="270f" s="3842" frq="2740" n="Jazz Classics"/>
-		<S i="6247" t="fb" on="270f" s="3842" frq="6100" n="Kinder"/>
+		<S i="6247" t="fb" on="270f" s="3842" frq="6100" n="Kinderhits"/>
 		<S i="6243" t="fb" on="270f" s="3842" frq="6100" n="Klassik"/>
-		<S i="6244" t="fb" on="270f" s="3842" frq="6100" n="Klassik Sinfonie"/>
 		<S i="3349" t="83" on="270f" s="3842" frq="3460" n="Kuschelsongs"/>
 		<S i="2b82" t="8d" on="270f" s="3842" frq="2740" n="Latin"/>
 		<S i="6249" t="fb" on="270f" s="3842" frq="6100" n="New Age"/>
-		<S i="334c" t="83" on="270f" s="3842" frq="3460" n="R&apos;n&apos;B &amp; Soul Classic"/>
+		<S i="6244" t="fb" on="270f" s="3842" frq="6100" n="Orchestermusik"/>
 		<S i="334e" t="83" on="270f" s="3842" frq="3460" n="Reggae"/>
-		<S i="2b89" t="8d" on="270f" s="3842" frq="2740" n="Revival - 60er &amp; 70er"/>
-		<S i="624a" t="fb" on="270f" s="3842" frq="6100" n="Rewind - 80er &amp; 90er"/>
-		<S i="2b8b" t="8d" on="270f" s="3842" frq="2740" n="Rock &apos;n&apos; Roll"/>
+		<S i="2b8b" t="8d" on="270f" s="3842" frq="2740" n="Rock &apos;n&apos; Roll Oldies"/>
 		<S i="3341" t="83" on="270f" s="3842" frq="3460" n="Rock Hymnen"/>
+		<S i="2b90" t="8d" on="270f" s="3842" frq="2740" n="Rock of Ages"/>
 		<S i="624e" t="fb" on="270f" s="3842" frq="6100" n="Schlager"/>
 		<S i="3347" t="83" on="270f" s="3842" frq="3460" n="Sommer Hits"/>
-		<S i="3350" t="83" on="270f" s="3842" frq="3460" n="Stingray Special"/>
-		<S i="3343" t="83" on="270f" s="3842" frq="3460" n="The Alternative"/>
+		<S i="334c" t="83" on="270f" s="3842" frq="3460" n="Soul &amp; R&apos;n&apos;B"/>
+		<S i="3350" t="83" on="270f" s="3842" frq="3460" n="Specials"/>
 		<S i="624f" t="fb" on="270f" s="3842" frq="6100" n="Total Hits Deutschland"/>
 		<S i="624b" t="fb" on="270f" s="3842" frq="6100" n="Total Hits Frankreich"/>
 		<S i="6250" t="fb" on="270f" s="3842" frq="6100" n="Total Hits Italien"/>
 		<S i="2b8c" t="8d" on="270f" s="3842" frq="2740" n="Total Hits Polen"/>
 		<S i="624c" t="fb" on="270f" s="3842" frq="6100" n="Total Hits Russland"/>
 		<S i="2b81" t="8d" on="270f" s="3842" frq="2740" n="Turk Muzigi"/>
-		<S i="624d" t="fb" on="270f" s="3842" frq="6100" n="Urban"/>
 		<S i="2b83" t="8d" on="270f" s="3842" frq="2740" n="Volksmusik"/>
 	</Bouquet>
 	<Bouquet name="[C384.2] ARD BR">
@@ -507,9 +502,9 @@
 	<Bouquet name="[C384.2] ARD rbb">
 		<S i="28f6" t="431" on="a401" s="3842" frq="3220" n="Antenne Brbg."/>
 		<S i="28f9" t="431" on="a401" s="3842" frq="3220" n="Fritz"/>
-		<S i="28f4" t="431" on="a401" s="3842" frq="3220" n="Inforadio"/>
 		<S i="28f8" t="431" on="a401" s="3842" frq="3220" n="radioeins"/>
 		<S i="28f7" t="431" on="a401" s="3842" frq="3220" n="rbb 88.8"/>
+		<S i="28f4" t="431" on="a401" s="3842" frq="3220" n="rbb24 Inforadio"/>
 		<S i="28f5" t="431" on="a401" s="3842" frq="3220" n="rbbKultur"/>
 	</Bouquet>
 	<Bouquet name="[C384.2] ARD NDR">
