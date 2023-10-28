@@ -21,4 +21,4 @@ FEC 5/6     fec_inner="4"
 QPSK        modulation="1"
 8PSK        modulation="2"
 
-11.10.2022
+28.10.2023
