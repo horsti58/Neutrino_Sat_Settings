@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-	Datei erstellt am Freitag, den 17.05.2024 11:00:00 [GMT]
+	Datei erstellt am Freitag, den 31.05.2024 15:00:00 [GMT]
 -->
 <zapit api="4">
 	<sat name="19.2E Astra" position="192" diseqc="-1" uncommited="-1">
-		<TS id="041c" on="0001" frq="10758000" inv="2" sr="22000000" fec="2" pol="1" mod="9" sys="1">
+		<TS id="041c" on="0001" frq="10759000" inv="2" sr="22000000" fec="2" pol="1" mod="9" sys="1">
 			<S i="749a" f="4" s="1" t="19" n="Movistar Plus+ HD"/>
 			<S i="749b" f="4" s="1" t="19" n="LALIGA TV HYPERMOTION"/>
 			<S i="749d" f="4" s="1" t="19" n="DAZN LALIGA 2 HD"/>
@@ -33,7 +33,7 @@
 			<S i="7691" f="4" s="1" t="1" n="DAZN LALIGA 2"/>
 			<S i="7692" f="4" s="1" t="1" n="MULTIDEPORTE"/>
 			<S i="7695" f="4" s="1" t="1" n="ALQUILER XY"/>
-			<S i="7696" f="4" s="1" t="1" n="M+ Suspense"/>
+			<S i="7696" f="4" s="1" t="1" n="TEST_SUS"/>
 			<S i="7697" f="4" s="1" t="1" n="NICK JR"/>
 			<S i="7699" f="4" s="1" t="1" n="MEZZO"/>
 			<S i="769a" f="4" s="1" t="1" n="LALIGA TV BAR 3"/>
@@ -58,7 +58,7 @@
 		</TS>
 		<TS id="0420" on="0001" frq="10818000" inv="2" sr="22000000" fec="2" pol="1" mod="9" sys="1">
 			<S i="74ff" f="4" s="1" t="19" n="LALIGA TV BAR HD"/>
-			<S i="7504" f="4" s="1" t="19" n="M+ Suspense HD"/>
+			<S i="7504" f="4" s="1" t="19" n="TEST_SUSHD"/>
 			<S i="7508" f="4" s="1" t="19" n="M+ VAMOSHD"/>
 			<S i="7509" f="4" s="1" t="19" n="M+ ACCIÓN HD"/>
 			<S i="750a" f="4" s="1" t="19" n="M+ VAMOSHD"/>
@@ -175,7 +175,7 @@
 		</TS>
 		<TS id="0428" on="0001" frq="10936000" inv="2" sr="22000000" fec="5" pol="1" mod="0" sys="0">
 			<S i="7820" f="4" s="1" t="1" n="LALIGA TV BAR 9"/>
-			<S i="7821" f="4" s="1" t="1" n="TEST HYPER 6"/>
+			<S i="7821" f="4" s="1" t="1" n="LALIGA TV HYPERMOTION 6"/>
 			<S i="7822" f="4" s="1" t="1" n="LALIGA TV BAR 5"/>
 			<S i="7824" f="4" s="1" t="1" n="LALIGA TV BAR 6"/>
 			<S i="7825" f="4" s="1" t="1" n="LALIGA TV HYPERMOTION"/>
@@ -218,7 +218,7 @@
 		</TS>
 		<TS id="040b" on="0001" frq="10994000" inv="2" sr="22000000" fec="5" pol="0" mod="9" sys="1">
 			<S i="0001" f="4" s="0" t="1f" n="SES UHD Demo Channel"/>
-			<S i="0002" f="4" s="0" t="1f" n="UHD1 by ASTRA / HD+"/>
+			<S i="0002" f="4" s="1" t="1f" n="UHD1 by ASTRA / HD+"/>
 			<S i="0003" f="4" s="0" t="1f" n="SES UHD Demo Channel 02"/>
 			<S i="0004" f="4" s="0" t="1f" n="SES UHD Demo Channel 03"/>
 			<S i="0005" f="4" s="0" t="1f" n="SES UHD Demo Channel 04"/>
@@ -298,7 +298,7 @@
 		<TS id="0410" on="0001" frq="11068000" inv="2" sr="22000000" fec="5" pol="1" mod="0" sys="0">
 			<S i="7a48" f="4" s="0" t="1" n="Die Neue Zeit TV"/>
 			<S i="7a49" f="4" s="0" t="19" n="Telesur HD"/>
-			<S i="7a4a" f="4" s="0" t="16" n="SENDER NEU JERUSALEM"/>
+			<S i="7a4a" f="4" s="0" t="1" n="SENDER NEU JERUSALEM"/>
 			<S i="7a4c" f="4" s="0" t="1" n="SACHSEN EINS"/>
 		</TS>
 		<TS id="0411" on="0001" frq="11082000" inv="2" sr="22000000" fec="3" pol="0" mod="9" sys="1">
@@ -319,7 +319,7 @@
 			<S i="7577" f="4" s="1" t="1" n="CLASSICA"/>
 			<S i="7579" f="4" s="1" t="1" n="Movistar Plus+ 2"/>
 			<S i="757b" f="4" s="1" t="1" n="M+LCAMPEONES"/>
-			<S i="757f" f="4" s="1" t="1" n="M+ Música"/>
+			<S i="757f" f="4" s="1" t="1" n="TEST_MUS"/>
 			<S i="7582" f="4" s="1" t="1" n="DAZN 2 BAR"/>
 			<S i="7584" f="4" s="1" t="1" n="M+ LALIGA TV 6"/>
 			<S i="7587" f="4" s="1" t="1" n="NEOX"/>
@@ -336,16 +336,18 @@
 		</TS>
 		<TS id="0414" on="0001" frq="11127000" inv="2" sr="22000000" fec="5" pol="1" mod="0" sys="0">
 			<S i="7882" f="4" s="1" t="1" n="M+ LALIGA TV 4"/>
-			<S i="7884" f="4" s="1" t="1" n="TEST HY 4"/>
+			<S i="7884" f="4" s="1" t="1" n="LALIGA TV HYPERMOTION 4"/>
 			<S i="7885" f="4" s="1" t="1" n="M+ClintEastwood"/>
 			<S i="7888" f="4" s="1" t="1" n="BOING"/>
 			<S i="7889" f="4" s="1" t="1" n="ENERGY"/>
 			<S i="788b" f="4" s="1" t="1" n="DIVINITY"/>
-			<S i="788c" f="4" s="1" t="1" n="TEST HY 5"/>
-			<S i="788d" f="4" s="1" t="1" n="DAZN LALIGA 5"/>
+			<S i="788c" f="4" s="1" t="1" n="LALIGA TV HYPERMOTION 5"/>
+			<S i="788d" f="4" s="1" t="1" n="LALIGA TV HYPERMOTION 7"/>
 			<S i="788f" f="4" s="1" t="1" n="MTV ESPAÑA"/>
 			<S i="7890" f="4" s="1" t="1" n="GOL PLAY"/>
 			<S i="7891" f="4" s="1" t="1" n="BE MAD"/>
+			<S i="7892" f="4" s="0" t="1" n="TEST EURO7"/>
+			<S i="7893" f="1" s="0" t="1" n="TEST EURO8"/>
 		</TS>
 		<TS id="0416" on="0001" frq="11156000" inv="2" sr="22000000" fec="5" pol="1" mod="0" sys="0">
 			<S i="7729" f="4" s="0" t="1" n="CANAL SUR A."/>
@@ -391,7 +393,7 @@
 			<S i="1389" f="4" s="0" t="1" n="BBC News"/>
 			<S i="139d" f="4" s="0" t="19" n="NHK WORLD-JPN"/>
 			<S i="13a7" f="4" s="0" t="19" n="Al Jazeera English HD"/>
-			<S i="13b1" f="4" s="0" t="1" n="TVRI WORLD"/>
+			<S i="13b1" f="2" s="0" t="1" n="TVRI WORLD"/>
 		</TS>
 		<TS id="03eb" on="0001" frq="11244000" inv="2" sr="22000000" fec="5" pol="0" mod="0" sys="0">
 			<S i="33a5" f="4" s="1" t="1" n="ORF SPORT+"/>
@@ -477,7 +479,7 @@
 			<S i="2b7a" f="4" s="0" t="19" n="zdf_neo HD"/>
 		</TS>
 		<TS id="03f4" on="0003" frq="11377000" inv="2" sr="22000000" fec="2" pol="1" mod="9" sys="1">
-			<S i="18f0" f="4" s="0" t="1" n="EXTREMADURA SAT"/>
+			<S i="18f0" f="2" s="0" t="1" n="EXTREMADURA SAT"/>
 			<S i="18f1" f="4" s="0" t="1" n="TVGA EUROPA HD"/>
 			<S i="18f2" f="4" s="0" t="2" n="RADIO GALEGA"/>
 			<S i="18f3" f="4" s="0" t="2" n="RADIO GALEGA MUSICA"/>
@@ -580,9 +582,6 @@
 			<S i="2859" f="4" s="0" t="19" n="NDR FS HH HD"/>
 			<S i="285a" f="4" s="0" t="19" n="NDR FS SH HD"/>
 			<S i="285b" f="4" s="0" t="19" n="phoenix HD"/>
-		</TS>
-		<TS id="0020" on="00eb" frq="11599000" inv="2" sr="4800000" fec="3" pol="1" mod="9" sys="1">
-			<S i="0001" f="4" s="0" t="0" n="D233"/>
 		</TS>
 		<TS id="0407" on="0001" frq="11671000" inv="2" sr="22000000" fec="2" pol="0" mod="9" sys="1">
 			<S i="14b4" f="4" s="1" t="19" n="SAT.1 HD Austria"/>
@@ -834,6 +833,7 @@
 			<S i="00a0" f="4" s="0" t="2" n="ROCK ANTENNE"/>
 			<S i="00a9" f="4" s="0" t="2" n="sunshine live"/>
 			<S i="00aa" f="4" s="0" t="2" n="ANTENNE BAYERN"/>
+			<S i="00b4" f="4" s="0" t="2" n="OLDIE ANTENNE"/>
 			<S i="0202" f="4" s="0" t="1" n="Immer etwas Neues TV"/>
 			<S i="02fd" f="4" s="0" t="1" n="pearl.tv Shop"/>
 			<S i="0300" f="4" s="0" t="1" n="unknown (0x0007_0x0300)"/>
@@ -963,6 +963,7 @@
 		</TS>
 		<TS id="0448" on="0001" frq="12324000" inv="2" sr="29700000" fec="2" pol="1" mod="9" sys="1">
 			<S i="2199" f="4" s="1" t="19" n="NICKELODEON"/>
+			<S i="219a" f="4" s="1" t="1f" n="EVENEMENT SPORT UHD HDR"/>
 			<S i="219e" f="4" s="1" t="1" n="F3 PICARDIE"/>
 			<S i="21a0" f="4" s="1" t="1" n="F3 FRANCHE COMTE"/>
 			<S i="21a1" f="4" s="1" t="1" n="F3 BOURGOGNE"/>
@@ -1192,7 +1193,7 @@
 			<S i="6f78" f="4" s="0" t="1" n="WDR Bonn"/>
 			<S i="6f79" f="4" s="0" t="1" n="WDR Duisburg"/>
 		</TS>
-		<TS id="0458" on="0001" frq="12610000" inv="2" sr="22000000" fec="3" pol="1" mod="9" sys="1">
+		<TS id="0458" on="0001" frq="12611000" inv="2" sr="22000000" fec="3" pol="1" mod="9" sys="1">
 			<S i="2936" f="4" s="0" t="1" n="Xplore"/>
 			<S i="2937" f="4" s="0" t="1" n="Hip Trips"/>
 			<S i="2938" f="4" s="0" t="1" n="One Terra"/>
@@ -1310,13 +1311,13 @@
 			<S i="32dd" f="4" s="0" t="16" n="ntv Austria"/>
 			<S i="32df" f="4" s="0" t="16" n="TV1 OOE NEU"/>
 		</TS>
-		<TS id="0460" on="0001" frq="12728000" inv="2" sr="23500000" fec="2" pol="1" mod="9" sys="1">
+		<TS id="0460" on="0001" frq="12729000" inv="2" sr="23500000" fec="2" pol="1" mod="9" sys="1">
 			<S i="2649" f="4" s="1" t="1" n="F3 BNORMANDIE"/>
 			<S i="264a" f="4" s="1" t="1" n="F3 PAYS DE LA LOIRE"/>
 			<S i="264b" f="4" s="1" t="1" n="F3 COTE D'AZUR"/>
 			<S i="264c" f="4" s="1" t="1" n="F3 CENTRE"/>
 			<S i="2661" f="4" s="1" t="1f" n="CANAL+"/>
-			<S i="2662" f="4" s="1" t="1f" n="EVENEMENT SPORT 4K UHD"/>
+			<S i="2662" f="2" s="1" t="1f" n="EVENEMENT SPORT 4K UHD"/>
 		</TS>
 	</sat>
 </zapit>
