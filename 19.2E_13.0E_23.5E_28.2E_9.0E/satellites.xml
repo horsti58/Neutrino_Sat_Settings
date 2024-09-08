@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-	Datei erstellt am Mittwoch, den 07.08.2024 14:00:00 [GMT]
+	Datei erstellt am Sonntag, den 08.09.2024 12:00:00 [GMT]
 -->
 <satellites>
 	<sat name="9.0E Eutelsat" flags="1" position="90">
@@ -326,6 +326,10 @@
 		<transponder frequency="12344000" symbol_rate="29900000" polarization="0" fec_inner="3" system="1" modulation="2"/>
 		<transponder frequency="12363000" symbol_rate="29500000" polarization="1" fec_inner="3" system="1" modulation="2"/>
 		<transponder frequency="12402000" symbol_rate="30000000" polarization="1" fec_inner="3" system="1" modulation="2"/>
+        <transponder frequency="12422000" symbol_rate="30000000" polarization="0" fec_inner="3" system="1" modulation="2"/>
+		<transponder frequency="12441000" symbol_rate="30000000" polarization="1" fec_inner="3" system="1" modulation="2"/>
+        <transponder frequency="12460000" symbol_rate="30000000" polarization="0" fec_inner="3" system="1" modulation="2"/>
+		<transponder frequency="12480000" symbol_rate="30000000" polarization="1" fec_inner="3" system="1" modulation="2"/>
 		<transponder frequency="12511000" symbol_rate="7200000" polarization="1" fec_inner="3" system="1" modulation="2"/>
 		<transponder frequency="12519000" symbol_rate="6975000" polarization="1" fec_inner="4" system="1" modulation="2"/>
 		<transponder frequency="12530000" symbol_rate="7200000" polarization="1" fec_inner="3" system="1" modulation="2"/>
