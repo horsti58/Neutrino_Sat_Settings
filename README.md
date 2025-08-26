@@ -20,3 +20,4 @@ QPSK        modulation="1"
 8PSK        modulation="2"
 
 26.08.2025
+horsti58
