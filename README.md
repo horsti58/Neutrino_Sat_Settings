@@ -19,5 +19,5 @@ FEC 5/6     fec_inner="4"
 QPSK        modulation="1"
 8PSK        modulation="2"
 
-26.08.2025
+05.09.2025
 horsti58
